@@ -28,11 +28,8 @@ def count_lower_case_specific_script(word, s):
         count += 1
     return count
 
-def count_specific_letter(words):
-    results = []
-    for s in words:
-        results.append(s.lower().count('a'))
-    return results
+def count_specific_letter_script(words, letter):
+    return words.lower().count(letter)
 
 
 
