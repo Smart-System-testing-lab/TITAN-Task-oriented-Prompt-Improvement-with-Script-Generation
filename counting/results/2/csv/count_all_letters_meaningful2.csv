@@ -1,0 +1,401 @@
+,all_data,gpt,counts,script,gpt_script
+0,gravedigger,"gravedigger : 11; [g, r, a, v, e, d, i, g, g, e, r]",11,11,11
+1,situation,"situation : 9; [s, i, t, u, a, t, i, o, n]",9,9,9
+2,send,"send : 4; [s, e, n, d]",4,4,4
+3,went,"went : 4; [w, e, n, t]",4,4,4
+4,century,"century : 7; [c, e, n, t, u, r, y]",7,7,7
+5,contain,"contain : 7; [c, o, n, t, a, i, n]",7,7,7
+6,abrogate,"abrogate : 8; [a, b, r, o, g, a, t, e]",8,8,8
+7,important,"important : 9; [i, m, p, o, r, t, a, n, t]",9,9,9
+8,old,"old : 3; [o, l, d]",3,3,3
+9,interrupts,"interrupts : 10; [i, n, t, e, r, r, u, p, t, s]",10,10,10
+10,describe,"describe : 8; [d, e, s, c, r, i, b, e]",8,8,8
+11,There,"There : 5; [T, h, e, r, e]",5,5,5
+12,too,"too : 3; [t, o, o]",3,3,3
+13,particular,"particular : 10; [p, a, r, t, i, c, u, l, a, r]",10,10,10
+14,Middle,"Middle : 6; [M, i, d, d, l, e]",6,6,6
+15,alterations,"alterations : 11; [a, l, t, e, r, a, t, i, o, n, s]",11,11,11
+16,observed,"observed : 8; [o, b, s, e, r, v, e, d]",8,8,8
+17,contains,"contains : 8; [c, o, n, t, a, i, n, s]",8,8,8
+18,Minicules,"Minicules : 9; [M, i, n, i, c, u, l, e, s]",9,9,9
+19,cultures,"cultures : 8; [c, u, l, t, u, r, e, s]",8,8,8
+20,have,"have : 4; [h, a, v, e]",4,4,4
+21,summons,"summons : 7; [s, u, m, m, o, n, s]",7,7,7
+22,well,"well : 4; [w, e, l, l]",4,4,4
+23,"""fighting","fighting : 8; [f, i, g, h, t, i, n, g]",8,9,9
+24,theme,"theme : 5; [t, h, e, m, e]",5,5,5
+25,recently-deceased,"recently-deceased : 17; [r, e, c, e, n, t, l, y, -, d, e, c, e, a, s, e, d]",17,17,17
+26,army,"army : 4; [a, r, m, y]",4,4,4
+27,poems,"poems : 5; [p, o, e, m, s]",5,5,5
+28,I,I : 1; [I],1,1,1
+29,sent,"sent : 4; [s, e, n, t]",4,4,4
+30,just,"just : 4; [j, u, s, t]",4,4,4
+31,brother,"brother : 7; [b, r, o, t, h, e, r]",7,7,7
+32,characteristics,"characteristics : 15; [c, h, a, r, a, c, t, e, r, i, s, t, i, c, s]",15,15,15
+33,Monomyth,"Monomyth : 8; [M, o, n, o, m, y, t, h]",8,8,8
+34,peculiar,"peculiar : 8; [p, e, c, u, l, i, a, r]",8,8,8
+35,Elsewhere,"Elsewhere : 9; [E, l, s, e, w, h, e, r, e]",9,9,9
+36,stylized,"stylized : 8; [s, t, y, l, i, z, e, d]",8,8,8
+37,says,"says : 4; [s, a, y, s]",4,4,4
+38,talk,"talk : 4; [t, a, l, k]",4,4,4
+39,"""retainer""","retainer : 8; [r, e, t, a, i, n, e, r]",8,10,10
+40,lack,"lack : 4; [l, a, c, k]",4,4,4
+41,script,"script : 6; [s, c, r, i, p, t]",6,6,6
+42,island,"island : 6; [i, s, l, a, n, d]",6,6,6
+43,K,K : 1; [K],1,1,1
+44,swimming,"swimming : 8; [s, w, i, m, m, i, n, g]",8,8,8
+45,act,"act : 3; [a, c, t]",3,3,3
+46,spy,"spy : 3; [s, p, y]",3,3,3
+47,desolate,"desolate : 8; [d, e, s, o, l, a, t, e]",8,8,8
+48,resembles,"resembles : 9; [r, e, s, e, m, b, l, e, s]",9,9,9
+49,explained,"explained : 9; [e, x, p, l, a, i, n, e, d]",9,9,9
+50,coincides,"coincides : 9; [c, o, i, n, c, i, d, e, s]",9,9,9
+51,was,"was : 3; [w, a, s]",3,3,3
+52,date,"date : 4; [d, a, t, e]",4,4,4
+53,Polish,"Polish : 6; [P, o, l, i, s, h]",6,6,6
+54,Ghost,"Ghost : 5; [G, h, o, s, t]",5,5,5
+55,became,"became : 6; [b, e, c, a, m, e]",6,6,6
+56,these,"these : 5; [t, h, e, s, e]",5,5,5
+57,commencement,"commencement : 12; [c, o, m, m, e, n, c, e, m, e, n, t]",12,12,12
+58,Although,"Although : 8; [A, l, t, h, o, u, g, h]",8,8,8
+59,would,"would : 5; [w, o, u, l, d]",5,5,5
+60,They,"They : 4; [T, h, e, y]",4,4,4
+61,one,"one : 3; [o, n, e]",3,3,3
+62,while,"while : 5; [w, h, i, l, e]",5,5,5
+63,and,"and : 3; [a, n, d]",3,3,3
+64,When,"When : 4; [W, h, e, n]",4,4,4
+65,attack,"attack : 6; [a, t, t, a, c, k]",6,6,6
+66,be,"be : 2; [b, e]",2,2,2
+67,plot,"plot : 4; [p, l, o, t]",4,4,4
+68,friends,"friends : 7; [f, r, i, e, n, d, s]",7,7,7
+69,lights,"lights : 6; [l, i, g, h, t, s]",6,6,6
+70,present,"present : 7; [p, r, e, s, e, n, t]",7,7,7
+71,adopted,"adopted : 7; [a, d, o, p, t, e, d]",7,7,7
+72,Benson,"Benson : 6; [B, e, n, s, o, n]",6,6,6
+73,married,"married : 7; [m, a, r, r, i, e, d]",7,7,7
+74,already,"already : 7; [a, l, r, e, a, d, y]",7,7,7
+75,before,"before : 6; [b, e, f, o, r, e]",6,6,6
+76,way,"way : 3; [w, a, y]",3,3,3
+77,mourn,"mourn : 5; [m, o, u, r, n]",5,5,5
+78,cup,"cup : 3; [c, u, p]",3,3,3
+79,begins,"begins : 6; [b, e, g, i, n, s]",6,6,6
+80,protect,"protect : 7; [p, r, o, t, e, c, t]",7,7,7
+81,night,"night : 5; [n, i, g, h, t]",5,5,5
+82,or,"or : 2; [o, r]",2,2,2
+83,poetry,"poetry : 6; [p, o, e, t, r, y]",6,6,6
+84,even,"even : 4; [e, v, e, n]",4,4,4
+85,along,"along : 5; [a, l, o, n, g]",5,5,5
+86,more,"more : 4; [m, o, r, e]",4,4,4
+87,reasons,"reasons : 7; [r, e, a, s, o, n, s]",7,7,7
+88,harp,"harp : 4; [h, a, r, p]",4,4,4
+89,argues,"argues : 6; [a, r, g, u, e, s]",6,6,6
+90,"cliffs""","cliffs : 6; [c, l, i, f, f, s]",6,7,7
+91,abnegation,"abnegation : 10; [a, b, n, e, g, a, t, i, o, n]",10,10,10
+92,their,"their : 5; [t, h, e, i, r]",5,5,5
+93,royal,"royal : 5; [r, o, y, a, l]",5,5,5
+94,rather,"rather : 6; [r, a, t, h, e, r]",6,6,6
+95,themes,"themes : 6; [t, h, e, m, e, s]",6,6,6
+96,found,"found : 5; [f, o, u, n, d]",5,5,5
+97,literary,"literary : 8; [l, i, t, e, r, a, r, y]",8,8,8
+98,lines,"lines : 5; [l, i, n, e, s]",5,5,5
+99,A,A : 1; [A],1,1,1
+100,calling,"calling : 7; [c, a, l, l, i, n, g]",7,7,7
+101,Most,"Most : 4; [M, o, s, t]",4,4,4
+102,were,"were : 4; [w, e, r, e]",4,4,4
+103,prosody,"prosody : 7; [p, r, o, s, o, d, y]",7,7,7
+104,He,"He : 2; [H, e]",2,2,2
+105,reacts,"reacts : 7; [r, e, a, c, t, s]",7,6,6
+106,wily,"wily : 4; [w, i, l, y]",4,4,4
+107,"rigor""","rigor : 5; [r, i, g, o, r]",5,6,6
+108,known,"known : 5; [k, n, o, w, n]",5,5,5
+109,arguing,"arguing : 7; [a, r, g, u, i, n, g]",7,7,7
+110,fearing,"fearing : 7; [f, e, a, r, i, n, g]",7,7,7
+111,been,"been : 4; [b, e, e, n]",4,4,4
+112,article,"article : 7; [a, r, t, i, c, l, e]",7,7,7
+113,strangely,"strangely : 9; [s, t, r, a, n, g, e, l, y]",9,9,9
+114,text,"text : 4; [t, e, x, t]",4,4,4
+115,One,"One : 3; [O, n, e]",3,3,3
+116,margins,"margins : 7; [m, a, r, g, i, n, s]",7,7,7
+117,new,"new : 3; [n, e, w]",3,3,3
+118,meets,"meets : 5; [m, e, e, t, s]",5,5,5
+119,winsome,"winsome : 7; [w, i, n, s, o, m, e]",7,7,7
+120,any,"any : 3; [a, n, y]",3,3,3
+121,pray,"pray : 4; [p, r, a, y]",4,4,4
+122,castle,"castle : 6; [c, a, s, t, l, e]",6,6,6
+123,graveyard,"graveyard : 9; [g, r, a, v, e, y, a, r, d]",9,9,9
+124,appearance,"appearance : 10; [a, p, p, e, a, r, a, n, c, e]",10,10,10
+125,but,"but : 3; [b, u, t]",3,3,3
+126,mother,"mother : 6; [m, o, t, h, e, r]",6,6,6
+127,used,"used : 4; [u, s, e, d]",4,4,4
+128,Germanic,"Germanic : 8; [G, e, r, m, a, n, i, c]",8,8,8
+129,point,"point : 5; [p, o, i, n, t]",5,5,5
+130,wants,"wants : 5; [w, a, n, t, s]",5,5,5
+131,monster,"monster : 7; [m, o, n, s, t, e, r]",7,7,7
+132,stock,"stock : 5; [s, t, o, c, k]",5,5,5
+133,thought,"thought : 7; [t, h, o, u, g, h, t]",7,7,7
+134,influenced,"influenced : 10; [i, n, f, l, u, e, n, c, e, d]",10,10,10
+135,may,"may : 3; [m, a, y]",3,3,3
+136,subject,"subject : 7; [s, u, b, j, e, c, t]",7,7,7
+137,arranged,"arranged : 8; [a, r, r, a, n, g, e, d]",8,8,8
+138,Lord's,"Lord's : 6; [L, o, r, d, ', s]",6,6,6
+139,heavy,"heavy : 5; [h, e, a, v, y]",5,5,5
+140,D,D : 1; [D],1,1,1
+141,killed,"killed : 6; [k, i, l, l, e, d]",6,6,6
+142,Foley's,"Foley's : 7; [F, o, l, e, y, ', s]",7,7,7
+143,traditional,"traditional : 11; [t, r, a, d, i, t, i, o, n, a, l]",11,11,11
+144,Insular,"Insular : 7; [I, n, s, u, l, a, r]",7,7,7
+145,why,"why : 3; [w, h, y]",3,3,3
+146,human,"human : 5; [h, u, m, a, n]",5,5,5
+147,unusual,"unusual : 7; [u, n, u, s, u, a, l]",7,7,7
+148,contemporary,"contemporary : 12; [c, o, n, t, e, m, p, o, r, a, r, y]",12,12,12
+149,awry,"awry : 4; [a, w, r, y]",4,4,4
+150,seeks,"seeks : 5; [s, e, e, k, s]",5,5,5
+151,by,"by : 2; [b, y]",2,2,2
+152,unwittingly,"unwittingly : 11; [u, n, w, i, t, t, i, n, g, l, y]",11,11,11
+153,Poetry,"Poetry : 6; [P, o, e, t, r, y]",6,6,6
+154,hides,"hides : 5; [h, i, d, e, s]",5,5,5
+155,as,"as : 2; [a, s]",2,2,2
+156,That,"That : 4; [T, h, a, t]",4,4,4
+157,has,"has : 3; [h, a, s]",3,3,3
+158,Francis,"Francis : 7; [F, r, a, n, c, i, s]",7,7,7
+159,Accompany,"Accompany : 9; [A, c, c, o, m, p, a, n, y]",9,9,9
+160,met,"met : 3; [m, e, t]",3,3,3
+161,Rejected,"Rejected : 8; [R, e, j, e, c, t, e, d]",8,8,8
+162,sudden,"sudden : 6; [s, u, d, d, e, n]",6,6,6
+163,characterized,"characterized : 12; [c, h, a, r, a, c, t, e, r, i, z, e, d]",12,13,13
+164,theory,"theory : 6; [t, h, e, o, r, y]",6,6,6
+165,documented,"documented : 10; [d, o, c, u, m, e, n, t, e, d]",10,10,10
+166,wars,"wars : 4; [w, a, r, s]",4,4,4
+167,know,"know : 4; [k, n, o, w]",4,4,4
+168,with,"with : 4; [w, i, t, h]",4,4,4
+169,plans,"plans : 5; [p, l, a, n, s]",5,5,5
+170,proposed,"proposed : 8; [p, r, o, p, o, s, e, d]",8,8,8
+171,Fortinbras,"Fortinbras : 10; [F, o, r, t, i, n, b, r, a, s]",10,10,10
+172,"heroes""","heroes : 6; [h, e, r, o, e, s]",6,7,7
+173,annotations,"annotations : 11; [a, n, n, o, t, a, t, i, o, n, s]",11,11,11
+174,writes,"writes : 6; [w, r, i, t, e, s]",6,6,6
+175,maintaining,"maintaining : 11; [m, a, i, n, t, a, i, n, i, n, g]",11,11,11
+176,uncle,"uncle : 5; [u, n, c, l, e]",5,5,5
+177,that,"that : 4; [t, h, a, t]",4,4,4
+178,killing,"killing : 7; [k, i, l, l, i, n, g]",7,7,7
+179,France,"France : 6; [F, r, a, n, c, e]",6,6,6
+180,travelling,"travelling : 10; [t, r, a, v, e, l, l, i, n, g]",10,10,10
+181,hell,"hell : 4; [h, e, l, l]",4,4,4
+182,thinking,"thinking : 8; [t, h, i, n, k, i, n, g]",8,8,8
+183,Denmark,"Denmark : 7; [D, e, n, m, a, r, k]",7,7,7
+184,which,"which : 5; [w, h, i, c, h]",5,5,5
+185,battle,"battle : 6; [b, a, t, t, l, e]",6,6,6
+186,reply,"reply : 5; [r, e, p, l, y]",5,5,5
+187,other,"other : 5; [o, t, h, e, r]",5,5,5
+188,insular,"insular : 7; [i, n, s, u, l, a, r]",7,7,7
+189,now,"now : 3; [n, o, w]",3,3,3
+190,also,"also : 4; [a, l, s, o]",4,4,4
+191,density,"density : 7; [d, e, n, s, i, t, y]",7,7,7
+192,recently-widowed,"recently-widowed : 16; [r, e, c, e, n, t, l, y, -, w, i, d, o, w, e, d]",16,16,16
+193,kill,"kill : 4; [k, i, l, l]",4,4,4
+194,Heroes',"Heroes' : 7; [H, e, r, o, e, s, ']",7,7,7
+195,ambassador,"ambassador : 10; [a, m, b, a, s, s, a, d, o, r]",10,10,10
+196,Queen,"Queen : 5; [Q, u, e, e, n]",5,5,5
+197,goes,"goes : 4; [g, o, e, s]",4,4,4
+198,where,"where : 5; [w, h, e, r, e]",5,5,5
+199,story,"story : 5; [s, t, o, r, y]",5,5,5
+200,doing,"doing : 5; [d, o, i, n, g]",5,5,5
+201,Albert,"Albert : 6; [A, l, b, e, r, t]",6,6,6
+202,Rosencrantz,"Rosencrantz : 11; [R, o, s, e, n, c, r, a, n, t, z]",11,11,11
+203,much,"much : 4; [m, u, c, h]",4,4,4
+204,confronts,"confronts : 9; [c, o, n, f, r, o, n, t, s]",9,9,9
+205,preponderance,"preponderance : 13; [p, r, e, p, o, n, d, e, r, a, n, c, e]",13,13,13
+206,distressed,"distressed : 10; [d, i, s, t, r, e, s, s, e, d]",10,10,10
+207,it,"it : 2; [i, t]",2,2,2
+208,individual,"individual : 11; [i, n, d, i, v, i, d, u, a, l]",11,10,10
+209,particularly,"particularly : 12; [p, a, r, t, i, c, u, l, a, r, l, y]",12,12,12
+210,into,"into : 4; [i, n, t, o]",4,4,4
+211,moving,"moving : 6; [m, o, v, i, n, g]",6,6,6
+212,what's,"what's : 6; [w, h, a, t, ', s]",6,6,6
+213,"""written","written : 7; [w, r, i, t, t, e, n]",7,8,8
+214,Richardson,"Richardson : 10; [R, i, c, h, a, r, d, s, o, n]",10,10,10
+215,virtually,"virtually : 9; [v, i, r, t, u, a, l, l, y]",9,9,9
+216,subjects,"subjects : 8; [s, u, b, j, e, c, t, s]",8,8,8
+217,like,"like : 4; [l, i, k, e]",4,4,4
+218,tapestry,"tapestry : 8; [t, a, p, e, s, t, r, y]",8,8,8
+219,consisted,"consisted : 9; [c, o, n, s, i, s, t, e, d]",9,9,9
+220,believes,"believes : 8; [b, e, l, i, e, v, e, s]",8,8,8
+221,continues,"continues : 9; [c, o, n, t, i, n, u, e, s]",9,9,9
+222,evidence,"evidence : 8; [e, v, i, d, e, n, c, e]",8,8,8
+223,Joseph,"Joseph : 6; [J, o, s, e, p, h]",6,6,6
+224,drinks,"drinks : 6; [d, r, i, n, k, s]",6,6,6
+225,nation's,"nation's : 8; [n, a, t, i, o, n, ', s]",8,8,8
+226,duel,"duel : 4; [d, u, e, l]",4,4,4
+227,throes,"throes : 6; [t, h, r, o, e, s]",6,6,6
+228,alliteration,"alliteration : 12; [a, l, l, i, t, e, r, a, t, i, o, n]",12,12,12
+229,poisoned,"poisoned : 8; [p, o, i, s, o, n, e, d]",8,8,8
+230,Larry,"Larry : 5; [L, a, r, r, y]",5,5,5
+231,madness,"madness : 7; [m, a, d, n, e, s, s]",7,7,7
+232,Ophelia,"Ophelia : 7; [O, p, h, e, l, i, a]",7,7,7
+233,assuming,"assuming : 8; [a, s, s, u, m, i, n, g]",8,8,8
+234,time,"time : 4; [t, i, m, e]",4,4,4
+235,common,"common : 6; [c, o, m, m, o, n]",6,6,6
+236,include,"include : 7; [i, n, c, l, u, d, e]",7,7,7
+237,murder,"murder : 6; [m, u, r, d, e, r]",6,6,6
+238,soul,"soul : 4; [s, o, u, l]",4,4,4
+239,ghost,"ghost : 5; [g, h, o, s, t]",5,5,5
+240,Campbell's,"Campbell's : 10; [C, a, m, p, b, e, l, l, ', s]",10,10,10
+241,Gertrude's,"Gertrude's : 10; [G, e, r, t, r, u, d, e, ', s]",10,10,10
+242,ends,"ends : 4; [e, n, d, s]",4,4,4
+243,early,"early : 5; [e, a, r, l, y]",5,5,5
+244,presage,"presage : 7; [p, r, e, s, a, g, e]",7,7,7
+245,She,"She : 3; [S, h, e]",3,3,3
+246,Poland,"Poland : 6; [P, o, l, a, n, d]",6,6,6
+247,luck,"luck : 4; [l, u, c, k]",4,4,4
+248,form,"form : 4; [f, o, r, m]",4,4,4
+249,extensions,"extensions : 10; [e, x, t, e, n, s, i, o, n, s]",10,10,10
+250,so,"so : 2; [s, o]",2,2,2
+251,construction,"construction : 12; [c, o, n, s, t, r, u, c, t, i, o, n]",12,12,12
+252,vociferous,"vociferous : 10; [v, o, c, i, f, e, r, o, u, s]",10,10,10
+253,are,"are : 3; [a, r, e]",3,3,3
+254,played,"played : 6; [p, l, a, y, e, d]",6,6,6
+255,semi-Uncial,"semi-Uncial : 11; [s, e, m, i, -, U, n, c, i, a, l]",11,11,11
+256,Oral,"Oral : 4; [O, r, a, l]",4,4,4
+257,concept,"concept : 7; [c, o, n, c, e, p, t]",7,7,7
+258,hero,"hero : 4; [h, e, r, o]",4,4,4
+259,unpredicatable,"unpredicatable : 13; [u, n, p, r, e, d, i, c, a, t, a, b, l, e]",13,14,14
+260,style,"style : 5; [s, t, y, l, e]",5,5,5
+261,some,"some : 4; [s, o, m, e]",4,4,4
+262,hypothesis,"hypothesis : 10; [h, y, p, o, t, h, e, s, i, s]",10,10,10
+263,resemblance,"resemblance : 11; [r, e, s, e, m, b, l, a, n, c, e]",11,11,11
+264,"formulaic""","formulaic : 9; [f, o, r, m, u, l, a, i, c]",9,10,10
+265,through,"through : 7; [t, h, r, o, u, g, h]",7,7,7
+266,an,"an : 2; [a, n]",2,2,2
+267,defined,"defined : 7; [d, e, f, i, n, e, d]",7,7,7
+268,closely,"closely : 7; [c, l, o, s, e, l, y]",7,7,7
+269,Late,"Late : 4; [L, a, t, e]",4,4,4
+270,Dehn,"Dehn : 4; [D, e, h, n]",4,4,4
+271,moment,"moment : 6; [m, o, m, e, n, t]",6,6,6
+272,back,"back : 4; [b, a, c, k]",4,4,4
+273,he,"he : 2; [h, e]",2,2,2
+274,what,"what : 4; [w, h, a, t]",4,4,4
+275,written,"written : 7; [w, r, i, t, t, e, n]",7,7,7
+276,After,"After : 5; [A, f, t, e, r]",5,5,5
+277,According,"According : 9; [A, c, c, o, r, d, i, n, g]",9,9,9
+278,change,"change : 6; [c, h, a, n, g, e]",6,6,6
+279,epics,"epics : 5; [e, p, i, c, s]",5,5,5
+280,"""a",a : 1; [a],1,2,2
+281,to,"to : 2; [t, o]",2,2,2
+282,seen,"seen : 4; [s, e, e, n]",4,4,4
+283,father,"father : 6; [f, a, t, h, e, r]",6,6,6
+284,Old,"Old : 3; [O, l, d]",3,3,3
+285,His,"His : 3; [H, i, s]",3,3,3
+286,poetic,"poetic : 6; [p, o, e, t, i, c]",6,6,6
+287,onwards,"onwards : 7; [o, n, w, a, r, d, s]",7,7,7
+288,probity,"probity : 7; [p, r, o, b, i, t, y]",7,7,7
+289,warns,"warns : 5; [w, a, r, n, s]",5,5,5
+290,variation,"variation : 9; [v, a, r, i, a, t, i, o, n]",9,9,9
+291,down,"down : 4; [d, o, w, n]",4,4,4
+292,ending,"ending : 6; [e, n, d, i, n, g]",6,6,6
+293,often,"often : 5; [o, f, t, e, n]",5,5,5
+294,play,"play : 4; [p, l, a, y]",4,4,4
+295,Odyssey,"Odyssey : 7; [O, d, y, s, s, e, y]",7,7,7
+296,passed,"passed : 6; [p, a, s, s, e, d]",6,6,6
+297,scenes,"scenes : 6; [s, c, e, n, e, s]",6,6,6
+298,delay,"delay : 5; [d, e, l, a, y]",5,5,5
+299,at,"at : 2; [a, t]",2,2,2
+300,not,"not : 3; [n, o, t]",3,3,3
+301,passages,"passages : 8; [p, a, s, s, a, g, e, s]",8,8,8
+302,formulas,"formulas : 8; [f, o, r, m, u, l, a, s]",8,8,8
+303,various,"various : 7; [v, a, r, i, o, u, s]",7,7,7
+304,cites,"cites : 5; [c, i, t, e, s]",5,5,5
+305,than,"than : 4; [t, h, a, n]",4,4,4
+306,Completion,"Completion : 10; [C, o, m, p, l, e, t, i, o, n]",10,10,10
+307,a,a : 1; [a],1,1,1
+308,prose,"prose : 5; [p, r, o, s, e]",5,5,5
+309,no,"no : 2; [n, o]",2,2,2
+310,eagles,"eagles : 6; [e, a, g, l, e, s]",6,6,6
+311,rejects,"rejects : 7; [r, e, j, e, c, t, s]",7,7,7
+312,languages,"languages : 9; [l, a, n, g, u, a, g, e, s]",9,9,9
+313,"""beach","beach : 5; [b, e, a, c, h]",5,6,6
+314,during,"during : 6; [d, u, r, i, n, g]",6,6,6
+315,contemplates,"contemplates : 12; [c, o, n, t, e, m, p, l, a, t, e, s]",12,12,12
+316,Greek,"Greek : 5; [G, r, e, e, k]",5,5,5
+317,plots,"plots : 5; [p, l, o, t, s]",5,5,5
+318,writing,"writing : 7; [w, r, i, t, i, n, g]",7,7,7
+319,four,"four : 4; [f, o, u, r]",4,4,4
+320,Journey,"Journey : 7; [J, o, u, r, n, e, y]",7,7,7
+321,paper,"paper : 5; [p, a, p, e, r]",5,5,5
+322,commentary,"commentary : 10; [c, o, m, m, e, n, t, a, r, y]",10,10,10
+323,dies,"dies : 4; [d, i, e, s]",4,4,4
+324,shown,"shown : 5; [s, h, o, w, n]",5,5,5
+325,manuscripts,"manuscripts : 11; [m, a, n, u, s, c, r, i, p, t, s]",11,11,11
+326,how,"how : 3; [h, o, w]",3,3,3
+327,John,"John : 4; [J, o, h, n]",4,4,4
+328,between,"between : 7; [b, e, t, w, e, e, n]",7,7,7
+329,got,"got : 3; [g, o, t]",3,3,3
+330,death,"death : 5; [d, e, a, t, h]",5,5,5
+331,vicissitude,"vicissitude : 11; [v, i, c, i, s, s, i, t, u, d, e]",11,11,11
+332,Hamlet's,"Hamlet's : 8; [H, a, m, l, e, t, ', s]",8,8,8
+333,baggage,"baggage : 7; [b, a, g, g, a, g, e]",7,7,7
+334,remains,"remains : 7; [r, e, m, a, i, n, s]",7,7,7
+335,completely,"completely : 10; [c, o, m, p, l, e, t, e, l, y]",10,10,10
+336,miniatures,"miniatures : 10; [m, i, n, i, a, t, u, r, e, s]",10,10,10
+337,13th,"13th : 4; [1, 3, t, h]",13,4,4
+338,upon,"upon : 4; [u, p, o, n]",4,4,4
+339,attempting,"attempting : 10; [a, t, t, e, m, p, t, i, n, g]",10,10,10
+340,him,"him : 3; [h, i, m]",3,3,3
+341,battlements,"battlements : 11; [b, a, t, t, l, e, m, e, n, t, s]",11,11,11
+342,"beasts""","beasts : 6; [b, e, a, s, t, s]",6,7,7
+343,group,"group : 5; [g, r, o, u, p]",5,5,5
+344,At,"At : 2; [A, t]",2,2,2
+345,nature,"nature : 6; [n, a, t, u, r, e]",6,6,6
+346,circumstances,"circumstances : 13; [c, i, r, c, u, m, s, t, a, n, c, e, s]",13,13,13
+347,corrections,"corrections : 11; [c, o, r, r, e, c, t, i, o, n, s]",11,11,11
+348,beach,"beach : 5; [b, e, a, c, h]",5,5,5
+349,journey,"journey : 7; [j, o, u, r, n, e, y]",7,7,7
+350,King,"King : 4; [K, i, n, g]",4,4,4
+351,Latin,"Latin : 5; [L, a, t, i, n]",5,5,5
+352,sending,"sending : 7; [s, e, n, d, i, n, g]",7,7,7
+353,all,"all : 3; [a, l, l]",3,3,3
+354,"""death","death : 5; [d, e, a, t, h]",5,6,6
+355,sister,"sister : 6; [s, i, s, t, e, r]",6,6,6
+356,victory,"victory : 7; [v, i, c, t, o, r, y]",7,7,7
+357,argue,"argue : 5; [a, r, g, u, e]",5,5,5
+358,bear,"bear : 4; [b, e, a, r]",4,4,4
+359,in,"in : 2; [i, n]",2,2,2
+360,addition,"addition : 8; [a, d, d, i, t, i, o, n]",8,8,8
+361,problem,"problem : 7; [p, r, o, b, l, e, m]",7,7,7
+362,violent,"violent : 7; [v, i, o, l, e, n, t]",7,7,7
+363,stabs,"stabs : 5; [s, t, a, b, s]",5,5,5
+364,local,"local : 5; [l, o, c, a, l]",5,5,5
+365,general,"general : 7; [g, e, n, e, r, a, l]",7,7,7
+366,mother's,"mother's : 8; [m, o, t, h, e, r, ', s]",8,8,8
+367,only,"only : 4; [o, n, l, y]",4,4,4
+368,demonstrated,"demonstrated : 12; [d, e, m, o, n, s, t, r, a, t, e, d]",12,12,12
+369,school,"school : 6; [s, c, h, o, o, l]",6,6,6
+370,will,"will : 4; [w, i, l, l]",4,4,4
+371,rehearsal,"rehearsal : 9; [r, e, h, e, a, r, s, a, l]",9,9,9
+372,Norway,"Norway : 6; [N, o, r, w, a, y]",6,6,6
+373,Foley,"Foley : 5; [F, o, l, e, y]",5,5,5
+374,drowns,"drowns : 6; [d, r, o, w, n, s]",6,6,6
+375,avenge,"avenge : 6; [a, v, e, n, g, e]",6,6,6
+376,upset,"upset : 5; [u, p, s, e, t]",5,5,5
+377,returns,"returns : 6; [r, e, t, u, r, n, s]",6,7,7
+378,surviving,"surviving : 9; [s, u, r, v, i, v, i, n, g]",9,9,9
+379,procession,"procession : 10; [p, r, o, c, e, s, s, i, o, n]",10,10,10
+380,accompanied,"accompanied : 11; [a, c, c, o, m, p, a, n, i, e, d]",11,11,11
+381,wolves,"wolves : 6; [w, o, l, v, e, s]",6,6,6
+382,scold,"scold : 5; [s, c, o, l, d]",5,5,5
+383,farewell,"farewell : 8; [f, a, r, e, w, e, l, l]",8,8,8
+384,profession,"profession : 10; [p, r, o, f, e, s, s, i, o, n]",10,10,10
+385,extant,"extant : 6; [e, x, t, a, n, t]",6,6,6
+386,Crowne,"Crowne : 6; [C, r, o, w, n, e]",6,6,6
+387,tales,"tales : 5; [t, a, l, e, s]",5,5,5
+388,This,"This : 4; [T, h, i, s]",4,4,4
+389,Guildenstern,"Guildenstern : 12; [G, u, i, l, d, e, n, s, t, e, r, n]",12,12,12
+390,ancient,"ancient : 7; [a, n, c, i, e, n, t]",7,7,7
+391,for,"for : 3; [f, o, r]",3,3,3
+392,performance,"performance : 11; [p, e, r, f, o, r, m, a, n, c, e]",11,11,11
+393,had,"had : 3; [h, a, d]",3,3,3
+394,rapier,"rapier : 6; [r, a, p, i, e, r]",6,6,6
+395,tradition,"tradition : 9; [t, r, a, d, i, t, i, o, n]",9,9,9
+396,scholars,"scholars : 8; [s, c, h, o, l, a, r, s]",8,8,8
+397,Magoon,"Magoon : 6; [M, a, g, o, o, n]",6,6,6
+398,this:,"this : 4; [t, h, i, s]",4,5,5
+399,function,"function : 8; [f, u, n, c, t, i, o, n]",8,8,8

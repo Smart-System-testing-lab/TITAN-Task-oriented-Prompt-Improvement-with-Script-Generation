@@ -46,6 +46,28 @@ def word_maker():
             all_words.append(word)
     return all_words
 
-with open('dataset/random.txt', 'w') as f:
-    for line in word_maker():
+
+def num_maker():
+    nums = []
+    counts = [30, 100, 150, 150, 200, 300, 300]
+    for i in range(1, 8):
+        for k in range(counts[i - 1]):
+            nums.append(random.randint(10**i, 10 ** (i + 1)))
+    return nums
+
+def num_word_maker():
+    nums = []
+    letters = string.ascii_letters
+    numbers = string.digits
+    for i in range(550):
+        num_letters = random.randint(2, 10)
+        num_digits = random.randint(0, 9)
+        num = random.choices(letters, k = num_letters) + random.choices(numbers, k = num_digits)
+        num = random.sample(num, k = len(num))
+        
+        nums.append("".join(num))
+    return nums
+
+with open('dataset/word_num.txt', 'w') as f:
+    for line in num_word_maker():
         f.write("%s\n" % line)

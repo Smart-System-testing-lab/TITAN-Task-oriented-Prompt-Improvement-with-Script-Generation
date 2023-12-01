@@ -1,0 +1,421 @@
+,all_data,gpt,counts,script,gpt_script
+0,gravedigger,gravedigger : 2,2,0,0
+1,situation,situation : 2,2,0,0
+2,send,send: 0,0,0,0
+3,went,went: 0,0,0,0
+4,century,century : 0,0,0,0
+5,contain,contain : 1,1,0,0
+6,abrogate,abrogate : 0,0,0,0
+7,important,important : 1,1,1,1
+8,old,old : 0,0,0,0
+9,interrupts,interrupts : 2,2,0,0
+10,describe,describe : 1,1,0,0
+11,There,There : 0,0,0,0
+12,too,too : 1,1,0,0
+13,particular,particular : 2,2,0,0
+14,Middle,Middle : 2,2,1,1
+15,alterations,alterations: 2,2,0,0
+16,observed,observed : 1,1,0,0
+17,contains,contains: 1,1,0,0
+18,Minicules,Minicules : 2,2,1,1
+19,cultures,cultures: 1,1,0,0
+20,have,have : 0,0,0,0
+21,summons,summons : 2,2,2,2
+22,well,well : 0,0,0,0
+23,"""fighting",fighting : 1,1,0,0
+24,theme,theme : 1,1,1,1
+25,recently-deceased,recently-deceased : 0,0,0,0
+26,army,army : 1,1,1,1
+27,poems,poems: 1,1,1,1
+28,I,I : 0,0,0,0
+29,sent,sent : 0,0,0,0
+30,just,just : 0,0,0,0
+31,brother,brother : 1,1,0,0
+32,characteristics,characteristics: 2,2,0,0
+33,Monomyth,Monomyth : 2,2,2,2
+34,peculiar,peculiar : 0,0,0,0
+35,Elsewhere,Elsewhere : 1,1,0,0
+36,stylized,stylized : 1,1,0,0
+37,says,says : 0,0,0,0
+38,talk,talk : 1,1,0,0
+39,"""retainer""",retainer : 1,1,0,0
+40,lack,lack : 0,0,0,0
+41,script,script : 1,1,0,0
+42,island,island : 0,0,0,0
+43,K,K : 0,0,0,0
+44,swimming,swimming : 2,2,2,2
+45,act,act : 0,0,0,0
+46,spy,spy : 0,0,0,0
+47,desolate,desolate : 1,1,0,0
+48,resembles,resembles : 2,2,1,1
+49,explained,explained: 1,1,0,0
+50,coincides,coincides : 2,2,0,0
+51,was,was : 0,0,0,0
+52,date,date : 0,0,0,0
+53,Polish,Polish : 1,1,0,0
+54,Ghost,Ghost : 1,1,0,0
+55,became,became : 1,1,1,1
+56,these,these : 0,0,0,0
+57,commencement,commencement : 2,2,3,3
+58,Although,Although : 0,0,0,0
+59,would,would : 0,0,0,0
+60,They,They : 0,0,0,0
+61,one,one : 0,0,0,0
+62,while,while : 1,1,0,0
+63,and,and : 0,0,0,0
+64,When,When : 0,0,0,0
+65,attack,attack : 1,1,0,0
+66,be,be : 0,0,0,0
+67,plot,plot : 1,1,0,0
+68,friends,friends : 0,0,0,0
+69,lights,lights : 0,0,0,0
+70,present,present : 1,1,0,0
+71,adopted,adopted: 1,1,0,0
+72,Benson,Benson : 1,1,0,0
+73,married,married: 2,2,1,1
+74,already,already : 1,1,0,0
+75,before,before : 1,1,0,0
+76,way,way : 0,0,0,0
+77,mourn,mourn : 1,1,1,1
+78,cup,cup : 0,0,0,0
+79,begins,begins : 1,1,0,0
+80,protect,protect : 1,1,0,0
+81,night,night : 1,1,0,0
+82,or,or : 0,0,0,0
+83,poetry,poetry : 1,1,0,0
+84,even,even : 0,0,0,0
+85,along,along: 1,1,0,0
+86,more,more : 1,1,1,1
+87,reasons,reasons : 2,2,0,0
+88,harp,harp : 1,1,0,0
+89,argues,argues : 1,1,0,0
+90,"cliffs""",cliffs : 0,0,0,0
+91,abnegation,abnegation : 0,0,0,0
+92,their,their: 0,0,0,0
+93,royal,royal : 1,1,0,0
+94,rather,rather : 1,1,0,0
+95,themes,themes: 1,1,1,1
+96,found,found: 1,1,0,0
+97,literary,literary : 1,1,0,0
+98,lines,lines : 0,0,0,0
+99,A,A : 0,0,0,0
+100,calling,calling : 2,2,0,0
+101,Most,Most : 0,0,1,1
+102,were,were : 0,0,0,0
+103,prosody,prosody : 1,1,0,0
+104,He,He : 0,0,0,0
+105,reacts,reacts: 1,1,0,0
+106,wily,wily : 0,0,0,0
+107,"rigor""",rigor : 1,1,0,0
+108,known,known : 1,1,0,0
+109,arguing,arguing : 1,1,0,0
+110,fearing,fearing: 1,1,0,0
+111,been,been : 1,1,0,0
+112,article,article : 0,0,0,0
+113,strangely,strangely : 1,1,0,0
+114,text,text : 0,0,0,0
+115,One,One : 0,0,0,0
+116,margins,margins : 2,2,1,1
+117,new,new : 0,0,0,0
+118,meets,meets : 1,1,1,1
+119,winsome,winsome : 1,1,1,1
+120,any,any : 0,0,0,0
+121,pray,pray: 0,0,0,0
+122,castle,castle : 1,1,0,0
+123,graveyard,graveyard : 1,1,0,0
+124,appearance,appearance : 2,2,0,0
+125,but,but : 0,0,0,0
+126,mother,mother : 2,2,1,1
+127,used,used : 1,1,0,0
+128,Germanic,Germanic : 1,1,1,1
+129,point,point : 1,1,0,0
+130,wants,wants : 0,0,0,0
+131,monster,monster : 1,1,1,1
+132,stock,stock : 1,1,0,0
+133,thought,thought : 1,1,0,0
+134,influenced,influenced : 1,1,0,0
+135,may,may : 1,1,1,1
+136,subject,subject : 0,0,0,0
+137,arranged,arranged : 1,1,0,0
+138,Lord's,Lord's : 0,0,0,0
+139,heavy,heavy : 1,1,0,0
+140,D,D : 0,0,0,0
+141,killed,killed : 1,1,0,0
+142,Foley's,Foley's : 0,0,0,0
+143,traditional,traditional : 2,2,0,0
+144,Insular,Insular : 1,1,0,0
+145,why,why : 0,0,0,0
+146,human,human : 1,1,1,1
+147,unusual,unusual : 0,0,0,0
+148,contemporary,contemporary : 1,1,1,1
+149,awry,awry : 0,0,0,0
+150,seeks,seeks : 0,0,0,0
+151,by,by : 0,0,0,0
+152,unwittingly,unwittingly : 1,1,0,0
+153,Poetry,Poetry : 1,1,0,0
+154,hides,hides : 1,1,0,0
+155,as,as: 0,0,0,0
+156,That,That : 0,0,0,0
+157,has,has : 0,0,0,0
+158,Francis,Francis : 0,0,0,0
+159,Accompany,Accompany : 2,2,1,1
+160,met,met : 1,1,1,1
+161,Rejected,Rejected: 1,1,0,0
+162,sudden,sudden : 1,1,0,0
+163,characterized,characterized : 2,2,0,0
+164,theory,theory : 1,1,0,0
+165,documented,documented : 2,2,1,1
+166,wars,wars : 0,0,0,0
+167,know,know : 0,0,0,0
+168,with,with : 0,0,0,0
+169,plans,plans : 0,0,0,0
+170,proposed,proposed : 1,1,0,0
+171,Fortinbras,Fortinbras : 0,0,0,0
+172,"heroes""",heroes : 0,0,0,0
+173,annotations,annotations : 2,2,0,0
+174,writes,writes: 0,0,0,0
+175,maintaining,maintaining : 2,2,1,1
+176,uncle,uncle : 1,1,0,0
+177,that,that : 0,0,0,0
+178,killing,killing : 2,2,0,0
+179,France,France : 0,0,0,0
+180,travelling,travelling : 2,2,0,0
+181,hell,hell: 0,0,0,0
+182,thinking,thinking : 1,1,0,0
+183,Denmark,Denmark : 1,1,1,1
+184,which,which : 0,0,0,0
+185,battle,battle : 1,1,0,0
+186,reply,reply : 1,1,0,0
+187,other,other : 1,1,0,0
+188,insular,insular : 1,1,0,0
+189,now,now: 0,0,0,0
+190,also,also : 1,1,0,0
+191,density,density: 1,1,0,0
+192,recently-widowed,recently-widowed : 1,1,0,0
+193,kill,kill : 0,0,0,0
+194,Heroes',Heroes' : 0,0,0,0
+195,ambassador,ambassador : 2,2,1,1
+196,Queen,Queen : 0,0,0,0
+197,goes,goes : 0,0,0,0
+198,where,where : 0,0,0,0
+199,story,story : 1,1,0,0
+200,doing,doing : 1,1,0,0
+201,Albert,Albert : 1,1,0,0
+202,Rosencrantz,Rosencrantz : 0,0,0,0
+203,much,much : 1,1,1,1
+204,confronts,confronts: 1,1,0,0
+205,preponderance,preponderance : 2,2,0,0
+206,distressed,distressed : 2,2,0,0
+207,it,it : 0,0,0,0
+208,individual,individual : 2,2,0,0
+209,particularly,particularly : 2,2,0,0
+210,into,into : 1,1,0,0
+211,moving,moving : 1,1,1,1
+212,what's,what's : 0,0,0,0
+213,"""written",written : 2,2,0,0
+214,Richardson,Richardson : 2,2,0,0
+215,virtually,virtually : 0,0,0,0
+216,subjects,subjects: 0,0,0,0
+217,like,like : 0,0,0,0
+218,tapestry,tapestry : 1,1,0,0
+219,consisted,consisted : 1,1,0,0
+220,believes,believes : 1,1,0,0
+221,continues,continues : 0,0,0,0
+222,evidence,evidence : 0,0,0,0
+223,Joseph,Joseph : 0,0,0,0
+224,drinks,drinks : 0,0,0,0
+225,nation's,nation's : 1,1,0,0
+226,duel,duel : 0,0,0,0
+227,throes,throes : 0,0,0,0
+228,alliteration,alliteration : 2,2,0,0
+229,poisoned,poisoned : 1,1,0,0
+230,Larry,Larry : 1,1,0,0
+231,madness,madness : 2,2,1,1
+232,Ophelia,Ophelia : 0,0,0,0
+233,assuming,assuming : 1,1,1,1
+234,time,time : 0,0,1,1
+235,common,common : 1,1,2,2
+236,include,include : 1,1,0,0
+237,murder,murder : 2,2,1,1
+238,soul,soul : 0,0,0,0
+239,ghost,ghost : 1,1,0,0
+240,Campbell's,Campbell's : 2,2,1,1
+241,Gertrude's,Gertrude's : 0,0,0,0
+242,ends,ends : 0,0,0,0
+243,early,early: 0,0,0,0
+244,presage,presage : 1,1,0,0
+245,She,She : 0,0,0,0
+246,Poland,Poland : 0,0,0,0
+247,luck,luck : 1,1,0,0
+248,form,form : 1,1,1,1
+249,extensions,extensions : 2,2,0,0
+250,so,so : 0,0,0,0
+251,construction,construction : 2,2,0,0
+252,vociferous,vociferous : 0,0,0,0
+253,are,are : 0,0,0,0
+254,played,played: 1,1,0,0
+255,semi-Uncial,semi-Uncial : 1,1,1,1
+256,Oral,Oral : 1,1,0,0
+257,concept,concept : 1,1,0,0
+258,hero,hero : 0,0,0,0
+259,unpredicatable,unpredicatable : 0,0,0,0
+260,style,style : 0,0,0,0
+261,some,some : 0,0,1,1
+262,hypothesis,hypothesis : 0,0,0,0
+263,resemblance,resemblance : 2,2,1,1
+264,"formulaic""",formulaic : 1,1,1,1
+265,through,through : 0,0,0,0
+266,an,an : 0,0,0,0
+267,defined,defined : 1,1,0,0
+268,closely,closely : 0,0,0,0
+269,Late,Late : 1,1,0,0
+270,Dehn,Dehn : 0,0,0,0
+271,moment,moment : 2,2,2,2
+272,back,back : 1,1,0,0
+273,he,he : 0,0,0,0
+274,what,what: 0,0,0,0
+275,written,written : 1,1,0,0
+276,After,After : 1,1,0,0
+277,According,According : 0,0,0,0
+278,change,change : 1,1,0,0
+279,epics,epics : 0,0,0,0
+280,"""a","1. prograM : 1
+2. hiMMalaya : 2
+3. suMMer : 1
+4. coMMute : 2
+5. aMple : 1",1,0,0
+281,to,to : 0,0,0,0
+282,seen,seen: 0,0,0,0
+283,father,father : 0,0,0,0
+284,Old,Old : 0,0,0,0
+285,His,His : 0,0,0,0
+286,poetic,poetic : 1,1,0,0
+287,onwards,onwards: 1,1,0,0
+288,probity,probity : 1,1,0,0
+289,warns,warns : 0,0,0,0
+290,variation,variation : 2,2,0,0
+291,down,down : 1,1,0,0
+292,ending,ending: 1,1,0,0
+293,often,often : 1,1,0,0
+294,play,play : 0,0,0,0
+295,Odyssey,Odyssey : 0,0,0,0
+296,passed,passed: 1,1,0,0
+297,scenes,scenes : 0,0,0,0
+298,delay,delay : 1,1,0,0
+299,at,at : 0,0,0,0
+300,not,not : 0,0,0,0
+301,passages,passages : 0,0,0,0
+302,formulas,formulas : 1,1,1,1
+303,various,various : 0,0,0,0
+304,cites,cites : 0,0,0,0
+305,than,than : 0,0,0,0
+306,Completion,Completion : 2,2,1,1
+307,a,"a : 0
+the word is : banana
+banana : 2
+the word is : Mississippi
+Mississippi : 4
+the word is : MMMMM
+MMMMM : 5
+the word is : empty
+empty : 0",0,0,0
+308,prose,prose : 0,0,0,0
+309,no,"no: 0
+the word is : mom
+mom: 2
+the word is : M&M's
+M&M's: 2
+the word is : minimum
+minimum: 2
+the word is : Mississippi
+Mississippi: 4",0,0,0
+310,eagles,eagles : 0,0,0,0
+311,rejects,rejects: 1,1,0,0
+312,languages,languages : 1,1,0,0
+313,"""beach",beach : 0,0,0,0
+314,during,during : 1,1,0,0
+315,contemplates,contemplates : 1,1,1,1
+316,Greek,Greek : 0,0,0,0
+317,plots,plots: 1,1,0,0
+318,writing,writing: 1,1,0,0
+319,four,four : 0,0,0,0
+320,Journey,Journey : 1,1,0,0
+321,paper,paper: 1,1,0,0
+322,commentary,commentary : 2,2,2,2
+323,dies,dies: 0,0,0,0
+324,shown,shown : 1,1,0,0
+325,manuscripts,manuscripts : 2,2,1,1
+326,how,how : 0,0,0,0
+327,John,John: 0,0,0,0
+328,between,between : 0,0,0,0
+329,got,got : 1,1,0,0
+330,death,death: 1,1,0,0
+331,vicissitude,vicissitude : 0,0,0,0
+332,Hamlet's,Hamlet's : 1,1,1,1
+333,baggage,baggage : 2,2,0,0
+334,remains,remains: 1,1,1,1
+335,completely,completely : 1,1,1,1
+336,miniatures,miniatures : 1,1,1,1
+337,13th,13th : 0,13,0,0
+338,upon,upon : 0,0,0,0
+339,attempting,attempting : 2,2,1,1
+340,him,him : 1,1,1,1
+341,battlements,battlements: 2,2,1,1
+342,"beasts""",beasts: 1,1,0,0
+343,group,group : 1,1,0,0
+344,At,At : 0,0,0,0
+345,nature,nature : 1,1,0,0
+346,circumstances,circumstances : 2,2,1,1
+347,corrections,corrections : 2,2,0,0
+348,beach,beach : 0,0,0,0
+349,journey,journey : 0,0,0,0
+350,King,King : 1,1,0,0
+351,Latin,Latin : 0,0,0,0
+352,sending,sending : 1,1,0,0
+353,all,all: 0,0,0,0
+354,"""death",death : 1,1,0,0
+355,sister,sister : 1,1,0,0
+356,victory,victory : 0,0,0,0
+357,argue,argue : 1,1,0,0
+358,bear,bear : 0,0,0,0
+359,in,in : 0,0,0,0
+360,addition,addition : 2,2,0,0
+361,problem,problem : 2,2,1,1
+362,violent,violent : 0,0,0,0
+363,stabs,stabs : 0,0,0,0
+364,local,local : 1,1,0,0
+365,general,general : 1,1,0,0
+366,mother's,mother's : 1,1,1,1
+367,only,only : 0,0,0,0
+368,demonstrated,demonstrated : 2,2,1,1
+369,school,school : 0,0,0,0
+370,will,will : 0,0,0,0
+371,rehearsal,rehearsal : 1,1,0,0
+372,Norway,Norway : 0,0,0,0
+373,Foley,Foley : 1,1,0,0
+374,drowns,drowns: 0,0,0,0
+375,avenge,avenge : 0,0,0,0
+376,upset,upset : 1,1,0,0
+377,returns,returns : 0,0,0,0
+378,surviving,surviving : 1,1,0,0
+379,procession,procession : 2,2,0,0
+380,accompanied,accompanied : 2,2,1,1
+381,wolves,wolves : 0,0,0,0
+382,scold,scold : 1,1,0,0
+383,farewell,farewell : 1,1,0,0
+384,profession,profession : 2,2,0,0
+385,extant,extant: 0,0,0,0
+386,Crowne,Crowne : 0,0,0,0
+387,tales,tales: 0,0,0,0
+388,This,This : 0,0,0,0
+389,Guildenstern,Guildenstern : 0,0,0,0
+390,ancient,ancient : 0,0,0,0
+391,for,for : 0,0,0,0
+392,performance,performance : 2,2,1,1
+393,had,had: 0,0,0,0
+394,rapier,rapier : 0,0,0,0
+395,tradition,tradition : 1,1,0,0
+396,scholars,scholars: 1,1,0,0
+397,Magoon,Magoon : 1,1,1,1
+398,this:,this: 0,0,0,0
+399,function,function : 2,2,0,0

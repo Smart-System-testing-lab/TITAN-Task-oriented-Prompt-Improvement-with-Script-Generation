@@ -92,7 +92,7 @@ def specific_letter_counting(path, tempreture):
     }
     with open(path) as f:
         lines = f.read().split('\n')
-    for a in string.ascii_lowercase:
+    for a in string.ascii_lowercase[12:]:
         
         tp = count_specific_letter_prompt.replace("[xxx]", a).replace("[XXX]", a.upper()).replace("[yyy]",d[a][0]).replace("[nnn]", str(d[a][1])) 
         print(tp)

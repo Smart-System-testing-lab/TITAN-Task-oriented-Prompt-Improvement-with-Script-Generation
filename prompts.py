@@ -182,3 +182,20 @@ for example if input is "Banana" the response must be :
 "Banana" : n
 '''
 
+count_digits_number_prompt = '''
+    How many digits are in the following number. then return the digits of that word in an array. for example
+    there are 3 digits in "136" because of "1" and "3" and "6". your answer must be
+    in following format : 
+    input : number of digits; explanation.
+    for example if the input is "12", the output must be :
+    "12" : 2; [1, 2]
+'''
+
+count_digits_word_prompt = '''
+    How many digits are in the following word. then return the digits of that word in an array. for example
+    there are 3 digits in "13ba6" because of "1" and "3" and "6". your answer must be
+    in following format : 
+    input : number of digits; explanation.
+    for example if the input is "1a2b", the output must be :
+    "1a2b" : 2; [1, 2]
+'''

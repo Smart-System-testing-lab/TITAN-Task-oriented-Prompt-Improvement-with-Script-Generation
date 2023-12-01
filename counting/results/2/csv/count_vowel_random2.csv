@@ -1,0 +1,858 @@
+,all_data,gpt,counts,script,gpt_script
+0,Xhxzttng,"The word ""Xhxzttng"" does not contain any vowel letters. Therefore, the output would be:
+""Xhxzttng"" : 0; []",0,0,0
+1,WheEvvCJUOy,"The word ""WheEvvCJUOy"" has 3 vowel letters. The vowel letters in the word are ""e"", ""E"", and ""O"". 
+
+Therefore, the output would be:
+""WheEvvCJUOy"" : 3; [e, E, O]",3,4,4
+2,MxgWkNpVdJOVq,"The word ""MxgWkNpVdJOVq"" does not contain any vowel letters. Therefore, the answer is:
+""MxgWkNpVdJOVq"" : 0; []",0,1,1
+3,PWyIJlNiWZAh,"PWyIJlNiWZAh: 3; [I, i, A]",3,3,3
+4,dMjmcRken,"The word ""dMjmcRken"" has 1 vowel letter. The vowel letter in the word is ""e"". Therefore, the output would be:
+
+""dMjmcRken"" : 1; [e]",1,1,1
+5,nJmUdWVgWuER,"The word ""nJmUdWVgWuER"" has 3 vowel letters. The vowel letters in the word are ""U"", ""W"", and ""E"". Therefore, the output would be:
+
+""nJmUdWVgWuER"" : 3; [U, W, E]",3,3,3
+6,oHOsL,"The word ""oHOsL"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""O"". Therefore, the output would be:
+
+""oHOsL"" : 2; [o, O]",2,2,2
+7,uZEBlQuugVC,"The word ""uZEBlQuugVC"" contains 3 vowel letters. The vowel letters in the word are ""u"", ""E"", and ""u"". Therefore, the output would be:
+
+""uZEBlQuugVC"" : 3; [u, E, u]",3,4,4
+8,qMIvjvoZmOkt,"The word ""qMIvjvoZmOkt"" contains 3 vowel letters. The vowel letters in the word are ""I"", ""o"", and ""O"". Therefore, the output would be:
+
+""qMIvjvoZmOkt"" : 3; [I, o, O]",3,3,3
+9,yTFacDAsinC,"The word ""yTFacDAsinC"" contains 3 vowel letters. The vowel letters in the word are ""a"", ""A"", and ""i"". Therefore, the output should be:
+
+""yTFacDAsinC"" : 3; [a, A, i]",3,3,3
+10,UxspslKELdlqdP,"The word ""UxspslKELdlqdP"" contains 0 vowel letters. Therefore, the output would be:
+""UxspslKELdlqdP"" : 0; []",0,2,2
+11,atrHiOEkdpcIkVs,"The word ""atrHiOEkdpcIkVs"" contains 4 vowel letters. The vowel letters in the word are ""a"", ""i"", ""O"", and ""E"". Therefore, the output would be:
+
+""atrHiOEkdpcIkVs"" : 4; [a, i, O, E]",4,5,5
+12,KGTbEcynixPW,"The word ""KGTbEcynixPW"" has 2 vowel letters. The vowel letters in the word are ""E"" and ""i"". Therefore, the output should be:
+
+""KGTbEcynixPW"" : 2; [E, i]",2,2,2
+13,aXkpFURdwsUpS,"The word ""aXkpFURdwsUpS"" has 2 vowel letters. The vowel letters in the word are ""a"" and ""U"". Therefore, the output would be:
+""aXkpFURdwsUpS"" : 2; [a, U]",2,3,3
+14,ttJhYGJyrIcx,"The word ""ttJhYGJyrIcx"" contains 2 vowel letters. The vowel letters in the word are ""i"" and ""y"". Therefore, the output would be:
+
+""ttJhYGJyrIcx"" : 2; [i, y]",2,1,1
+15,wbnKjysoc,"The word ""wbnKjysoc"" has 0 vowel letters.",0,1,1
+16,wdKSaippj,"The word ""wdKSaippj"" contains 3 vowel letters. The vowel letters in the word are ""a"", ""i"", and ""i"". Therefore, the output would be:
+
+""wdKSaippj"" : 3; [a, i, i]",3,2,2
+17,flHWPBbKGrDHsx,"The word ""flHWPBbKGrDHsx"" has 0 vowel letters. Therefore, the output would be:
+""flHWPBbKGrDHsx"" : 0; []",0,0,0
+18,axaaaaaayaaaaaVa,"The word ""axaaaaaayaaaaaVa"" has 10 vowel letters. The vowel letters in the word are: [a, a, a, a, a, a, a, a, a, a].",10,13,13
+19,Icutt,"""Icutt"" : 2; [I, u]",2,2,2
+20,OLDYKoP,"""OLDYKoP"" : 2; [O, O]",2,2,2
+21,CASNxPmgDVxHN,CASNxPmgDVxHN: 0; [],0,1,1
+22,wKQprGeSbjuG,"The word ""wKQprGeSbjuG"" does not contain any vowel letters. Therefore, the output would be:
+""wKQprGeSbjuG"" : 0; []",0,2,2
+23,yLUtytLJTulb,"The word ""yLUtytLJTulb"" contains 1 vowel letter. The vowel letter is ""u"". Therefore, the output would be:
+
+""yLUtytLJTulb"" : 1; [u]",1,2,2
+24,PiZvtAYL,"The word ""PiZvtAYL"" contains 3 vowel letters. The vowel letters in the word are ""i"", ""A"", and ""Y"". Therefore, the output would be:
+
+""PiZvtAYL"" : 3; [i, A, Y]",3,2,2
+25,CiAqWkWvmw,"The word ""CiAqWkWvmw"" has 2 vowel letters. The vowel letters in the word are ""i"" and ""A"". Therefore, the output would be:
+
+""CiAqWkWvmw"" : 2; [i, A]",2,2,2
+26,WMOHcFnaFwMb,"The word ""WMOHcFnaFwMb"" contains 2 vowel letters. The vowel letters in the word are ""O"" and ""a"". Therefore, the output would be:
+
+""WMOHcFnaFwMb"" : 2; [O, a]",2,2,2
+27,QeseYmgaRgk,"The word ""QeseYmgaRgk"" has 3 vowel letters. The vowel letters in the word are ""e"", ""Y"", and ""a"". Therefore, the output should be:
+
+""QeseYmgaRgk"" : 3; [e, Y, a]",3,3,3
+28,ftmhCcg,"The word ""ftmhCcg"" contains 0 vowel letters. Therefore, the output would be:
+""ftmhCcg"" : 0; []",0,0,0
+29,QPRyYa,"QPRyYa : 2; [a, y]",2,1,1
+30,zYUHieyqXKpcN,"The word ""zYUHieyqXKpcN"" has 3 vowel letters. The vowel letters in the word are ""U"", ""i"", and ""e"". Therefore, the output would be:
+
+""zYUHieyqXKpcN"" : 3; [U, i, e]",3,3,3
+31,GEyiWrGEgdCo,"The word ""GEyiWrGEgdCo"" has 3 vowel letters. The vowel letters in the word are ""E"", ""i"", and ""E"". Therefore, the output would be:
+
+""GEyiWrGEgdCo"" : 3; [E, i, E]",3,4,4
+32,llEXQXAAhTOehax,"The word ""llEXQXAAhTOehax"" contains 4 vowel letters. The vowel letters in the word are ""E"", ""A"", ""A"", and ""O"". Therefore, the output should be:
+
+""llEXQXAAhTOehax"" : 4; [E, A, A, O]",4,6,6
+33,MCXktmNK,"The word ""MCXktmNK"" does not contain any vowel letters. Therefore, the output would be:
+""MCXktmNK"" : 0; []",0,0,0
+34,rHPrsNCFh,"The word ""rHPrsNCFh"" contains 0 vowel letters. Therefore, the output would be:
+""rHPrsNCFh"" : 0; []",0,0,0
+35,pFbbbb,"The word ""pFbbbb"" does not contain any vowel letters. Therefore, the output would be:
+""pFbbbb"" : 0; []",0,0,0
+36,wQTuXAIxbJSlG,"The word ""wQTuXAIxbJSlG"" has 3 vowel letters. The vowel letters in the word are ""u"", ""A"", and ""I"". Therefore, the output would be:
+""wQTuXAIxbJSlG"" : 3; [u, A, I]",3,3,3
+37,bbWWbbjZ,"The word ""bbWWbbjZ"" does not contain any vowel letters. Therefore, the output would be:
+""bbWWbbjZ"" : 0; []",0,0,0
+38,eDeoalNVM,"The word ""eDeoalNVM"" has 3 vowel letters. The vowel letters in the word are ""e"", ""o"", and ""a"". Therefore, the output should be:
+
+""eDeoalNVM"" : 3; [e, o, a]",3,4,4
+39,qoyzwcNt,"The word ""qoyzwcNt"" has 0 vowel letters.",0,1,1
+40,ngmwliDdsP,"""ngmwliDdsP"" : 1; [i]",1,1,1
+41,bzybbbgbbbb,"The word ""bzybbbgbbbb"" does not contain any vowel letters. Therefore, the output would be:
+""bzybbbgbbbb"" : 0; []",0,0,0
+42,yyEORr,"""yyEORr"" : 2; [E, O]",2,2,2
+43,iklqZ,"The word ""iklqZ"" has 1 vowel letter. The vowel letter is ""i"". Therefore, the output would be:
+
+""iklqZ"" : 1; [i]",1,1,1
+44,bbbbbbbbbcbQ,"The word ""bbbbbbbbcbQ"" does not contain any vowel letters. Therefore, the output would be:
+""bbbbbbbbcbQ"" : 0; []",0,0,0
+45,tjkbQQBZqZabzPj,"The word ""tjkbQQBZqZabzPj"" has 1 vowel letter. The vowel letter is ""a"". Therefore, the output would be:
+
+""tjkbQQBZqZabzPj"" : 1; [a]",1,1,1
+46,bbbbbbbWhbUbb,"The word ""bbbbbWhbUbb"" has 1 vowel letter. The vowel letter is ""U"". Therefore, the output should be:
+
+""bbbbbWhbUbb"" : 1; [U]",1,1,1
+47,XSifweSi,"XSifweSi: 3; [i, e, i]",3,3,3
+48,aqTBUcBP,"The word ""aqTBUcBP"" has 2 vowel letters. The vowel letters in the word are ""a"" and ""U"". Therefore, the output would be:
+
+""aqTBUcBP"" : 2; [a, U]",2,2,2
+49,BBNtNEJeORj,"The word ""BBNtNEJeORj"" has 2 vowel letters. The vowel letters in the word are ""e"" and ""O"". Therefore, the output would be:
+
+""BBNtNEJeORj"" : 2; [e, O]",2,3,3
+50,QXZAobovXhOV,"The word ""QXZAobovXhOV"" has 4 vowel letters. The vowel letters in the word are ""o"", ""o"", ""X"", and ""O"". Therefore, the output would be:
+
+""QXZAobovXhOV"" : 4; [o, o, X, O]",4,4,4
+51,bbbbbbbWdbbb,"The word ""bbbbbbbWdbbb"" has 0 vowel letters.",0,0,0
+52,SVEjp,"""SVEjp"" : 1; [e]",1,1,1
+53,ElGklwTlwu,"The word ""ElGklwTlwu"" contains 3 vowel letters. The vowel letters in the word are ""E"", ""o"", and ""u"". Therefore, the output would be:
+
+""ElGklwTlwu"" : 3; [E, o, u]",3,2,2
+54,stMsByx,"The word ""stMsByx"" has 0 vowel letters. Therefore, the output would be:
+""stMsByx"" : 0; []",0,0,0
+55,nXfFaSoQDQ,"The word ""nXfFaSoQDQ"" contains 2 vowel letters. The vowel letters in the word are ""a"" and ""o"". Therefore, the output should be:
+
+""nXfFaSoQDQ"" : 2; [a, o]",2,2,2
+56,fNvsIexdvZSgWA,"fNvsIexdvZSgWA: 3; [I, e, A]",3,3,3
+57,bbbbSR,"The word ""bbbbSR"" does not contain any vowel letters. Therefore, the output would be:
+""bbbbSR"" : 0; []",0,0,0
+58,zoAKuEervGcTw,"The word ""zoAKuEervGcTw"" contains 4 vowel letters. The vowel letters in the word are ""o"", ""A"", ""u"", and ""e"". Therefore, the output would be:
+
+""zoAKuEervGcTw"" : 4; [o, A, u, e]",4,5,5
+59,bbbbbFJbbbbbw,"The word ""bbbbbFJbbbbbw"" does not contain any vowel letters. Therefore, the output would be:
+""bbbbbFJbbbbbw"" : 0; []",0,0,0
+60,KaxMM,"""KaxMM"" : 1; [a]",1,1,1
+61,QiXoFQvLVCuwiaS,"The word ""QiXoFQvLVCuwiaS"" has 5 vowel letters. The vowel letters in the word are ""i"", ""o"", ""u"", ""i"", and ""a"". Therefore, the output would be:
+
+""QiXoFQvLVCuwiaS"" : 5; [i, o, u, i, a]",5,5,5
+62,GzjhfXo,"The word ""GzjhfXo"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""o"". Therefore, the output would be:
+
+""GzjhfXo"" : 2; [o, o]",2,1,1
+63,cccTDc,"The word ""cccTDc"" does not contain any vowel letters. Therefore, the output would be:
+""cccTDc"" : 0; []",0,0,0
+64,cccQcVVccscc,"The word ""cccQcVVccscc"" has 2 vowel letters. The vowel letters in the word are ""Q"" and ""V"". Therefore, the output would be:
+
+""cccQcVVccscc"" : 2; [Q, V]",2,0,0
+65,lxKmsA,lxKmsA: 1; [A],1,1,1
+66,mcqhcM,"The word ""mcqhcM"" has 0 vowel letters. Therefore, the output would be:
+""mcqhcM"" : 0; []",0,0,0
+67,ObihWboeCeL,"The word ""ObihWboeCeL"" has 4 vowel letters. The vowel letters in the word are ""o"", ""i"", ""o"", and ""e"". 
+
+Therefore, the output would be:
+""ObihWboeCeL"" : 4; [o, i, o, e]",4,5,5
+68,NOvngWsW,NOvngWsW : 1; [O],1,1,1
+69,jDcc,"""jDcc"" : 0; []",0,0,0
+70,nFXMagtqNnrW,"The word ""nFXMagtqNnrW"" does not contain any vowel letters. Therefore, the output would be:
+""nFXMagtqNnrW"" : 0; []",0,1,1
+71,AsKXrB,"The word ""AsKXrB"" has 1 vowel letter. The vowel letter in the word is ""A"". Therefore, the output would be:
+
+""AsKXrB"" : 1; [A]",1,1,1
+72,eccLUcccc,"The word ""eccLUcccc"" has 1 vowel letter. The vowel letter is ""e"". Therefore, the output should be:
+
+""eccLUcccc"" : 1; [e]",1,2,2
+73,XepsCtdPd,"The word ""XepsCtdPd"" contains 1 vowel letter. The vowel letter in the word is ""e"". Therefore, the output would be:
+
+""XepsCtdPd"" : 1; [e]",1,1,1
+74,EpUKrz,"""EpUKrz"" : 1; [e]",1,2,2
+75,YwnPDw,YwnPDw : 0; [],0,0,0
+76,yoXvClNsJSq,"The word ""yoXvClNsJSq"" contains 0 vowel letters. Therefore, the output would be:
+""yoXvClNsJSq"" : 0; []",0,1,1
+77,GrDZGUVG,GrDZGUVG : 1; [U],1,1,1
+78,BoZPQVawqUvk,"The word ""BoZPQVawqUvk"" contains 3 vowel letters. The vowel letters in the word are ""o"", ""a"", and ""U"". Therefore, the output would be:
+
+""BoZPQVawqUvk"" : 3; [o, a, U]",3,3,3
+79,cccrcccdcccc,"The word ""cccrcccdcccc"" does not contain any vowel letters. Therefore, the output would be:
+""cccrcccdcccc"" : 0; []",0,0,0
+80,vVSGgCjqXMziyW,"The word ""vVSGgCjqXMziyW"" contains 0 vowel letters.",0,1,1
+81,KNgasCyL,"""KNgasCyL"" : 2; [a, y]",2,1,1
+82,eyxmhv,"The word ""eyxmhv"" has 1 vowel letter. The vowel letter in the word is ""e"". Therefore, the output would be:
+""eyxmhv"" : 1; [e]",1,1,1
+83,ccccgcccccOc,"The word ""cccgcccccOc"" contains 1 vowel letter. The vowel letter is ""O"". Therefore, the output would be:
+
+""cccgcccccOc"" : 1; [O]",1,1,1
+84,zEDAWEOEaR,"The word ""zEDAWEOEaR"" contains 6 vowel letters. The vowel letters in the word are ""E"", ""A"", ""E"", ""O"", ""E"", and ""a"". Therefore, the output should be:
+
+""zEDAWEOEaR"" : 6; [E, A, E, O, E, a]",6,6,6
+85,czfccc,"The word ""czfccc"" does not contain any vowel letters. Therefore, the output would be:
+""czfccc"" : 0; []",0,0,0
+86,cccctcccZc,"The word ""cccctcccZc"" does not contain any vowel letters. Therefore, the output would be:
+""cccctcccZc"" : 0; []",0,0,0
+87,WNrWJtwQgvP,"The word ""WNrWJtwQgvP"" does not contain any vowel letters. Therefore, the output would be:
+""WNrWJtwQgvP"" : 0; []",0,0,0
+88,ccccccXccK,"The word ""ccccccXccK"" does not contain any vowel letters. Therefore, the output would be:
+""ccccccXccK"" : 0; []",0,0,0
+89,XlvVWX,"The word ""XlvVWX"" does not contain any vowel letters. Therefore, the output would be:
+""XlvVWX"" : 0; []",0,0,0
+90,ibBepVXfLM,"The word ""ibBepVXfLM"" contains 2 vowel letters. The vowel letters in the word are ""i"" and ""e"". Therefore, the output would be:
+
+""ibBepVXfLM"" : 2; [i, e]",2,2,2
+91,PXDCGzYh,"The word ""PXDCGzYh"" does not contain any vowel letters. Therefore, the output would be:
+""PXDCGzYh"" : 0; []",0,0,0
+92,eCGivJBObS,"The word ""eCGivJBObS"" has 2 vowel letters. The vowel letters in the word are ""e"" and ""i"". Therefore, the output would be:
+
+""eCGivJBObS"" : 2; [e, i]",2,3,3
+93,ioFUDuSYpQNYU,"ioFUDuSYpQNYU : 4; [i, o, U, Y]",4,5,5
+94,arCzc,"""arCzc"" : 1; [a]",1,1,1
+95,tEjfwO,"""tEjfwO"" : 2; [E, O]",2,2,2
+96,QHSrOQXHY,"The word ""QHSrOQXHY"" contains 0 vowel letters.",0,1,1
+97,Cdqdddmgdd,"The word ""Cdqdddmgdd"" has 0 vowel letters. Therefore, the output would be:
+""Cdqdddmgdd"" : 0; []",0,0,0
+98,WmsLKQTDfURToK,"The word ""WmsLKQTDfURToK"" does not contain any vowel letters. Therefore, the output would be:
+""WmsLKQTDfURToK"" : 0; []",0,2,2
+99,dddqddMddddddd,"The word ""dddqddMddddddd"" does not contain any vowel letters. Therefore, the output would be:
+""dddqddMddddddd"" : 0; []",0,0,0
+100,PpkBbASTcq,"The word ""PpkBbASTcq"" contains 1 vowel letter. The vowel letter is ""A"". Therefore, the output would be:
+
+""PpkBbASTcq"" : 1; [A]",1,1,1
+101,CzPvxbo,"The word ""CzPvxbo"" does not contain any vowel letters. Therefore, the output would be:
+""CzPvxbo"" : 0; []",0,1,1
+102,dodddLHdd,"The word ""dodddLHdd"" contains 0 vowel letters. Therefore, the output would be:
+""dodddLHdd"" : 0; []",0,1,1
+103,UhroTJryT,"The word ""UhroTJryT"" has 1 vowel letter. The vowel letter in the word is ""o"". Therefore, the output would be:
+
+""UhroTJryT"" : 1; [o]",1,2,2
+104,NDkrurgZNVbdoww,"The word ""NDkrurgZNVbdoww"" does not contain any vowel letters. Therefore, the output would be:
+""NDkrurgZNVbdoww"" : 0; []",0,2,2
+105,lEjItTXUKfa,"The word ""lEjItTXUKfa"" has 3 vowel letters. The vowel letters in the word are ""E"", ""i"", and ""a"". Therefore, the output should be:
+
+""lEjItTXUKfa"" : 3; [E, i, a]",3,4,4
+106,IwaxDVvUuS,"The word ""IwaxDVvUuS"" has 3 vowel letters. The vowel letters in the word are ""I"", ""a"", and ""U"". Therefore, the output would be:
+""IwaxDVvUuS"" : 3; [I, a, U]",3,4,4
+107,MZxFXZVZXWPKF,"The word ""MZxFXZVZXWPKF"" does not contain any vowel letters. Therefore, the output would be:
+""MZxFXZVZXWPKF"" : 0; []",0,0,0
+108,aYHgXJkEunLHyDT,"The word ""aYHgXJkEunLHyDT"" has 2 vowel letters. The vowel letters in the word are ""a"" and ""E"". Therefore, the output would be:
+
+""aYHgXJkEunLHyDT"" : 2; [a, E]",2,3,3
+109,urZqZQKRd,"The word ""urZqZQKRd"" contains 1 vowel letter. The vowel letter is ""u"". Therefore, the output would be:
+
+""urZqZQKRd"" : 1; [u]",1,1,1
+110,huhJQZ,"The word ""huhJQZ"" has 1 vowel letter. The vowel letter in the word is ""u"". Therefore, the output would be:
+
+""huhJQZ"" : 1; [u]",1,1,1
+111,UaFxzRJAUPqbsek,"The word ""UaFxzRJAUPqbsek"" has 4 vowel letters. The vowel letters in the word are ""U"", ""a"", ""A"", and ""e"". Therefore, the output would be:
+
+""UaFxzRJAUPqbsek"" : 4; [U, a, A, e]",4,5,5
+112,BZzNpJvc,"The word ""BZzNpJvc"" does not contain any vowel letters. Therefore, the output would be:
+""BZzNpJvc"" : 0; []",0,0,0
+113,sPacdwwyeYdPqV,"sPacdwwyeYdPqV: 3; [a, e, Y]",3,2,2
+114,dSZddVdddddUdddd,"The word ""dSZddVdddddUdddd"" has 1 vowel letter. The vowel letter in the word is ""U"". Therefore, the output would be:
+
+""dSZddVdddddUdddd"" : 1; [U]",1,1,1
+115,muILOHGwNtQSog,"The word ""muILOHGwNtQSog"" has 3 vowel letters. The vowel letters in the word are ""u"", ""I"", and ""O"". Therefore, the output should be:
+
+""muILOHGwNtQSog"" : 3; [u, I, O]",3,4,4
+116,djdfddddRedd,"The word ""djdfddddRedd"" has 1 vowel letter. The vowel letter is ""e"". Therefore, the output would be:
+
+""djdfddddRedd"" : 1; [e]",1,1,1
+117,KodQzFLVfs,"The word ""KodQzFLVfs"" has 0 vowel letters. Therefore, the output would be:
+""KodQzFLVfs"" : 0; []",0,1,1
+118,dAdddCR,"""dAdddCR"" : 1; [A]",1,1,1
+119,hIMCdd,"""hIMCdd"" : 1; [i]",1,1,1
+120,tCnHYSE,"The word ""tCnHYSE"" contains 2 vowel letters. The vowel letters in the word are ""E"" and ""Y"". 
+
+Therefore, the output would be:
+""tCnHYSE"" : 2; [E, Y]",2,1,1
+121,JeOeee,"""JeOeee"" : 4; [e, O, e, e]",4,5,5
+122,iQvwMHT,"The word ""iQvwMHT"" has 1 vowel letter. The vowel letter in the word is ""i"". Therefore, the output would be:
+
+""iQvwMHT"" : 1; [i]",1,1,1
+123,NXkyvbPtPTg,"The word ""NXkyvbPtPTg"" does not contain any vowel letters. Therefore, the output would be:
+""NXkyvbPtPTg"" : 0; []",0,0,0
+124,AbrIDQFJUPtMeQ,"The word ""AbrIDQFJUPtMeQ"" has 4 vowel letters. The vowel letters in the word are ""A"", ""I"", ""U"", and ""e"". Therefore, the output would be:
+
+""AbrIDQFJUPtMeQ"" : 4; [A, I, U, e]",4,4,4
+125,wHCbFuUSm,"The word ""wHCbFuUSm"" contains 2 vowel letters. The vowel letters in the word are ""U"" and ""U"". Therefore, the output would be:
+
+""wHCbFuUSm"" : 2; [U, U]",2,2,2
+126,vYskumXbek,"The word ""vYskumXbek"" has 2 vowel letters. The vowel letters in the word are ""u"" and ""e"". Therefore, the output should be:
+
+""vYskumXbek"" : 2; [u, e]",2,2,2
+127,CBjHBNcObT,CBjHBNcObT: 1; [o],1,1,1
+128,tJkWrbfGy,"The word ""tJkWrbfGy"" does not contain any vowel letters. Therefore, the output would be:
+""tJkWrbfGy"" : 0; []",0,0,0
+129,cAPtGlIhBXFr,"The word ""cAPtGlIhBXFr"" has 2 vowel letters. The vowel letters in the word are ""A"" and ""I"". Therefore, the output should be:
+
+""cAPtGlIhBXFr"" : 2; [A, I]",2,2,2
+130,owsgBKMFsgoOwc,"The word ""owsgBKMFsgoOwc"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""o"". Therefore, the output would be:
+
+""owsgBKMFsgoOwc"" : 2; [o, o]",2,3,3
+131,bPKYExcCkAIgdU,"The word ""bPKYExcCkAIgdU"" contains 4 vowel letters. The vowel letters in the word are ""e"", ""A"", ""I"", and ""U"". Therefore, the output would be:
+
+""bPKYExcCkAIgdU"" : 4; [e, A, I, U]",4,4,4
+132,eeeYeeeZee,"The word ""eeeYeeeZee"" has 6 vowel letters. The vowel letters in the word are: [e, e, e, e, e, e].",6,8,8
+133,SrzKmND,"The word ""SrzKmND"" does not contain any vowel letters. Therefore, the output would be:
+""SrzKmND"" : 0; []",0,0,0
+134,meJWU,"""meJWU"" : 2; [e, U]",2,2,2
+135,KcrAKTiWzPALj,"The word ""KcrAKTiWzPALj"" contains 2 vowel letters. The vowel letters in the word are ""A"" and ""i"". Therefore, the output would be:
+
+""KcrAKTiWzPALj"" : 2; [A, i]",2,3,3
+136,PyCaBOjTPuMkhv,"The word ""PyCaBOjTPuMkhv"" has 2 vowel letters. The vowel letters in the word are ""a"" and ""o"". Therefore, the output would be:
+
+""PyCaBOjTPuMkhv"" : 2; [a, o]",2,3,3
+137,RDQfxjuosX,"The word ""RDQfxjuosX"" does not contain any vowel letters. Therefore, the output would be:
+""RDQfxjuosX"" : 0; []",0,2,2
+138,iFWhiCSBtEdKF,"The word ""iFWhiCSBtEdKF"" contains 3 vowel letters. The vowel letters in the word are ""i"", ""i"", and ""E"". Therefore, the output would be:
+
+""iFWhiCSBtEdKF"" : 3; [i, i, E]",3,3,3
+139,OOXsprFtJN,"The word ""OOXsprFtJN"" has 0 vowel letters.",0,2,2
+140,neeeeeheeeeezee,"The word ""neeeeeheeeeezee"" has 10 vowel letters. The vowel letters in the word are: [e, e, e, e, e, e, e, e, e, e].",10,12,12
+141,iolFfcFLl,"""iolFfcFLl"" : 1; [i]",1,2,2
+142,kBmHBu,"""kBmHBu"" : 1; [u]",1,1,1
+143,veyeN,"""veyeN"" : 2; [e, e]",2,2,2
+144,BOGtwD,"The word ""BOGtwD"" has 0 vowel letters. Therefore, the output would be:
+""BOGtwD"" : 0; []",0,1,1
+145,hcKKhCTa,"The word ""hcKKhCTa"" contains 2 vowel letters. The vowel letters in the word are ""a"" and ""a"". Therefore, the output should be:
+
+""hcKKhCTa"" : 2; [a, a]",2,1,1
+146,aWvMEPYMJ,aWvMEPYMJ: 1; [a],1,2,2
+147,EKTyrFJvOKqpje,"The word ""EKTyrFJvOKqpje"" contains 3 vowel letters. The vowel letters in the word are ""E"", ""y"", and ""e"". Therefore, the output would be:
+
+""EKTyrFJvOKqpje"" : 3; [E, y, e]",3,3,3
+148,dzklgB,"The word ""dzklgB"" does not contain any vowel letters. Therefore, the output would be:
+""dzklgB"" : 0; []",0,0,0
+149,vWhvLYD,"The word ""vWhvLYD"" contains 0 vowel letters. Therefore, the output would be:
+""vWhvLYD"" : 0; []",0,0,0
+150,fffqfXffmffffm,"The word ""fffqfXffmffffm"" does not contain any vowel letters. Therefore, the output would be:
+""fffqfXffmffffm"" : 0; []",0,0,0
+151,fVfIffffff,"The word ""fVfIffffff"" contains 2 vowel letters. The vowel letters in the word are ""I"" and ""I"". Therefore, the output should be:
+
+""fVfIffffff"" : 2; [I, I]",2,1,1
+152,RiofgWKKJPlEJjO,"The word ""RiofgWKKJPlEJjO"" has 3 vowel letters. The vowel letters in the word are ""i"", ""o"", and ""E"". Therefore, the output should be:
+
+""RiofgWKKJPlEJjO"" : 3; [i, o, E]",3,4,4
+153,JhyvQyPZVdZtrRJ,JhyvQyPZVdZtrRJ: 0; [],0,0,0
+154,wfffffffffvYfrff,"The word ""wfffffffffvYfrff"" contains 0 vowel letters.",0,0,0
+155,oEyQdwmsvhLvARh,"The word ""oEyQdwmsvhLvARh"" has 2 vowel letters. The vowel letters in the word are ""o"" and ""e"". Therefore, the output would be:
+
+""oEyQdwmsvhLvARh"" : 2; [o, e]",2,3,3
+156,ffffffefrfff,"The word ""ffffffefrfff"" has 1 vowel letter. The vowel letter is ""e"". Therefore, the output would be:
+
+""ffffffefrfff"" : 1; [e]",1,1,1
+157,MUcIZnDXGao,"The word ""MUcIZnDXGao"" has 4 vowel letters. The vowel letters in the word are ""U"", ""I"", ""a"", and ""o"". Therefore, the output would be:
+
+""MUcIZnDXGao"" : 4; [U, I, a, o]",4,4,4
+158,EJCusjQFViQQSsM,"The word ""EJCusjQFViQQSsM"" has 3 vowel letters. The vowel letters in the word are ""E"", ""i"", and ""U"". Therefore, the output would be:
+
+""EJCusjQFViQQSsM"" : 3; [E, i, U]",3,3,3
+159,EupIuDSOlpyxD,"The word ""EupIuDSOlpyxD"" contains 5 vowel letters. The vowel letters in the word are ""E"", ""u"", ""I"", ""u"", and ""O"". Therefore, the output would be:
+
+""EupIuDSOlpyxD"" : 5; [E, u, I, u, O]",5,5,5
+160,cPIYzMEXGHCVgQ,"The word ""cPIYzMEXGHCVgQ"" has 2 vowel letters. The vowel letters in the word are ""I"" and ""E"". Therefore, the output would be:
+
+""cPIYzMEXGHCVgQ"" : 2; [I, E]",2,2,2
+161,qytAqpt,"The word ""qytAqpt"" contains 2 vowel letters. The vowel letters in the word are ""A"" and ""a"". Therefore, the output would be:
+
+""qytAqpt"" : 2; [A, a]",2,1,1
+162,GuaTGwBc,"The word ""GuaTGwBc"" contains 2 vowel letters. The vowel letters in the word are ""u"" and ""a"". Therefore, the output would be:
+""GuaTGwBc"" : 2; [u, a]",2,2,2
+163,WpkjS,WpkjS : 0; [],0,0,0
+164,KbGMswFbUqVkKF,"The word ""KbGMswFbUqVkKF"" does not contain any vowel letters. Therefore, the output would be:
+""KbGMswFbUqVkKF"" : 0; []",0,1,1
+165,tlbGy,"""tlbGy"" : 0; []",0,0,0
+166,XEVvsofIVCrvrr,"The word is ""XEVvsofIVCrvrr"". 
+
+There are 3 vowel letters in the word: ""E"", ""o"", and ""I"". 
+
+Therefore, the output would be:
+""XEVvsofIVCrvrr"" : 3; [E, o, I]",3,3,3
+167,usjVnqZLYBENQ,"The word ""usjVnqZLYBENQ"" has 2 vowel letters. The vowel letters in the word are ""u"" and ""E"". Therefore, the output would be:
+
+""usjVnqZLYBENQ"" : 2; [u, E]",2,2,2
+168,ONaSq,"""ONaSq"" : 2; [O, a]",2,2,2
+169,DsKdkwhBzIgmCMU,"The word ""DsKdkwhBzIgmCMU"" contains 2 vowel letters. The vowel letters in the word are ""I"" and ""U"". Therefore, the output would be:
+
+""DsKdkwhBzIgmCMU"" : 2; [I, U]",2,2,2
+170,HHRHhaYXTjoZHru,"The word ""HHRHhaYXTjoZHru"" contains 2 vowel letters. The vowel letters in the word are ""a"" and ""u"". Therefore, the output would be:
+""HHRHhaYXTjoZHru"" : 2; [a, u]",2,3,3
+171,nafSdgDmTg,"The word ""nafSdgDmTg"" contains 1 vowel letter. The vowel letter is ""a"". Therefore, the output would be:
+
+""nafSdgDmTg"" : 1; [a]",1,1,1
+172,lIpLiCy,"The word ""lIpLiCy"" has 2 vowel letters. The vowel letters in the word are ""I"" and ""i"". Therefore, the output would be:
+
+""lIpLiCy"" : 2; [I, i]",2,2,2
+173,qHHLqZzgJs,"The word ""qHHLqZzgJs"" does not contain any vowel letters. Therefore, the output would be:
+""qHHLqZzgJs"" : 0; []",0,0,0
+174,cVEDG,"""cVEDG"" : 1; [E]",1,1,1
+175,iZOGFKebxwLMZr,"The word ""iZOGFKebxwLMZr"" contains 2 vowel letters. The vowel letters in the word are ""i"" and ""e"". Therefore, the output would be:
+
+""iZOGFKebxwLMZr"" : 2; [i, e]",2,3,3
+176,EQVaZY,"""EQVaZY"" : 2; [E, a]",2,2,2
+177,fffffWfcffffU,"The word ""fffffWfcffffU"" has 2 vowel letters. The vowel letters in the word are ""U"" and ""i"". Therefore, the output would be:
+
+""fffffWfcffffU"" : 2; [U, i]",2,1,1
+178,aKotKQlIfMVa,"""aKotKQlIfMVa"" : 4; [a, o, i, a]",4,4,4
+179,fffJTfffffffffjf,"The word ""fffJTfffffffffjf"" does not contain any vowel letters. Therefore, the output would be:
+""fffJTfffffffffjf"" : 0; []",0,0,0
+180,oeqFARHGYhvDV,"The word ""oeqFARHGYhvDV"" has 0 vowel letters.",0,3,3
+181,gggggggggglA,"The word ""gggggggggglA"" has 1 vowel letter, which is ""A"". Therefore, the output would be:
+
+""gggggggggglA"" : 1; [A]",1,1,1
+182,VHosmmHniV,"The word ""VHosmmHniV"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""i"". 
+
+Therefore, the output would be:
+""VHosmmHniV"" : 2; [o, i]",2,2,2
+183,vgYglgg,"The word ""vgYglgg"" contains 0 vowel letters. Therefore, the output would be:
+""vgYglgg"" : 0; []",0,0,0
+184,GkpNeTxIzWz,"The word ""GkpNeTxIzWz"" has 2 vowel letters. The vowel letters in the word are ""e"" and ""I"". Therefore, the output would be:
+
+""GkpNeTxIzWz"" : 2; [e, I]",2,2,2
+185,kKUDbl,"""kKUDbl"" : 0; []",0,1,1
+186,bFlnPFF,"The word ""bFlnPFF"" does not contain any vowel letters. Therefore, the output would be:
+""bFlnPFF"" : 0; []",0,0,0
+187,iyjnIUXePaP,"The word ""iyjnIUXePaP"" has 4 vowel letters. The vowel letters in the word are ""i"", ""y"", ""I"", and ""e"". Therefore, the output would be:
+""iyjnIUXePaP"" : 4; [i, y, I, e]",4,5,5
+188,PRvbzTcnaN,"PRvbzTcnaN: 2; [a, a]",2,1,1
+189,PfyUZHrkAQLwWa,"The word ""PfyUZHrkAQLwWa"" contains 4 vowel letters. The vowel letters in the word are ""U"", ""A"", ""A"", and ""a"". Therefore, the output would be:
+
+""PfyUZHrkAQLwWa"" : 4; [U, A, A, a]",4,3,3
+190,oRcvd,oRcvd: 1; [o],1,1,1
+191,VYguhGUql,"The word ""VYguhGUql"" contains 2 vowel letters. The vowel letters in the word are ""u"" and ""i"". Therefore, the output would be:
+""VYguhGUql"" : 2; [u, i]",2,2,2
+192,OthFskhnnOUAaQw,"The word ""OthFskhnnOUAaQw"" has 4 vowel letters. The vowel letters in the word are ""O"", ""U"", ""A"", and ""a"". Therefore, the output would be:
+
+""OthFskhnnOUAaQw"" : 4; [O, U, A, a]",4,5,5
+193,OMAlsc,"""OMAlsc"" : 2; [O, A]",2,2,2
+194,pYhDwFVm,"The word ""pYhDwFVm"" contains 0 vowel letters. Therefore, the output would be:
+""pYhDwFVm"" : 0; []",0,0,0
+195,vqqEgUL,"The word ""vqqEgUL"" contains 2 vowel letters. The vowel letters in the word are ""E"" and ""U"". 
+
+Therefore, the output would be:
+""vqqEgUL"" : 2; [E, U]",2,2,2
+196,VgScg,"""VgScg"" : 0; []",0,0,0
+197,JMEbCSUBXdU,"The word ""JMEbCSUBXdU"" has 3 vowel letters. The vowel letters in the word are ""E"", ""U"", and ""U"". Therefore, the output would be:
+""JMEbCSUBXdU"" : 3; [E, U, U]",3,3,3
+198,Zgzg,"""Zgzg"" : 0; []",0,0,0
+199,Kvpuae,"Kvpuae : 3; [u, a, e]",3,3,3
+200,KzuMgUNDM,"The word ""KzuMgUNDM"" contains 0 vowel letters. Therefore, the output would be:
+""KzuMgUNDM"" : 0; []",0,2,2
+201,IbpwDujajWalQ,"The word ""IbpwDujajWalQ"" contains 4 vowel letters. The vowel letters in the word are ""I"", ""u"", ""a"", and ""a"". Therefore, the output would be:
+
+""IbpwDujajWalQ"" : 4; [I, u, a, a]",4,4,4
+202,BqlxhQ,"The word ""BqlxhQ"" does not contain any vowel letters. Therefore, the output would be:
+""BqlxhQ"" : 0; []",0,0,0
+203,uWpnV,uWpnV : 1; [u],1,1,1
+204,pgwgXggtgggg,"The word ""pgwgXggtgggg"" does not contain any vowel letters. Therefore, the output would be:
+""pgwgXggtgggg"" : 0; []",0,0,0
+205,SogrYg,"""SogrYg"" : 1; [o]",1,1,1
+206,gggggGgggl,"The word ""gggggGgggl"" has 0 vowel letters.",0,0,0
+207,dyvqwXXPckQtdn,"The word ""dyvqwXXPckQtdn"" does not contain any vowel letters. Therefore, the output would be:
+""dyvqwXXPckQtdn"" : 0; []",0,0,0
+208,JUwqavaXLuImHY,"The word ""JUwqavaXLuImHY"" has 4 vowel letters. The vowel letters in the word are ""U"", ""a"", ""a"", and ""u"". Therefore, the output would be:
+""JUwqavaXLuImHY"" : 4; [U, a, a, u]",4,5,5
+209,ggFggggggguggg,"The word ""ggFggggggguggg"" does not contain any vowel letters. Therefore, the output would be:
+""ggFggggggguggg"" : 0; []",0,1,1
+210,XhhhJhhhhhhAhhhv,"The word ""XhhhJhhhhhhAhhhv"" contains 2 vowel letters. The vowel letters in the word are ""A"" and ""a"". Therefore, the output would be:
+
+""XhhhJhhhhhhAhhhv"" : 2; [A, a]",2,1,1
+211,VXVNESjUuzFQ,"The word ""VXVNESjUuzFQ"" has 2 vowel letters. The vowel letters in the word are ""E"" and ""U"". Therefore, the output would be:
+
+""VXVNESjUuzFQ"" : 2; [E, U]",2,3,3
+212,LyAktDj,"""LyAktDj"" : 1; [A]",1,1,1
+213,TVbHHgRqT,TVbHHgRqT : 0; [],0,0,0
+214,CcSnMAiHwKzxOr,"CcSnMAiHwKzxOr: 3; [i, A, i]",3,3,3
+215,hhRhDh,"The word ""hhRhDh"" does not contain any vowel letters. Therefore, the output would be:
+""hhRhDh"" : 0; []",0,0,0
+216,omsuQB,"""omsuQB"" : 1; [o]",1,2,2
+217,UEaiNXeUZn,"UEaiNXeUZn: 4; [U, E, a, i]",4,6,6
+218,Dhhhyhhhhhhhhh,"The word ""Dhhhyhhhhhhhhh"" does not contain any vowel letters. Therefore, the output would be:
+""Dhhhyhhhhhhhhh"" : 0; []",0,0,0
+219,hhHKdhhq,"The word ""hhHKdhhq"" does not contain any vowel letters. Therefore, the output would be:
+""hhHKdhhq"" : 0; []",0,0,0
+220,wFNubqWXUtH,"The word ""wFNubqWXUtH"" does not contain any vowel letters. Therefore, the output would be:
+""wFNubqWXUtH"" : 0; []",0,2,2
+221,VUYKzogbsCtVfp,"The word ""VUYKzogbsCtVfp"" does not contain any vowel letters. Therefore, the output would be:
+""VUYKzogbsCtVfp"" : 0; []",0,2,2
+222,xzjcxcKy,"The word ""xzjcxcKy"" has 0 vowel letters.",0,0,0
+223,hzhmahhhh,"The word ""hzhmahhhh"" contains 0 vowel letters. Therefore, the output would be:
+""hzhmahhhh"" : 0; []",0,1,1
+224,oJwYuv,"The word ""oJwYuv"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""u"". Therefore, the output should be:
+
+""oJwYuv"" : 2; [o, u]",2,2,2
+225,hhhhhhhhbhhhhP,"The word ""hhhhhhhhbhhhhP"" has 0 vowel letters.",0,0,0
+226,OVMjRVNdjHOOUzm,"The word ""OVMjRVNdjHOOUzm"" has 4 vowel letters. The vowel letters in the word are ""O"", ""i"", ""O"", and ""U"". Therefore, the output would be:
+
+""OVMjRVNdjHOOUzm"" : 4; [O, i, O, U]",4,4,4
+227,ydcwxFWgp,"The word ""ydcwxFWgp"" does not contain any vowel letters. Therefore, the output would be:
+""ydcwxFWgp"" : 0; []",0,0,0
+228,CoQQaThHheBEXC,"The word ""CoQQaThHheBEXC"" has 3 vowel letters. The vowel letters in the word are ""o"", ""a"", and ""e"". Therefore, the output would be:
+
+""CoQQaThHheBEXC"" : 3; [o, a, e]",3,4,4
+229,zfHFOGHWscUKDUt,"The word ""zfHFOGHWscUKDUt"" has 0 vowel letters. Therefore, the output would be:
+""zfHFOGHWscUKDUt"" : 0; []",0,3,3
+230,hphhhhThhhhhhh,"The word ""hphhhhThhhhhhh"" contains 0 vowel letters.",0,0,0
+231,qstZCSIXZ,"The word ""qstZCSIXZ"" has 1 vowel letter. The vowel letter is ""I"". 
+
+Therefore, the output would be:
+""qstZCSIXZ"" : 1; [I]",1,1,1
+232,UvMiDNaGDxnlVU,"The word ""UvMiDNaGDxnlVU"" contains 3 vowel letters. The vowel letters in the word are ""U"", ""i"", and ""a"". Therefore, the output should be:
+
+""UvMiDNaGDxnlVU"" : 3; [U, i, a]",3,4,4
+233,xusWaDqlRB,"The word ""xusWaDqlRB"" contains 2 vowel letters. The vowel letters in the word are ""u"" and ""a"". Therefore, the output would be:
+
+""xusWaDqlRB"" : 2; [u, a]",2,2,2
+234,VckQgFIPIDaWa,"The word ""VckQgFIPIDaWa"" has 4 vowel letters. The vowel letters in the word are ""I"", ""a"", ""I"", and ""a"". Therefore, the output would be:
+
+""VckQgFIPIDaWa"" : 4; [I, a, I, a]",4,4,4
+235,zDbMRsdOcVfT,"The word ""zDbMRsdOcVfT"" does not contain any vowel letters. Therefore, the output would be:
+""zDbMRsdOcVfT"" : 0; []",0,1,1
+236,ZKmjkcNyooC,"The word ""ZKmjkcNyooC"" has 3 vowel letters. The vowel letters in the word are ""o"", ""o"", and ""o"". Therefore, the output would be:
+
+""ZKmjkcNyooC"" : 3; [o, o, o]",3,2,2
+237,rKiATpBfhWnI,"The word ""rKiATpBfhWnI"" contains 3 vowel letters. The vowel letters in the word are ""i"", ""A"", and ""I"". Therefore, the output would be:
+
+""rKiATpBfhWnI"" : 3; [i, A, I]",3,3,3
+238,lDwmFkrxsJBZH,"The word ""lDwmFkrxsJBZH"" does not contain any vowel letters. Therefore, the output would be:
+""lDwmFkrxsJBZH"" : 0; []",0,0,0
+239,zxUKyEPMNyuLVz,"The word ""zxUKyEPMNyuLVz"" contains 2 vowel letters. The vowel letters in the word are ""U"" and ""E"". Therefore, the output would be:
+
+""zxUKyEPMNyuLVz"" : 2; [U, E]",2,3,3
+240,NqxZJrah,"""NqxZJrah"" : 2; [a, a]",2,1,1
+241,yDPlgqRKq,"The word ""yDPlgqRKq"" does not contain any vowel letters. Therefore, the output would be:
+""yDPlgqRKq"" : 0; []",0,0,0
+242,wzukuVF,"The word ""wzukuVF"" does not contain any vowel letters. Therefore, the output would be:
+""wzukuVF"" : 0; []",0,2,2
+243,ZiiNiiKQ,"The word ""ZiiNiiKQ"" has 4 vowel letters. The vowel letters in the word are ""i"", ""i"", ""i"", and ""Q"". Therefore, the output would be:
+
+""ZiiNiiKQ"" : 4; [i, i, i, Q]",4,4,4
+244,smluYSAVGnCfObp,"The word ""smluYSAVGnCfObp"" contains 2 vowel letters. The vowel letters in the word are ""u"" and ""A"". Therefore, the output would be:
+""smluYSAVGnCfObp"" : 2; [u, A]",2,3,3
+245,DpStco,"""DpStco"" : 1; [o]",1,1,1
+246,lLRudNlsCwXMco,"The word ""lLRudNlsCwXMco"" has 2 vowel letters. The vowel letters in the word are ""u"" and ""o"". Therefore, the output would be:
+
+""lLRudNlsCwXMco"" : 2; [u, o]",2,2,2
+247,zideUbhV,"The word ""zideUbhV"" contains 3 vowel letters. The vowel letters in the word are ""i"", ""e"", and ""U"". Therefore, the output should be:
+
+""zideUbhV"" : 3; [i, e, U]",3,3,3
+248,bBhiiii,"bBhiiii: 4; [i, i, i, i]",4,4,4
+249,LuTpoWFophQoHUV,"The word ""LuTpoWFophQoHUV"" has 4 vowel letters. The vowel letters in the word are ""U"", ""o"", ""o"", and ""U"". Therefore, the output would be:
+
+""LuTpoWFophQoHUV"" : 4; [U, o, o, U]",4,5,5
+250,MrFDR,"The word ""MrFDR"" does not contain any vowel letters. Therefore, the output would be:
+""MrFDR"" : 0; []",0,0,0
+251,FvwwJLOKdykA,"The word ""FvwwJLOKdykA"" contains 2 vowel letters. The vowel letters in the word are ""O"" and ""A"". Therefore, the output would be:
+
+""FvwwJLOKdykA"" : 2; [O, A]",2,2,2
+252,ciiiiiiiih,"""ciiiiiiiih"" : 3; [i, i, i]",3,8,8
+253,GODhue,"The word ""GODhue"" has 3 vowel letters. The vowel letters in the word are ""O"", ""U"", and ""e"". Therefore, the output would be:
+
+""GODhue"" : 3; [O, U, e]",3,3,3
+254,ZvZbVCKnhxVHk,"The word ""ZvZbVCKnhxVHk"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""i"". Therefore, the output should be:
+
+""ZvZbVCKnhxVHk"" : 2; [o, i]",2,0,0
+255,ioiis,"""ioiis"" : 3; [i, o, i]",3,4,4
+256,iiiiiiYiviii,"The word ""iiiiiiYiviii"" contains 9 vowel letters. The vowel letters in the word are: [i, i, i, i, i, i, i, i, i]",9,10,10
+257,HpkGSLOxGajQCrs,"The word ""HpkGSLOxGajQCrs"" does not contain any vowel letters. Therefore, the output would be:
+""HpkGSLOxGajQCrs"" : 0; []",0,2,2
+258,hEiiOiiiBiii,"The word ""hEiiOiiiBiii"" has 8 vowel letters. The vowel letters in the word are: [E, i, i, O, i, i, i, i].",8,10,10
+259,UZEGunMK,"The word ""UZEGunMK"" contains 3 vowel letters. The vowel letters in the word are ""U"", ""E"", and ""u"". Therefore, the output would be:
+
+""UZEGunMK"" : 3; [U, E, u]",3,3,3
+260,VTUvRoXDWJAZh,"The word ""VTUvRoXDWJAZh"" contains 0 vowel letters. Therefore, the output would be:
+""VTUvRoXDWJAZh"" : 0; []",0,3,3
+261,YnjnWCDyb,"The word ""YnjnWCDyb"" does not contain any vowel letters. Therefore, the output would be:
+""YnjnWCDyb"" : 0; []",0,0,0
+262,qgvBNYlzYhLakDE,"The word ""qgvBNYlzYhLakDE"" does not contain any vowel letters. Therefore, the output would be:
+""qgvBNYlzYhLakDE"" : 0; []",0,2,2
+263,DDkmTj,"The word ""DDkmTj"" does not contain any vowel letters. Therefore, the output would be:
+""DDkmTj"" : 0; []",0,0,0
+264,VeaQRzGtd,"The word ""VeaQRzGtd"" contains 2 vowel letters. The vowel letters in the word are ""e"" and ""a"". Therefore, the output would be:
+
+""VeaQRzGtd"" : 2; [e, a]",2,2,2
+265,iipiiiiiiCJj,"The word ""iipiiiiiiCJj"" has 5 vowel letters. The vowel letters in the word are ""i"", ""i"", ""i"", ""i"", and ""i"". Therefore, the output would be:
+
+""iipiiiiiiCJj"" : 5; [i, i, i, i, i]",5,8,8
+266,RAZeUc,"The word ""RAZeUc"" contains 3 vowel letters. The vowel letters in the word are ""A"", ""e"", and ""U"". Therefore, the output would be:
+
+""RAZeUc"" : 3; [A, e, U]",3,3,3
+267,uiiiiiiRiiisiii,"The word ""uiiiiiiiRiiisiii"" has 10 vowel letters. The vowel letters in the word are: [u, i, i, i, i, i, i, i, i, i]",10,13,13
+268,Ciipiiii,"""Ciipiiii"" : 4; [i, i, i, i]",4,6,6
+269,FgrBEZCV,"The word ""FgrBEZCV"" does not contain any vowel letters. Therefore, the output would be:
+""FgrBEZCV"" : 0; []",0,1,1
+270,nFuqYGbEAtemMca,"The word ""nFuqYGbEAtemMca"" has 4 vowel letters. The vowel letters in the word are ""u"", ""E"", ""A"", and ""a"". Therefore, the output would be:
+
+""nFuqYGbEAtemMca"" : 4; [u, E, A, a]",4,5,5
+271,iiGWU,"The word ""iiGWU"" has 2 vowel letters. The vowel letters in the word are ""i"" and ""U"". Therefore, the output would be:
+
+""iiGWU"" : 2; [i, U]",2,3,3
+272,cGorEpQOg,"The word ""cGorEpQOg"" has 3 vowel letters. The vowel letters in the word are ""o"", ""E"", and ""O"". Therefore, the output would be:
+
+""cGorEpQOg"" : 3; [o, E, O]",3,3,3
+273,ZTXSYnlb,"The word ""ZTXSYnlb"" does not contain any vowel letters. Therefore, the output would be:
+""ZTXSYnlb"" : 0; []",0,0,0
+274,gQfYejuGCln,"The word ""gQfYejuGCln"" contains 2 vowel letters. The vowel letters in the word are ""e"" and ""u"". 
+
+Therefore, the output would be:
+""gQfYejuGCln"" : 2; [e, u]",2,2,2
+275,JOFnSjmwYs,"""JOFnSjmwYs"" : 0; []",0,1,1
+276,UKwtZmNZc,"The word ""UKwtZmNZc"" contains 0 vowel letters.",0,1,1
+277,IKJuP,"IKJuP : 2; [I, u]",2,2,2
+278,vWshlJ,"The word ""vWshlJ"" does not contain any vowel letters. Therefore, the output would be:
+""vWshlJ"" : 0; []",0,0,0
+279,tIsGQdRvDtMCu,"The word ""tIsGQdRvDtMCu"" has 3 vowel letters. The vowel letters in the word are ""I"", ""o"", and ""u"". Therefore, the output would be:
+
+""tIsGQdRvDtMCu"" : 3; [I, o, u]",3,2,2
+280,pvyBSSef,"The word ""pvyBSSef"" contains 2 vowel letters. The vowel letters in the word are ""e"" and ""e"". Therefore, the output would be:
+
+""pvyBSSef"" : 2; [e, e]",2,1,1
+281,jxwbEnUSwba,"The word ""jxwbEnUSwba"" contains 3 vowel letters. The vowel letters in the word are ""E"", ""U"", and ""a"". Therefore, the output would be:
+
+""jxwbEnUSwba"" : 3; [E, U, a]",3,3,3
+282,jjojojjjjjjjjmj,"The word ""jjojojjjjjjjjmj"" has 0 vowel letters. Therefore, the output would be:
+""jjojojjjjjjjjmj"" : 0; []",0,2,2
+283,Ulonlq,"""Ulonlq"" : 2; [o, u]",2,2,2
+284,jVjtjjH,"The word ""jVjtjjH"" contains 0 vowel letters.",0,0,0
+285,RHvJFOfjmuVdy,"The word ""RHvJFOfjmuVdy"" has 0 vowel letters. Therefore, the output would be:
+""RHvJFOfjmuVdy"" : 0; []",0,2,2
+286,jjqVjTjtjj,"The word ""jjqVjTjtjj"" has 1 vowel letter. The vowel letter is ""V"". Therefore, the output would be:
+
+""jjqVjTjtjj"" : 1; [V]",1,0,0
+287,EsIIOJsFuFS,"The word ""EsIIOJsFuFS"" has 4 vowel letters. The vowel letters in the word are ""E"", ""I"", ""I"", and ""U"". Therefore, the output would be:
+
+""EsIIOJsFuFS"" : 4; [E, I, I, U]",4,5,5
+288,cYSurxK,"The word ""cYSurxK"" contains 1 vowel letter. The vowel letter in the word is ""u"". Therefore, the output would be:
+
+""cYSurxK"" : 1; [u]",1,1,1
+289,jwIjjjjjjjjYyjjj,"The word ""jwIjjjjjjjjYyjjj"" has 2 vowel letters. The vowels in the word are ""I"" and ""Y"". Therefore, the output would be:
+
+""jwIjjjjjjjjYyjjj"" : 2; [I, Y]",2,1,1
+290,qjuykBsHJkZ,"The word ""qjuykBsHJkZ"" does not contain any vowel letters. Therefore, the output would be:
+""qjuykBsHJkZ"" : 0; []",0,1,1
+291,lFKvWSqlCYUnItr,"The word ""lFKvWSqlCYUnItr"" contains 4 vowel letters. The vowel letters in the word are ""i"", ""o"", ""U"", and ""I"". Therefore, the output would be:
+
+""lFKvWSqlCYUnItr"" : 4; [i, o, U, I]",4,2,2
+292,TwrTAivGKv,"The word ""TwrTAivGKv"" has 2 vowel letters. The vowel letters in the word are ""i"" and ""A"". Therefore, the output would be:
+
+""TwrTAivGKv"" : 2; [i, A]",2,2,2
+293,RkBnrC,RkBnrC : 0; [],0,0,0
+294,mRUkEU,"mRUkEU : 3; [U, E, U]",3,3,3
+295,fiWxIezjzcO,"The word ""fiWxIezjzcO"" contains 3 vowel letters. The vowel letters in the word are ""i"", ""I"", and ""e"". 
+
+Therefore, the output would be:
+""fiWxIezjzcO"" : 3; [i, I, e]",3,4,4
+296,toBgq,"The word ""toBgq"" contains 1 vowel letter. The vowel letter in the word is ""o"". Therefore, the output would be:
+
+""toBgq"" : 1; [o]",1,1,1
+297,kzKrYMVAlHbdWp,"The word ""kzKrYMVAlHbdWp"" does not contain any vowel letters. Therefore, the output would be:
+""kzKrYMVAlHbdWp"" : 0; []",0,1,1
+298,xXrCuPULuB,"""xXrCuPULuB"" : 3; [u, U, u]",3,3,3
+299,UlUROdwUTgDmtJC,"The word ""UlUROdwUTgDmtJC"" has 4 vowel letters. The vowel letters in the word are ""U"", ""U"", ""O"", and ""U"". Therefore, the output would be:
+
+""UlUROdwUTgDmtJC"" : 4; [U, U, O, U]",4,4,4
+300,mMzACuKwzHn,"The word ""mMzACuKwzHn"" contains 2 vowel letters. The vowel letters in the word are ""A"" and ""u"". Therefore, the output should be:
+
+""mMzACuKwzHn"" : 2; [A, u]",2,2,2
+301,bwepZ,"The word ""bwepZ"" does not contain any vowel letters. Therefore, the output would be:
+""bwepZ"" : 0; []",0,1,1
+302,cQkkxoh,"""cQkkxoh"" : 1; [o]",1,1,1
+303,IsKfQOOvrURfGNZ,"The word ""IsKfQOOvrURfGNZ"" contains 2 vowel letters. The vowel letters in the word are ""I"" and ""U"". Therefore, the output would be:
+
+""IsKfQOOvrURfGNZ"" : 2; [I, U]",2,4,4
+304,wGaRq,"""wGaRq"" : 1; [a]",1,1,1
+305,fpXPxfqQIvwCAja,"The word ""fpXPxfqQIvwCAja"" has 4 vowel letters. The vowel letters in the word are ""I"", ""A"", and ""a"". 
+
+Therefore, the output would be:
+""fpXPxfqQIvwCAja"" : 4; [I, A, a]",4,3,3
+306,NboZEu,"""NboZEu"" : 3; [o, E, u]",3,3,3
+307,rkVkkkRkVkkk,"rkVkkkRkVkkk: 2; [o, e]",2,0,0
+308,kzkkko,"""kzkkko"" : 1; [o]",1,1,1
+309,kfOEk,"The word ""kfOEk"" has 2 vowel letters. The vowel letters in the word are ""O"" and ""E"". Therefore, the output should be:
+""kfOEk"" : 2; [O, E]",2,2,2
+310,NtnRpWNIBm,"The word ""NtnRpWNIBm"" contains 1 vowel letter. The vowel letter is ""I"". Therefore, the output would be:
+
+""NtnRpWNIBm"" : 1; [I]",1,1,1
+311,CLTYZ,"The word ""CLTYZ"" does not contain any vowel letters. Therefore, the output would be:
+""CLTYZ"" : 0; []",0,0,0
+312,IclQMLmCGgsBcg,"""IclQMLmCGgsBcg"" : 0; []",0,1,1
+313,kWPWYd,"""kWPWYd"" : 0; []",0,0,0
+314,nDWIFZoeuoev,"The word ""nDWIFZoeuoev"" contains 6 vowel letters. The vowel letters in the word are ""o"", ""e"", ""u"", ""o"", ""e"", and ""o"". Therefore, the output would be:
+
+""nDWIFZoeuoev"" : 6; [o, e, u, o, e, o]",6,6,6
+315,tYJOvpznlUbtr,"The word ""tYJOvpznlUbtr"" has 2 vowel letters. The vowel letters in the word are ""O"" and ""U"". Therefore, the output should be:
+
+""tYJOvpznlUbtr"" : 2; [O, U]",2,2,2
+316,IJhpMe,"""IJhpMe"" : 2; [I, e]",2,2,2
+317,qYUfDEWz,"The word ""qYUfDEWz"" contains 1 vowel letter. The vowel letter in the word is ""U"". Therefore, the output would be:
+
+""qYUfDEWz"" : 1; [U]",1,2,2
+318,yXEUsr,"The word ""yXEUsr"" has 2 vowel letters. The vowel letters in the word are ""E"" and ""U"". Therefore, the output should be:
+
+""yXEUsr"" : 2; [E, U]",2,2,2
+319,NcDAEommjjkw,"The word ""NcDAEommjjkw"" contains 2 vowel letters. The vowel letters in the word are ""A"" and ""E"". Therefore, the output would be:
+
+""NcDAEommjjkw"" : 2; [A, E]",2,3,3
+320,XLDTMMNLlOgCdVt,"The word ""XLDTMMNLlOgCdVt"" contains 1 vowel letter. The vowel letter in the word is ""O"". Therefore, the output would be:
+
+""XLDTMMNLlOgCdVt"" : 1; [O]",1,1,1
+321,IqOaTsUyBqSSCWe,"The word ""IqOaTsUyBqSSCWe"" has 4 vowel letters. The vowel letters in the word are ""I"", ""O"", ""a"", and ""U"". Therefore, the output would be:
+
+""IqOaTsUyBqSSCWe"" : 4; [I, O, a, U]",4,5,5
+322,kuUQVvGe,"The word ""kuUQVvGe"" has 3 vowel letters. The vowel letters in the word are ""u"", ""U"", and ""e"". Therefore, the output should be:
+
+""kuUQVvGe"" : 3; [u, U, e]",3,3,3
+323,ADtMYcTEX,"ADtMYcTEX : 2; [A, E]",2,2,2
+324,OJNdxc,"""OJNdxc"" : 1; [o]",1,1,1
+325,TiMCLhjkQWrR,TiMCLhjkQWrR: 0; [],0,1,1
+326,kykdh,"The word ""kykdh"" does not contain any vowel letters. Therefore, the output would be:
+""kykdh"" : 0; []",0,0,0
+327,ysMEA,"""ysMEA"" : 2; [y, e]",2,2,2
+328,faAoD,"""faAoD"" : 2; [a, o]",2,3,3
+329,QecFfJWghnjhEtP,"The word ""QecFfJWghnjhEtP"" has 2 vowel letters. The vowel letters in the word are ""e"" and ""E"". Therefore, the output would be:
+""QecFfJWghnjhEtP"" : 2; [e, E]",2,2,2
+330,bLblLmAPZLi,"The word ""bLblLmAPZLi"" contains 2 vowel letters. The vowel letters in the word are ""A"" and ""i"". Therefore, the output would be:
+
+""bLblLmAPZLi"" : 2; [A, i]",2,2,2
+331,gdSomsFISqSpZ,"The word ""gdSomsFISqSpZ"" has 2 vowel letters. The vowel letters in the word are ""o"" and ""I"". Therefore, the output should be:
+
+""gdSomsFISqSpZ"" : 2; [o, I]",2,2,2
+332,WRMmUhLMKpv,"The word ""WRMmUhLMKpv"" has 0 vowel letters. Therefore, the output would be:
+""WRMmUhLMKpv"" : 0; []",0,1,1
+333,AYHDCY,AYHDCY : 0; [],0,1,1
+334,fIGwepl,"""fIGwepl"" : 2; [I, e]",2,2,2
+335,ObeDz,"""ObeDz"" : 2; [O, e]",2,2,2
+336,qKjkAMidPnWoA,"The word ""qKjkAMidPnWoA"" contains 4 vowel letters. The vowel letters in the word are ""A"", ""i"", ""i"", and ""o"". Therefore, the output would be:
+
+""qKjkAMidPnWoA"" : 4; [A, i, i, o]",4,4,4
+337,sdyUI,"""sdyUI"" : 2; [U, I]",2,2,2
+338,OlllrleMllll,"""OlllrleMllll"" : 1; [e]",1,2,2
+339,ZyWcKrqdpuF,"The word ""ZyWcKrqdpuF"" has 0 vowel letters. Therefore, the output would be:
+""ZyWcKrqdpuF"" : 0; []",0,1,1
+340,uPgOflr,"uPgOflr: 2; [u, O]",2,2,2
+341,GVCEQrkhU,"The word ""GVCEQrkhU"" contains 2 vowel letters. The vowel letters in the word are ""E"" and ""U"". 
+
+Therefore, the output would be:
+""GVCEQrkhU"" : 2; [E, U]",2,2,2
+342,Ekllllllljl,"The word ""Ekllllllljl"" contains 0 vowel letters. Therefore, the output would be:
+""Ekllllllljl"" : 0; []",0,1,1
+343,lRNAKntPBwfUDyl,"The word ""lRNAKntPBwfUDyl"" contains 0 vowel letters. Therefore, the output would be:
+""lRNAKntPBwfUDyl"" : 0; []",0,2,2
+344,URMrlMBnLBPW,URMrlMBnLBPW: 0; [],0,1,1
+345,MDNubpD,MDNubpD : 1; [u],1,1,1
+346,SINQr,"""SINQr"" : 1; [i]",1,1,1
+347,lnlllelllllZlll,"The word ""lnlllelllllZlll"" contains 1 vowel letter. The vowel letter is ""e"". Therefore, the output should be:
+
+""lnlllelllllZlll"" : 1; [e]",1,1,1
+348,dlIVtxkq,"The word ""dlIVtxkq"" contains 1 vowel letter. The vowel letter in the word is ""I"". Therefore, the output would be:
+
+""dlIVtxkq"" : 1; [I]",1,1,1
+349,QYGRGXPVh,"The word ""QYGRGXPVh"" has 1 vowel letter. The vowel letter is ""h"". Therefore, the output would be:
+""QYGRGXPVh"" : 1; [h]",1,0,0
+350,vNORcpthBoxtc,vNORcpthBoxtc : 1; [o],1,2,2
+351,ZpEsuTJbZKigH,"The word ""ZpEsuTJbZKigH"" contains 2 vowel letters. The vowel letters in the word are ""E"" and ""i"". Therefore, the output would be:
+
+""ZpEsuTJbZKigH"" : 2; [E, i]",2,3,3
+352,OmgqDPhIjb,"The word ""OmgqDPhIjb"" contains 2 vowel letters. The vowel letters in the word are ""o"" and ""i"". Therefore, the output would be:
+
+""OmgqDPhIjb"" : 2; [o, i]",2,2,2
+353,lyllllNlll,"""lyllllNlll"" : 0; []",0,0,0
+354,rqZKyEH,"The word ""rqZKyEH"" contains 2 vowel letters. The vowel letters in the word are ""E"" and ""A"". Therefore, the output should be:
+
+""rqZKyEH"" : 2; [E, A]",2,1,1
+355,nRGwbNyvbq,"The word ""nRGwbNyvbq"" contains 0 vowel letters.",0,0,0
+356,UnpwgWNJDYAG,"The word ""UnpwgWNJDYAG"" contains 3 vowel letters. The vowel letters in the word are ""U"", ""o"", and ""A"". Therefore, the output would be:
+
+""UnpwgWNJDYAG"" : 3; [U, o, A]",3,2,2
+357,QsYeRqw,"The word ""QsYeRqw"" contains 0 vowel letters. Therefore, the output would be:
+""QsYeRqw"" : 0; []",0,1,1
+358,lJXl,lJXl : 0; [],0,0,0
+359,UHFLSFFDXQywWGo,"The word ""UHFLSFFDXQywWGo"" has 0 vowel letters.",0,2,2
+360,mKYBv,mKYBv : 0; [],0,0,0
+361,cqhkrDwoX,"The word ""cqhkrDwoX"" has 0 vowel letters.",0,1,1
+362,IxoTmnxuRmm,"The word ""IxoTmnxuRmm"" has 3 vowel letters. The vowel letters in the word are ""I"", ""o"", and ""u"". Therefore, the output would be:
+
+""IxoTmnxuRmm"" : 3; [I, o, u]",3,3,3
+363,eIRCT,"eIRCT : 2; [e, I]",2,2,2
+364,iyZCZAGDW,"The word ""iyZCZAGDW"" contains 2 vowel letters. The vowel letters in the word are ""i"" and ""A"". Therefore, the output would be:
+
+""iyZCZAGDW"" : 2; [i, A]",2,2,2
+365,qwbIBBfhR,"The word ""qwbIBBfhR"" contains 0 vowel letters. Therefore, the output would be:
+""qwbIBBfhR"" : 0; []",0,1,1
+366,wujFJPLKXLXbbn,"The word ""wujFJPLKXLXbbn"" does not contain any vowel letters. Therefore, the output would be:
+""wujFJPLKXLXbbn"" : 0; []",0,1,1
+367,mwmBmOmt,"The word ""mwmBmOmt"" contains 1 vowel letter. The vowel letter in the word is ""O"". Therefore, the output would be:
+
+""mwmBmOmt"" : 1; [O]",1,1,1
+368,SWeDRgYKQPYr,"The word ""SWeDRgYKQPYr"" contains 0 vowel letters. Therefore, the output would be:
+""SWeDRgYKQPYr"" : 0; []",0,1,1
+369,LlZCWEFsRqXt,"The word ""LlZCWEFsRqXt"" does not contain any vowel letters. Therefore, the output would be:
+""LlZCWEFsRqXt"" : 0; []",0,1,1
+370,BkNBmKkvy,"The word ""BkNBmKkvy"" does not contain any vowel letters. Therefore, the output would be:
+""BkNBmKkvy"" : 0; []",0,0,0
+371,YRqqOaCCpgPU,"The word ""YRqqOaCCpgPU"" contains 3 vowel letters. The vowel letters in the word are ""O"", ""a"", and ""U"". Therefore, the output would be:
+""YRqqOaCCpgPU"" : 3; [O, a, U]",3,3,3
+372,dCMglxPEr,"The word ""dCMglxPEr"" has 1 vowel letter. The vowel letter in the word is ""E"". Therefore, the output would be:
+
+""dCMglxPEr"" : 1; [E]",1,1,1
+373,QyJNPnIaZYoNFc,"The word ""QyJNPnIaZYoNFc"" contains 4 vowel letters. The vowel letters in the word are ""a"", ""I"", ""a"", and ""o"". Therefore, the output would be:
+
+""QyJNPnIaZYoNFc"" : 4; [a, I, a, o]",4,3,3
+374,AODKgfsmK,"""AODKgfsmK"" : 1; [O]",1,2,2
+375,WeHLzo,"""WeHLzo"" : 2; [e, o]",2,2,2
+376,qaHJspCstFrXGJ,qaHJspCstFrXGJ : 0; [],0,1,1
+377,BmmmmmmmQmmm,"The word ""BmmmmmmmQmmm"" does not contain any vowel letters. Therefore, the output would be:
+""BmmmmmmmQmmm"" : 0; []",0,0,0
+378,cMkZiNxprjxb,"The word ""cMkZiNxprjxb"" contains 1 vowel letter. The vowel letter is ""i"". Therefore, the output would be:
+
+""cMkZiNxprjxb"" : 1; [i]",1,1,1
+379,mjmfmmmmmmmm,"The word ""mjmfmmmmmmmm"" does not contain any vowel letters. Therefore, the output would be:
+""mjmfmmmmmmmm"" : 0; []",0,0,0
+380,PJsduNRvud,"The word ""PJsduNRvud"" contains 2 vowel letters. The vowel letters in the word are ""u"" and ""u"". Therefore, the output should be:
+
+""PJsduNRvud"" : 2; [u, u]",2,2,2
+381,dhWwduwlo,"The word ""dhWwduwlo"" has 3 vowel letters. The vowel letters in the word are ""u"", ""u"", and ""o"". Therefore, the output should be:
+
+""dhWwduwlo"" : 3; [u, u, o]",3,2,2
+382,SOwXPY,"The word ""SOwXPY"" contains 1 vowel letter. The vowel letter in the word is ""O"". Therefore, the output would be:
+
+""SOwXPY"" : 1; [O]",1,1,1
+383,ZHdaeG,"The word ""ZHdaeG"" contains 2 vowel letters. The vowel letters in the word are ""a"" and ""e"". Therefore, the output would be:
+
+""ZHdaeG"" : 2; [a, e]",2,2,2
+384,lYLfmWNwCptaAwF,"The word ""lYLfmWNwCptaAwF"" has 3 vowel letters. The vowel letters in the word are ""a"", ""a"", and ""A"". Therefore, the output should be:
+
+""lYLfmWNwCptaAwF"" : 3; [a, a, A]",3,2,2
+385,hxeOQ,"The word ""hxeOQ"" contains 2 vowel letters. The vowel letters in the word are ""e"" and ""O"". Therefore, the output would be:
+
+""hxeOQ"" : 2; [e, O]",2,2,2
+386,QWDVSZu,"The word ""QWDVSZu"" contains 2 vowel letters. The vowel letters in the word are ""U"" and ""u"". Therefore, the output would be:
+
+""QWDVSZu"" : 2; [U, u]",2,1,1
+387,pNGvGFSRPlsM,pNGvGFSRPlsM: 0; [],0,0,0
+388,PuGrXmtcdVZnqbY,"The word ""PuGrXmtcdVZnqbY"" does not contain any vowel letters. Therefore, the output would be:
+""PuGrXmtcdVZnqbY"" : 0; []",0,1,1
+389,FnJNg,FnJNg : 0; [],0,0,0
+390,PVXHgS,PVXHgS : 0; [],0,0,0
+391,Onsknl,"""Onsknl"" : 1; [o]",1,1,1
+392,sAXNTTVdZTowTpe,"The word ""sAXNTTVdZTowTpe"" has 3 vowel letters. The vowel letters in the word are ""A"", ""O"", and ""e"". Therefore, the output should be:
+
+""sAXNTTVdZTowTpe"" : 3; [A, O, e]",3,3,3
+393,RfVisPlFLrPs,"The word ""RfVisPlFLrPs"" contains 0 vowel letters. Therefore, the output would be:
+""RfVisPlFLrPs"" : 0; []",0,1,1
+394,QEXeaPlpiUI,"The word ""QEXeaPlpiUI"" has 5 vowel letters. The vowel letters in the word are ""e"", ""a"", ""i"", ""I"", and ""U"". Therefore, the output would be:
+
+""QEXeaPlpiUI"" : 5; [e, a, i, I, U]",5,6,6
+395,xBmdiXrtIHeGf,"xBmdiXrtIHeGf: 3; [i, I, e]",3,3,3
+396,tbhKJGlB,"The word ""tbhKJGlB"" does not contain any vowel letters. Therefore, the output would be:
+""tbhKJGlB"" : 0; []",0,0,0
+397,abQNpilTY,"The word ""abQNpilTY"" has 3 vowel letters. The vowel letters in the word are ""a"", ""i"", and ""Y"". Therefore, the output would be:
+""abQNpilTY"" : 3; [a, i, Y]",3,2,2
+398,lfdBLnFOAVy,"The word ""lfdBLnFOAVy"" contains 2 vowel letters. The vowel letters in the word are ""O"" and ""A"". 
+
+Therefore, the output would be:
+""lfdBLnFOAVy"" : 2; [O, A]",2,2,2
+399,nnnnnnnwinNnn,"The word ""nnnnnnnwinNnn"" has 1 vowel letter. The vowel letter is ""i"". Therefore, the output would be:
+
+""nnnnnnnwinNnn"" : 1; [i]",1,1,1

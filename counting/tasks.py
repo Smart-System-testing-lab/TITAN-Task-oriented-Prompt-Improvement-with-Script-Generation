@@ -36,3 +36,9 @@ def count_specific_letter_script(words, letter):
 def count_vowel_script(word):
     word = str(word.lower())
     return word.count("a") + word.count("i") + word.count("o") + word.count("u") + word.count("e")
+
+def count_digits_in_number_script(number):
+
+    result = len([1 for char in number if char.isdigit()])
+    return result
+

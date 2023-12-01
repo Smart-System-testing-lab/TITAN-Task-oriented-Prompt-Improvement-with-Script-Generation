@@ -37,3 +37,9 @@ def count_specific_letter_in_word_gpt(word, letter):
         return "Please provide a word with at least one letter."
 
 
+def count_digits_in_number_gpt(number):
+        # Convert the number to a string and count digits
+    number_str = number
+    digit_count = sum(1 for char in number_str if char.isdigit())
+    return digit_count
+
