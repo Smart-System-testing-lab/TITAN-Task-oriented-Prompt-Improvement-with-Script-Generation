@@ -77,6 +77,17 @@ letter_counter_with_condition = '''
 
 '''
 
+#finding
+
+finding_pattern_prompt = '''
+    Which one of the following two words has the pattern "abc" in them.
+    you must not be case sensitive. You must
+     only return the result without any explanation. return the answer in following format:
+    Answer : Your answer.
+    for example if the input is ["alireza", "aliabcreza"], the output is:
+    Answer: aliabcreza.
+'''
+
 #newwwww
 letter_counter_prompt = '''
     How many characters are there in following word. then return the letters in an array. you should return length of following words.

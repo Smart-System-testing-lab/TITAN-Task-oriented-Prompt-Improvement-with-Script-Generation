@@ -35,7 +35,7 @@ def word_maker():
     alphabet = string.ascii_lowercase + string.ascii_uppercase
     all_words = []
     for i in string.ascii_lowercase:
-        for j in range(30):
+        for j in range(50):
             num = random.randint(2, 15)
             word = random.choices(alphabet, k=num)
             if num <= 4:
@@ -68,6 +68,6 @@ def num_word_maker():
         nums.append("".join(num))
     return nums
 
-with open('dataset/word_num.txt', 'w') as f:
-    for line in num_word_maker():
+with open('word_num1000.txt', 'w') as f:
+    for line in word_maker():
         f.write("%s\n" % line)

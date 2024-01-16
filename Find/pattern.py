@@ -6,14 +6,14 @@ sys.path.append(os.path.dirname(SCRIPT_DIR))
 from gpt.gpt import get_completion
 from prompts import *
 from tasks import *
-from extraction import extract_numbers
 from gpt_scripts import *
 from view import view
 import json
 
-def vowel_counting(path, tempreture):
+def pattern_finding(path, tempreture, pattern):
     with open(path) as f:
         lines = f.read().split('\n')
+    print(lines)
     i = 0
     all_data = []
     results1 = []
@@ -21,33 +21,32 @@ def vowel_counting(path, tempreture):
     results3 = []
     counts = []
     is_oks = []
-    while i < 550: 
+    while i < 470: 
         print(i)
-        data = lines[i:i + 1]
+        data = lines[i:i + 2]
         data = data[0]
-        result1 = get_completion(count_vowel_letters_prompt + f" the word is : {data}", tempreture)
-        print(result1)
-        result2 = count_vowel_script(data)
-        result3 = count_vowels_in_word_gpt(data)
+        result1 = get_completion(finding_pattern_prompt + f" the words are : {data}", tempreture)
+        # result2 = count_vowel_script(data)
+        # result3 = count_vowels_in_word_gpt(data)
         result1 = result1.strip()
+        print(result1)
+        # try:
+        #     count_result1 = extract_numbers(extract_numbers(result1.split(";")[0]))
+        #     view(result1, result2, result3, count_result1)
+        # except Exception as e:
+        #     print(e)
+        #     continue
+        # all_data.append(data)
 
-        try:
-            count_result1 = extract_numbers(extract_numbers(result1.split(";")[0]))
-            view(result1, result2, result3, count_result1)
-        except Exception as e:
-            print(e)
-            continue
-        all_data.append(data)
-
-        results1.append(result1)
+        # results1.append(result1)
         
-        results2.append(result2)
-        results3.append(result3)
-        counts.append(count_result1)
+        # results2.append(result2)
+        # results3.append(result3)
+        # counts.append(count_result1)
 
 
-        i += 1
-        if i == 500 :
+        i += 2
+        if i == 400 :
             break
     dict = {
         "all_data": all_data,
@@ -59,4 +58,4 @@ def vowel_counting(path, tempreture):
 
     with open(f'results/{int(tempreture*10)}/count_vowel_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
         json.dump(dict, fp)
-vowel_counting("dataset/word_num1000.txt", 0.3)
+pattern_finding("Find/two_words.txt", 0.2, "abc")

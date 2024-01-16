@@ -34,7 +34,7 @@ def counting_metrics():
     twosaccmean = []
     twosmsemean = []
 
-    key_word = "count_letters"
+    key_word = "count_vowel"
     random_names = []
     mean_names = []
     randoms_dfs = []
@@ -66,11 +66,11 @@ def counting_metrics():
     ind = np.arange(len(twosaccrand))
     width = 0.27    
     rects1 = ax.bar(ind, twosmsemean, width, color='r')
-    rects2 = ax.bar(ind+width, twosmserand, width, color='b')
+    # rects2 = ax.bar(ind+width, twosmserand, width, color='b')
     ax.set_ylabel('MSE')
     ax.set_xticks(ind+width)
     ax.set_xticklabels( mean_names )
-    ax.legend( (rects1[0], rects2[0]), ('meaningful', 'random') )
+    # ax.legend( (rects1[0], rects2[0]), ('meaningful', 'random') )
     plt.show()
 
 counting_metrics()
