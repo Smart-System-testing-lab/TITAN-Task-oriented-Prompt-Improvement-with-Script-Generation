@@ -3,7 +3,7 @@ def make_prompt(p):
     
 
     SINGLE_PROMPT = f'''
-    Imagine you're a Python programmer. A client has requested you to create an script for a task and told you the goal and the inputs are as follow: {p}. You want to write this task as a python script for this specific goal and set the inputs.
+    Imagine you're a Python programmer. A client has requested you to create an script for a task and told you the goal and the inputs are as follow: {p}. You must use {p} as your inputs and not by requesting from user. You want to write this task as a python script for this specific goal and set the inputs.
     you must write a runnable script instead of function.
         You must provide only the code, without any text. Which means that you MUST not provide anything except the python function.
 

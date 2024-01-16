@@ -19,6 +19,7 @@ def vowel_counting(path, tempreture):
     all_data = []
     results1 = []
     results2 = []
+    results4 = []
     results3 = []
     counts = []
     is_oks = []
@@ -28,14 +29,18 @@ def vowel_counting(path, tempreture):
         data = data[0]
         pr = count_vowel_letters_prompt + f" the word is : {data}"
         result1 = get_completion(pr , tempreture)
+        print(result1)
         result2 = count_vowel_script(data)
+        print(result2)
         result3 = count_vowels_in_word_gpt(data)
-        result4 = extract_data(pr)
+        print(result3)
+        result4 = extract_data(pr, tempreture)
+        print(result4)
         result1 = result1.strip()
 
         try:
             count_result1 = extract_numbers(extract_numbers(result1.split(";")[0]))
-            view(result1, result2, result3, count_result1)
+            view(result1, result2, result3, result4, count_result1)
         except Exception as e:
             print(e)
             continue
@@ -45,8 +50,9 @@ def vowel_counting(path, tempreture):
         
         results2.append(result2)
         results3.append(result3)
+        results4.append(result4)
         counts.append(count_result1)
-
+        print(f"{i} is done")
 
         i += 1
         if i == 500 :
@@ -56,7 +62,7 @@ def vowel_counting(path, tempreture):
         "gpt" : results1,
         "counts": counts,
         "script" : results2,
-        "gpt_script": results3
+        "gpt_script": results4
     }
 
     with open(f'results/{int(tempreture*10)}/count_vowel_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:

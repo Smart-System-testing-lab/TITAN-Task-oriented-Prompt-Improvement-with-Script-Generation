@@ -1,4 +1,4 @@
-def view(result1, result2, result3, count_result = None):
+def view(result1, result2, result3,result4, count_result = None):
     print("results from gpt are : ")
     print (result1)
     print("*************")
@@ -6,7 +6,7 @@ def view(result1, result2, result3, count_result = None):
     print (result2)
     print("*************")
     print("results from gpt script are : ")
-    print (result3)
+    print (result4)
     print("*************")
     print("count results are : ")
     print (count_result)
