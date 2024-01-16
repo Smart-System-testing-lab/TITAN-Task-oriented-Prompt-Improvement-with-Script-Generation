@@ -6,6 +6,7 @@ sys.path.append(os.path.dirname(SCRIPT_DIR))
 from gpt.gpt import get_completion
 from prompts import *
 from tasks import *
+from make_python import extract_data
 from extraction import extract_numbers
 from gpt_scripts import *
 from view import view
@@ -25,10 +26,11 @@ def vowel_counting(path, tempreture):
         print(i)
         data = lines[i:i + 1]
         data = data[0]
-        result1 = get_completion(count_vowel_letters_prompt + f" the word is : {data}", tempreture)
-        print(result1)
+        pr = count_vowel_letters_prompt + f" the word is : {data}"
+        result1 = get_completion(pr , tempreture)
         result2 = count_vowel_script(data)
         result3 = count_vowels_in_word_gpt(data)
+        result4 = extract_data(pr)
         result1 = result1.strip()
 
         try:
