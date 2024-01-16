@@ -1,0 +1,100 @@
+Does the following sentence still make sense if we replace "dog" with "canine"? "The dog played fetch in the park."@1
+Does the following sentence still make sense if we replace "house" with "dwelling"? "They painted the house a vibrant shade of blue."@1
+Does the following sentence still make sense if we replace "computer" with "device"? "She worked on the computer for hours."@1
+Does the following sentence still make sense if we replace "mountain" with "peak"? "The mountain stood tall against the horizon."@1
+Does the following sentence still make sense if we replace "book" with "novel"? "Reading a book is a favorite pastime."@1
+Does the following sentence still make sense if we replace "laughter" with "chuckles"? "Their laughter echoed in the room."@1
+Does the following sentence still make sense if we replace "river" with "stream"? "The river meandered through the lush valley."@1
+Does the following sentence still make sense if we replace "scientist" with "researcher"? "The scientist conducted groundbreaking experiments."@1
+Does the following sentence still make sense if we replace "conversation" with "dialogue"? "Their conversation was filled with meaningful insights."@1
+Does the following sentence still make sense if we replace "flower" with "blossom"? "The flower bloomed in the spring garden."@1
+Does the following sentence still make sense if we replace "airplane" with "plane"? "Boarding an airplane for the first time can be exciting."@1
+Does the following sentence still make sense if we replace "building" with "structure"? "The building's architecture was impressive."@1
+Does the following sentence still make sense if we replace "novel" with "book"? "Reading a novel can transport you to different worlds."@1
+Does the following sentence still make sense if we replace "scientist" with "researcher"? "The scientist made a groundbreaking discovery."@1
+Does the following sentence still make sense if we replace "laughter" with "giggles"? "Their laughter echoed in the room."@1
+Does the following sentence still make sense if we replace "flower" with "blossom"? "The flower petals glistened with morning dew."@1
+Does the following sentence still make sense if we replace "conversation" with "dialogue"? "Their conversation flowed effortlessly."@1
+Does the following sentence still make sense if we replace "climbing" with "scaling"? "Climbing the steep mountain required endurance."@1
+Does the following sentence still make sense if we replace "comedy" with "humor"? "The comedy show had everyone laughing."@1
+Does the following sentence still make sense if we replace "river" with "waterway"? "The river meandered through the dense forest."@1
+Does the following sentence still make sense if we replace "discovery" with "finding"? "The archaeologist made a groundbreaking discovery."@1
+Does the following sentence still make sense if we replace "technology" with "innovation"? "The rapid evolution of technology is changing our lives."@1
+Does the following sentence still make sense if we replace "rain" with "precipitation"? "The sound of rain on the roof was soothing."@1
+Does the following sentence still make sense if we replace "car" with "automobile"? "Owning a car provides convenience in daily life."@1
+Does the following sentence still make sense if we replace "friendship" with "camaraderie"? "Their friendship stood the test of time."@1
+Does the following sentence still make sense if we replace "building" with "edifice"? "The modern building was an architectural marvel."@1
+Does the following sentence still make sense if we replace "novel" with "book"? "Writing a novel requires dedication and creativity."@1
+Does the following sentence still make sense if we replace "scientist" with "researcher"? "The scientist conducted groundbreaking experiments."@1
+Does the following sentence still make sense if we replace "laughter" with "giggles"? "The room was filled with contagious laughter."@1
+Does the following sentence still make sense if we replace "flower" with "blossom"? "The vibrant blossom added color to the garden."@1
+Does the following sentence still make sense if we replace "conversation" with "dialogue"? "Their deep conversation touched on profound topics."@1
+Does the following sentence still make sense if we replace "climbing" with "ascending"? "Climbing the mountain was a physically demanding challenge."@1
+Does the following sentence still make sense if we replace "comedy" with "humorous performance"? "The comedy show had the audience in stitches."@1
+Does the following sentence still make sense if we replace "river" with "waterway"? "The river flowed gracefully through the picturesque landscape."@1
+Does the following sentence still make sense if we replace "discovery" with "finding"? "The archaeologist made a remarkable finding at the ancient site."@1
+Does the following sentence still make sense if we replace "technology" with "innovation"? "The rapid innovation of technology is astounding."@1
+Does the following sentence still make sense if we replace "rain" with "precipitation"? "The gentle sound of rain lulled me to sleep."@1
+Does the following sentence still make sense if we replace "car" with "automobile"? "Owning an automobile provides convenience in daily life."@1
+Does the following sentence still make sense if we replace "friendship" with "camaraderie"? "Their enduring camaraderie brought them joy."@1
+Does the following sentence still make sense if we replace "building" with "edifice"? "The modern edifice was an architectural marvel."@1
+Does the following sentence still make sense if we replace "novel" with "book"? "Writing a book requires dedication and creativity."@1
+Does the following sentence still make sense if we replace "scientist" with "researcher"? "The researcher conducted groundbreaking experiments."@1
+Does the following sentence still make sense if we replace "laughter" with "giggles"? "The room was filled with contagious giggles."@1
+Does the following sentence still make sense if we replace "flower" with "blossom"? "The vibrant blossom added color to the garden."@1
+Does the following sentence still make sense if we replace "conversation" with "dialogue"? "Their deep dialogue touched on profound topics."@1
+Does the following sentence still make sense if we replace "climbing" with "scaling"? "Scaling the mountain was a physically demanding challenge."@1
+Does the following sentence still make sense if we replace "comedy" with "humorous performance"? "The humorous performance had the audience in stitches."@1
+Does the following sentence still make sense if we replace "river" with "waterway"? "The waterway flowed gracefully through the picturesque landscape."@1
+Does the following sentence still make sense if we replace "discovery" with "finding"? "The archaeologist made a remarkable finding at the ancient site."@1
+Does the following sentence still make sense if we replace "technology" with "innovation"? "The rapid innovation of technology is astounding."@1
+Does the following sentence still make sense if we replace "coffee" with "sunset"? "I enjoy a cup of coffee in the morning."@0
+Does the following sentence still make sense if we replace "book" with "mountain"? "She read a book by the fireplace."@0
+Does the following sentence still make sense if we replace "technology" with "giraffe"? "The rapid advancement of technology is changing our lives."@0
+Does the following sentence still make sense if we replace "laughter" with "ocean"? "Their laughter echoed in the room."@0
+Does the following sentence still make sense if we replace "friendship" with "elephant"? "Their friendship stood the test of time."@0
+Does the following sentence still make sense if we replace "computer" with "jungle"? "She worked on the computer for hours."@0
+Does the following sentence still make sense if we replace "mountain" with "whale"? "The mountain stood tall against the horizon."@0
+Does the following sentence still make sense if we replace "scientist" with "desert"? "The scientist conducted groundbreaking experiments."@0
+Does the following sentence still make sense if we replace "conversation" with "tiger"? "Their conversation was filled with meaningful insights."@0
+Does the following sentence still make sense if we replace "flower" with "rainbow"? "The flower bloomed in the spring garden."@0
+Does the following sentence still make sense if we replace "river" with "spaceship"? "The river meandered through the dense forest."@0
+Does the following sentence still make sense if we replace "house" with "guitar"? "They painted the house a vibrant shade of blue."@0
+Does the following sentence still make sense if we replace "novel" with "rocket"? "Reading a novel can transport you to different worlds."@0
+Does the following sentence still make sense if we replace "laughter" with "volcano"? "Their laughter echoed in the room."@0
+Does the following sentence still make sense if we replace "sunshine" with "robot"? "I love the warmth of sunshine on my face."@0
+Does the following sentence still make sense if we replace "cloud" with "skyscraper"? "The fluffy cloud drifted across the sky."@0
+Does the following sentence still make sense if we replace "island" with "ballet"? "The tropical island was a paradise."@0
+Does the following sentence still make sense if we replace "music" with "penguin"? "Listening to music brings joy to my heart."@0
+Does the following sentence still make sense if we replace "ocean" with "keyboard"? "The vast ocean stretched out before us."@0
+Does the following sentence still make sense if we replace "garden" with "telescope"? "The garden was filled with vibrant flowers."@0
+Does the following sentence still make sense if we replace "star" with "pizza"? "The night sky was filled with twinkling stars."@0
+Does the following sentence still make sense if we replace "fireworks" with "cactus"? "The fireworks lit up the night sky."@0
+Does the following sentence still make sense if we replace "lake" with "saxophone"? "The calm lake reflected the moonlight."@0
+Does the following sentence still make sense if we replace "sunflower" with "traffic"? "The sunflower stood tall in the garden."@0
+Does the following sentence still make sense if we replace "mountain" with "umbrella"? "The mountain stood majestically in the distance."@0
+Does the following sentence still make sense if we replace "painting" with "submarine"? "The painting captured the essence of nature."@0
+Does the following sentence still make sense if we replace "laughter" with "calculator"? "Their laughter echoed in the room."@0
+Does the following sentence still make sense if we replace "river" with "keyboard"? "The river flowed gently through the valley."@0
+Does the following sentence still make sense if we replace "technology" with "giraffe"? "The rapid evolution of technology is changing our lives."@0
+Does the following sentence still make sense if we replace "cloud" with "piano"? "The fluffy cloud drifted across the sky."@0
+Does the following sentence still make sense if we replace "moon" with "roller coaster"? "The full moon illuminated the night sky."@0
+Does the following sentence still make sense if we replace "planet" with "suitcase"? "The distant planet is not yet explored."@0
+Does the following sentence still make sense if we replace "sunrise" with "keyboard"? "The sunrise painted the sky with vibrant colors."@0
+Does the following sentence still make sense if we replace "beach" with "microphone"? "The sandy beach stretched for miles."@0
+Does the following sentence still make sense if we replace "book" with "hot air balloon"? "She read a book by the fireplace."@0
+Does the following sentence still make sense if we replace "laughter" with "telescope"? "Their laughter echoed in the room."@0
+Does the following sentence still make sense if we replace "computer" with "mountain"? "She worked on the computer for hours."@0
+Does the following sentence still make sense if we replace "river" with "spaceship"? "The river meandered through the dense forest."@0
+Does the following sentence still make sense if we replace "friendship" with "elephant"? "Their friendship stood the test of time."@0
+Does the following sentence still make sense if we replace "novel" with "rocket"? "Reading a novel can transport you to different worlds."@0
+Does the following sentence still make sense if we replace "scientist" with "desert"? "The scientist conducted groundbreaking experiments."@0
+Does the following sentence still make sense if we replace "flower" with "rainbow"? "The flower bloomed in the spring garden."@0
+Does the following sentence still make sense if we replace "mountain" with "whale"? "The mountain stood tall against the horizon."@0
+Does the following sentence still make sense if we replace "house" with "guitar"? "They painted the house a vibrant shade of blue."@0
+Does the following sentence still make sense if we replace "laughter" with "volcano"? "Their laughter echoed in the room."@0
+Does the following sentence still make sense if we replace "conversation" with "tiger"? "Their conversation was filled with meaningful insights."@0
+Does the following sentence still make sense if we replace "island" with "ballet"? "The tropical island was a paradise."@0
+Does the following sentence still make sense if we replace "music" with "penguin"? "Listening to music brings joy to my heart."@0
+Does the following sentence still make sense if we replace "ocean" with "keyboard"? "The vast ocean stretched out before us."@0
+Does the following sentence still make sense if we replace "garden" with "telescope"? "The garden was filled with vibrant flowers."@0
