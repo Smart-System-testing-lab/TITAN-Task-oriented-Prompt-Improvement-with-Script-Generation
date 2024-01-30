@@ -1,13 +1,11 @@
-# Python program to calculate how much money Cody has left after spending 19 dollars on a new game
+# Step 1: Total number of shirts Dave had to wash
+total_shirts = 36
 
-# Step 1: Cody had 45 dollars
-cody_money = 45
+# Step 2: Number of shirts Dave had washed by the time school started
+washed_shirts = 20
 
-# Step 2: Cody got 9 more dollars on his birthday
-cody_money += 9
+# Step 3: Calculate the number of shirts Dave did not wash before school
+not_washed_shirts = total_shirts - washed_shirts
 
-# Step 3: Cody spent 19 dollars on a new game
-cody_money -= 19
-
-# Step 4: The client wants to know how much money Cody has left after spending 19 dollars on the new game
-print("Target: " + str(cody_money)) # Output format: Target: 35
+# Output the result
+print("Target:", not_washed_shirts)

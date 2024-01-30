@@ -3,7 +3,7 @@ def make_prompt(p, output):
     
 
     SINGLE_PROMPT = f'''
-    Write a python script for following steps: {p}. for the inputs, you must
+    Write a python script for following steps: \n {p} \n. for the inputs, you must
      use the details and inputs that provided in the steps. write a runnable python program to do this task. the output format must be like {output}
 
         '''

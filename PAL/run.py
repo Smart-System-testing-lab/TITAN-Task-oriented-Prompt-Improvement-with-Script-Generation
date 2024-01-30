@@ -36,14 +36,12 @@ def pal_example(path, tempreture):
         pr = q
         try:
             result4 = extract_data(pr, f"target: {answer}", tempreture)
-            print("restulslsafl", result4)
         except Exception as e:
             print(e)
             continue
-        print(result4)
         
 
-        
+        print(result4)
         results4.append(result4)
         print(f"{i} is done")
 
@@ -57,4 +55,4 @@ def pal_example(path, tempreture):
 
     with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}1.json', 'w') as fp:
         json.dump(dict, fp)
-pal_example("dataset/mawpsmultiarith.jsonl", 0.3)
+pal_example("dataset/mawpsmultiarith.jsonl", 0)

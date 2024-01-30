@@ -10,6 +10,7 @@ import re
 def extract_data(prompt, output, tem):
     p = extraction_prompt + "\n" + f"{prompt}"
     data = get_completion(prompt=p, tem=tem)
+ 
     print("####")
     code = get_completion(prompt=make_prompt(data, output), tem=tem)
     print(code)
