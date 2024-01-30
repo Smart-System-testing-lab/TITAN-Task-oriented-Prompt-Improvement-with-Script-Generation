@@ -1,19 +1,16 @@
 
-def make_prompt(p):
+def make_prompt(p, output):
     
 
     SINGLE_PROMPT = f'''
-    Imagine you're a Python programmer. A client has requested you to create an script for a task and told you the goal and the inputs are as follow: {p}. You must use {p} as your inputs and not by requesting from user. You want to write this task as a python script for this specific goal and set the inputs.
-    you must write a runnable script instead of function.
-        You must provide only the code, without any text. Which means that you MUST not provide anything except the python function.
+    Write a python script for following steps: {p}. for the inputs, you must
+     use the details and inputs that provided in the steps. write a runnable python program to do this task. the output format must be like {output}
 
         '''
     return SINGLE_PROMPT
 
 
 extraction_prompt = '''
-break the following question to following parts. note that you must assume every thing possible as a variable. 
-we do not have anything hard code: 
-1. goal
-2. all inputs in a list
+A client ask us the following question and he provided his own inputs. take a deep breath and tell us what is the client's goal by this question step by step. use the client's inputs to 
+describe as accurate as you can.
 '''

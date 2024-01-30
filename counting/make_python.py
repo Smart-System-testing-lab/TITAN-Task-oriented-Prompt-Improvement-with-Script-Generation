@@ -7,11 +7,11 @@ import re
 from prompt_code import make_prompt, extraction_prompt
 import os
 import re
-def extract_data(prompt, tem):
+def extract_data(prompt, output, tem):
     p = extraction_prompt + "\n" + f"{prompt}"
     data = get_completion(prompt=p, tem=tem)
     print("####")
-    code = get_completion(prompt=make_prompt(data), tem=tem)
+    code = get_completion(prompt=make_prompt(data, output), tem=tem)
     print(code)
     with open("1.py", "w") as f:
         f.writelines(code)
