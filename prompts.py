@@ -35,16 +35,16 @@ but calculator does not contain any "ice".
 '''
 
 not_start_prompt = '''
-Return which one of following word(s) not start with "a" or "A" .for example "alibaba" starts with
+Return which one of following three word(s) not start with "a" or "A" .for example "alibaba" starts with
 "a" and you should 
 not return it as an answer. but "babaali" does not start with "a" or "A"
-and you should return it.
+and you should return it. 
 '''
 
 not_finished_prompt = '''
-Assume we want filter some words based on their last letter.
-Find word(s) which not finished with "a" or "A". You should return your answer in following format:
-words : "your answer"
+
+which one of the following three words not finished with "a" or "A". You should return your answer in following format:
+you should only return the output
 '''
 
 not_contain_word_prompt = '''
@@ -110,11 +110,12 @@ word_counter_prompt = '''
 '''
 
 count_specific_letter_prompt = '''
-How many '[xxx]' or '[XXX]' are there in each of following word. for example [yyy] has [nnn] [xxx] in it. return one answer per word.
+How many '[xxx]' or '[XXX]' are there in the following word word. for example [yyy] has [nnn] [xxx] in it. return one answer.
+note that the example is not the input and you must answer the input which will be provided at the end.
 Your answer should be in following format : 
  Input : your answer. 
  for example if the input is [yyy] the output should be : 
- [yyy] : [nnn]
+ [yyy] : [nnn]. 
 '''
 
 count_vowel_letters_prompt = '''
@@ -129,14 +130,13 @@ count_vowel_letters_prompt = '''
 count_words_with_condition_prompt = '''
     Assume that you have a task to count the number
     of words in one sentence. Any word seperate with an ""space"" 
-    from other words.How many words are in the following sentence if we skip words with less than three letters? then spedify the
-words. for example "I am a good teacher" has 2 words that have more than 3 letters.
+    from other words.How many words are in the following sentence
  your answer 
 must be in following format :
 Input : your answer ; words.
 
 for example if input is "I am a good teacher", the output must be : 
-Input : 3; ["good", "teacher"]
+Input : 3; ["I", "am" , "a", "good", "teacher"]
 '''
 
 count_letter_with_condition_prompt = '''
@@ -163,15 +163,15 @@ Alireza : 1.
 
 generate_new_word_last_prompt = '''
 Change the last letter of following word  to 'z' in the following word. You should not append "z" to
-end of this word. You should just replace the letter "z" to the last letter of this word.
+end of this word. You should just replace the letter "z" to the last letter of this word. for example if the input is app, the output should be apz.
 your answer should be in following format :
 
 Input : your answer.
 '''
 
 generate_new_word_first_prompt = '''
-make the first letter of following word  to Uppercase in the following word.
-your answer should be in following format :
+Change the first letter of following word  to Uppercase in the following word. You should Just change the first letter
+end of this word.  for example if the input is aPp, the output should be APp.
 
 Input : your answer.
 '''
@@ -184,6 +184,13 @@ your answer should be in following format :
 Input : your answer.
 '''
 
+swap_two_words_prompt = '''
+Swap the first letters of these two following words. for example if 
+the input is "Ash" and "fard" , the output should be "fsh" and Aard.  
+your answer should be in following format :
+
+Input : your answer.
+'''
 
 return_one_letter_prompt = '''
 What is the third letter of following word? for example if input is "banana" your response should be "n".
@@ -209,4 +216,58 @@ count_digits_word_prompt = '''
     input : number of digits; explanation.
     for example if the input is "1a2b", the output must be :
     "1a2b" : 2; [1, 2]
+'''
+
+
+count_uniques_prompt = '''
+    How many unique letters are in the following word. do not be case sensitive. for example
+    assume "a" and "A" as the same. then return the unique letters of that word in an array. for example
+    there are 8 unique letter in "diijkstra". your answer must be
+    in following format : 
+    input : number of unique letter; explanation.
+    for example if the input is "ice", the output must be :
+    "icCeE" : 2; [i, c,e]
+
+
+'''
+
+
+add_letter_prompt = '''
+    add the letter "a" to the end of following word. for example if the input is "Ali", the output must be
+    "Alia".
+    You must return result in following format : 
+        Input : your answer. 
+
+
+'''
+
+add_letter_together_prompt = '''
+    Get first letter from each word in following three words, then put them together and return the final word.
+    for example if the input is ["ali", "baba", "cab"], the output must be "abc". you must only return final answer
+    
+
+
+'''
+
+
+remove_letter_prompt = '''
+    remove every letter "a" or "A" from the following word. for example if the input is "Alai", the output must be
+    "li".
+    You must return result in following format : 
+        Input : your answer. 
+
+
+'''
+
+most_unique_prompt = '''
+which one of the following three words has the most number of unique letters. ignore the lowercase
+or uppercase. you must return a single output.
+
+'''
+
+most_unique_condition_prompt = '''
+which one of the following three words has the most number of unique letters if we replace any "a"s with "b"s.
+ ignore the lowercase
+or uppercase. you must return a single output.
+
 '''

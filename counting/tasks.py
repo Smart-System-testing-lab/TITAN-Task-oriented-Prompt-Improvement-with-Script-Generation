@@ -8,10 +8,7 @@ def counting_words(sentences):
 def counting_words_condition_script(sentences):
     count = 0
     s = sentences.split()
-    for i in s:
-        if len(i) > 2:
-            count += 1
-    return count
+    return len(s)
 def count_lower_case_script(word):
     count = 0
     for i in word:
@@ -19,6 +16,11 @@ def count_lower_case_script(word):
             continue
         count += 1
     return count
+
+
+def count_unique_script(word):
+    word = word.lower()
+    return len(set(list(word)))
 
 def count_lower_case_specific_script(word, s):
     count = 0

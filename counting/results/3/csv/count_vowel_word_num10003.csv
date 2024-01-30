@@ -1,0 +1,2265 @@
+,all_data,gpt,counts,script,gpt_script
+0,ErvhzjvPi,"The word is: ErvhzjvPi
+There are 2 vowel letters: [e, i]",2,2,"Number of vowels in the word: 2
+Vowel letters in the word: ['E', 'i']
+"
+1,CjPlJlnnGJX,"The word is: CjPlJlnnGJX
+There are 0 vowel letters in the word.
+Output: ""CjPlJlnnGJX: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+2,rReORf,"The word is: rReORf
+There are 2 vowel letters: [e, O]",2,2,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+3,SeQTEvPlTkGFzg,"The word is: SeQTEvPlTkGFzg
+There are 2 vowel letters: E, u
+Output: ""SeQTEvPlTkGFzg: 2; [E, u]""",2,2,"2
+['e', 'E']
+"
+4,AgVJycTTMcw,"The word is: AgVJycTTMcw
+There are 0 vowel letters in the word.
+Output: ""AgVJycTTMcw: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+5,aaQbVaa,"The word is ""aaQbVaa"". There are 4 vowel letters in this word because of 3 ""a""s and 1 ""a"". Therefore, the output would be:
+""aaQbVaa"": 4; [a, a, a, a]",4,4,"['a', 'a', 'a', 'a']
+"
+6,QFbFyPXmKE,"The word is : QFbFyPXmKE
+There are 0 vowel letters in the word.
+Output: QFbFyPXmKE : 0; []",0,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+7,aaaFaI,"The word is: aaaFaI
+There are 4 vowel letters in the word: a, a, a, I
+Output: ""aaaFaI: 4; [a, a, a, I]""",4,5,"Number of vowels: 5
+Vowel array: ['a', 'a', 'a', 'a', 'I']
+"
+8,SqvTPu,"The word is : SqvTPu
+There are 1 vowel letter in the word.
+""SqvTPu"" : 1; [u]",1,1,"1
+['u']
+"
+9,cgfFnULSp,"The word is ""cgfFnULSp"". 
+There are 1 vowel letters in the word. 
+The vowel letter is ""U"". 
+Therefore, the output is: ""cgfFnULSp: 1; [U]""",1,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+10,sBferL,sBferL : 1; [e],1,1,"Number of vowels: 1
+Vowel array: ['e']
+"
+11,aHuDHze,"The word is ""aHuDHze"". There are 2 vowel letters in this word, which are ""a"" and ""e"". Therefore, the output is:
+""aHuDHze"" : 2; [a, e]",2,3,"Number of vowels in the word: 3
+Vowel letters in the word: ['a', 'u', 'e']
+"
+12,iuLYQnmuEOlLwrY,"The word is: iuLYQnmuEOlLwrY
+There are 4 vowel letters: [i, u, E, O]",4,5,"Number of vowels: 5
+Vowel letters: ['i', 'u', 'u', 'E', 'O']
+"
+13,TeRSSSga,"The word is ""TeRSSSga"". There are 2 vowel letters in the word, which are ""e"" and ""a"". Therefore, the output is:
+""TeRSSSga"" : 2; [e, a]",2,2,"Number of vowels in the word: 2
+Vowel letters in the word: ['e', 'a']
+"
+14,fugEH,"""fugEH"" : 2; [u, E]",2,2,"2
+['u', 'E']
+"
+15,aIaaaaLcaaaaaaha,"The word is: aIaaaaLcaaaaaaha
+There are 11 vowel letters in the word: a, I, a, a, a, a, L, a, a, a, a
+The output is: ""aIaaaaLcaaaaaaha: 11; [a, I, a, a, a, a, L, a, a, a, a]""",11,13,"Number of vowels: 13
+Vowel letters: ['a', 'I', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a']
+"
+16,usJTsg,"The word is ""usJTsg"". There are 0 vowel letters in this word. Therefore, the output would be:
+""usJTsg"": 0; []",0,1,"Number of vowels: 1
+Vowel array: ['u']
+"
+17,tqWFRuyAFNXoQj,"The word is: tqWFRuyAFNXoQj
+There are 3 vowel letters: u, A, O
+Output: ""tqWFRuyAFNXoQj: 3; [u, A, O]""",3,3,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+18,bZZzPWcgCxr,"The word is: bZZzPWcgCxr
+There are 0 vowel letters in the word.
+Output: ""bZZzPWcgCxr: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+19,tyRUt,tyRUt: 1; [U],1,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+20,HlQbEUw,"The word is: HlQbEUw
+There are 2 vowel letters in the word: [U, E]
+Therefore, the output is: ""HlQbEUw: 2; [U, E]""",2,2,"Number of vowels: 2
+Vowel array: ['E', 'U']
+"
+21,kXRFxBSR,"The word is: kXRFxBSR
+There are 0 vowel letters in the word.
+Output: kXRFxBSR: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+22,axSytSL,"The word is: axSytSL
+There are 1 vowel letter: [a]",1,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+23,CqcPRTAePZ,"The word is: CqcPRTAePZ
+There are 3 vowel letters: A, e, and E.
+The output should be:
+""CqcPRTAePZ"": 3; [A, e, E]",3,2,"2
+['A', 'e']
+"
+24,sppydLPMTXCoLNC,"The word is: sppydLPMTXCoLNC
+There are 0 vowel letters in the word.
+Output: sppydLPMTXCoLNC: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+25,AFPIAEx,"The word is ""AFPIAEx"". There are 3 vowel letters in this word: A, I, and E. Therefore, the output must be:
+""AFPIAEx"": 3; [A, I, E]",3,4,"Number of vowels: 4
+Vowel letters: ['A', 'I', 'A', 'E']
+"
+26,hnQlxldeHrYFOp,"The word is : hnQlxldeHrYFOp
+There are 0 vowel letters in the word.
+Output: hnQlxldeHrYFOp : 0; []",0,2,"2
+['e', 'O']
+"
+27,MQXGvKFOxZQS,"The word is : MQXGvKFOxZQS
+There are 0 vowel letters in the word.
+Output: ""MQXGvKFOxZQS: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+28,tUlBdKjqD,"The word is: tUlBdKjqD
+There are 1 vowel letter: U
+Output: ""tUlBdKjqD: 1; [U]""",1,1,"1
+['U']
+"
+29,HySgRmqjpP,"The word is : HySgRmqjpP
+There are 0 vowel letters in the word.
+Output: HySgRmqjpP : 0; []",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+30,cPlcrxaMisF,"The word is: cPlcrxaMisF
+There are 2 vowel letters: i, a
+Output: ""cPlcrxaMisF: 2; [i, a]""",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'i']
+"
+31,IwSZexYJ,"""IwSZexYJ"" : 2; [i, e]",2,2,"Number of vowels: 2
+Vowel letters: ['I', 'e']
+"
+32,bxdumvd,"The word is ""bxdumvd"". There are 0 vowel letters in this word. Therefore, the output would be:
+""bxdumvd"" : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+33,WjJOHULtAHAdUz,"The word is : WjJOHULtAHAdUz
+There are 4 vowel letters: O, U, A, A
+Output: ""WjJOHULtAHAdUz: 4; [O, U, A, A]""",4,5,"Number of vowels: 5
+Vowel letters: ['O', 'U', 'A', 'A', 'U']
+"
+34,LciAdsrxKbejy,"The word is: LciAdsrxKbejy
+There are 2 vowel letters: i, A
+Output: ""LciAdsrxKbejy: 2; [i, A]""",2,3,"Number of vowels: 3
+Vowel letters: ['i', 'A', 'e']
+"
+35,zQojCvJrLf,"The word is: zQojCvJrLf
+There are 0 vowel letters in the word.
+Output: zQojCvJrLf : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+36,zrZTJPEEhFy,"The word is: zrZTJPEEhFy
+There are 3 vowel letters: E, E, and y (if we consider y as a vowel)
+The output is: ""zrZTJPEEhFy: 3; [E, E, y]""",3,2,"Number of vowels: 2
+Vowel letters: ['E', 'E']
+"
+37,vsBKViCyqSOHI,"The word is: vsBKViCyqSOHI
+There are 2 vowel letters: i, y
+Output: ""vsBKViCyqSOHI: 2; [i, y]""",2,3,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+38,jWruBseYHdiztk,"The word is: jWruBseYHdiztk
+There are 2 vowel letters: u, e
+Output: ""jWruBseYHdiztk: 2; [u, e]""",2,3,"Number of vowel letters: 3
+Vowel letters: ['u', 'e', 'i']
+"
+39,aaaaaaamaaPaJk,"The word is: aaaaaaamaaPaJk
+There are 7 vowel letters: [a, a, a, a, a, a, a]",7,10,"Number of vowels: 10
+Vowel letters: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a']
+"
+40,PPlTYBqQD,"The word is: PPlTYBqQD
+There are 0 vowel letters in the word.
+Output: ""PPlTYBqQD: 0; []""",0,0,"[]
+"
+41,xkHqOTUkAGOtPfk,"The word is: xkHqOTUkAGOtPfk
+There are 2 vowel letters: O, U
+Output: ""xkHqOTUkAGOtPfk: 2; [O, U]""",2,4,"Number of vowels: 4
+Vowel letters: ['O', 'U', 'A', 'O']
+"
+42,FAvlIpLBP,"The word is ""FAvlIpLBP"". There are 2 vowel letters in this word, which are ""A"" and ""i"". Therefore, the output would be:
+""FAvlIpLBP"": 2; [A, i]",2,2,"Number of vowels: 2
+Vowel letters: ['A', 'I']
+"
+43,HcfIao,"The word is ""HcfIao"". There are 3 vowel letters in this word: ""I"", ""a"", and ""o"". Therefore, the output must be:
+""HcfIao"" : 3; [I, a, o]",3,3,"Number of vowels: 3
+Vowel array: ['I', 'a', 'o']
+"
+44,lmyWlf,"The word is ""lmyWlf"". There are 0 vowel letters in this word. Therefore, the output is:
+""lmyWlf"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+45,xkSwLvqhii,"The word is: xkSwLvqhii
+There are 3 vowel letters: i, i, i
+Output: ""xkSwLvqhii: 3; [i, i, i]""",3,2,"Number of vowels: 2
+Vowel letters: ['i', 'i']
+"
+46,DIDEcb,"The word is ""DIDEcb"". There are 2 vowel letters in the word, which are ""I"" and ""E"". Therefore, the output must be:
+""DIDEcb"" : 2; [I, E]",2,2,"Number of vowels: 2
+Vowel letters: ['I', 'E']
+"
+47,SnzCoxYCTpiMsaw,"The word is: SnzCoxYCTpiMsaw
+There are 3 vowel letters: i, o, a
+Output: ""SnzCoxYCTpiMsaw: 3; [i, o, a]""",3,3,"Number of vowels: 3
+Vowel letters: ['o', 'i', 'a']
+"
+48,fEnebWe,"The word is ""fEnebWe"". There are 3 vowel letters: ""E"", ""e"", and ""e"". Therefore, the output is:
+""fEnebWe"" : 3; [E, e, e]",3,3,"['E', 'e', 'e']
+"
+49,dNApLsNGWruM,"The word is: dNApLsNGWruM
+There are 1 vowel letters: [u]",1,2,"Number of vowels: 2
+Vowel letters: ['A', 'u']
+"
+50,HXkZKCHQZv,"The word is: HXkZKCHQZv
+There are 0 vowel letters in this word.
+Output: HXkZKCHQZv: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+51,horKOaKHYZpgb,"The word is : horKOaKHYZpgb
+There are 3 vowel letters in the word: o, a, and Y.
+Therefore, the output is:
+""horKOaKHYZpgb"" : 3; [o, a, Y]",3,3,"Number of vowels: 3
+Vowel letters: ['o', 'O', 'a']
+"
+52,FCCQi,"The word is FCCQi. There are 1 vowel letter in the word. 
+Output: FCCQi : 1; [i]",1,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+53,BgJKmczZiNiT,"The word is: BgJKmczZiNiT
+There are 2 vowel letters: i, i
+Output: ""BgJKmczZiNiT: 2; [i, i]""",2,2,"Number of vowels: 2
+Vowel letters: ['i', 'i']
+"
+54,ABlRcsIVq,"The word is: ABlRcsIVq
+There are 2 vowel letters: A, I
+Output: ""ABlRcsIVq: 2; [A, I]""",2,2,"Number of vowels: 2
+Vowel letters: ['A', 'I']
+"
+55,VIgDiMAByqnI,"The word is: VIgDiMAByqnI
+There are 4 vowel letters: [I, i, A, y]",4,4,"Number of vowels: 4
+Vowel letters: ['I', 'i', 'A', 'I']
+"
+56,bqbbbbbbyb,"The word is ""bqbbbbbbyb"". There are 0 vowel letters in this word. Therefore, the output must be:
+""bqbbbbbbyb"" : 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+57,wGsrKvAc,"The word is: wGsrKvAc
+There are 2 vowel letters: [A, a]",2,1,"Number of vowels: 1
+Vowel array: ['A']
+"
+58,jfAeUVyBAElhh,"The word is: jfAeUVyBAElhh
+There are 4 vowel letters: A, e, U, A
+Output: ""jfAeUVyBAElhh: 4; [A, e, U, A]""",4,5,"Number of vowels: 5
+Vowel array: ['A', 'e', 'U', 'A', 'E']
+"
+59,yhKjZGF,"The word is : yhKjZGF
+There are 0 vowel letters in the word.
+Output: ""yhKjZGF: 0; []""",0,0,"Number of vowel letters: 0
+Vowel letters: []
+"
+60,bGXPUXmVSv,"The word is: bGXPUXmVSv
+There are 0 vowel letters in this word.
+Output: ""bGXPUXmVSv: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+61,bcInKb,"The word is ""bcInKb"". There are 1 vowel letter in the word, which is ""I"".
+Therefore, the output is:
+""bcInKb"" : 1; [I]",1,1,"1
+['I']
+"
+62,mbbbrbbbbbbb,"There are 0 vowel letters in the word ""mbbbrbbbbbbb"". The output must be:
+""mbbbrbbbbbbb"" : 0; []",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+63,QvqmyRCqooojXjE,"The word is: QvqmyRCqooojXjE
+There are 2 vowel letters: [u, o]",2,4,"Number of vowels: 4
+Vowel letters: ['o', 'o', 'o', 'E']
+"
+64,XyZLMNReNBc,"The word is: XyZLMNReNBc
+There are 2 vowel letters: e, i
+Output: XyZLMNReNBc: 2; [e, i]",2,1,"1
+['e']
+"
+65,DxRbITcun,"The word is DxRbITcun. There are 2 vowel letters in this word: ""I"" and ""u"". Therefore, the output is:
+""DxRbITcun: 2; [I, u]""",2,2,"Number of vowels: 2
+Vowel letters: ['I', 'u']
+"
+66,bbbbbbbbmbBbb,"The word is: bbbbbbbbmbBbb
+There are 0 vowel letters in this word.
+Output: ""bbbbbbbbmbBbb: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+67,HRBdIbG,"The word is : HRBdIbG
+There are 1 vowel letter: [i]",1,1,"1
+['I']
+"
+68,hGPCbFgLeMyPl,"The word is: hGPCbFgLeMyPl
+There are 0 vowel letters in the word.
+Output: hGPCbFgLeMyPl: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+69,krXPjBUNzOzhIH,"The word is: krXPjBUNzOzhIH
+There are 1 vowel letter: I
+""I"" : 1; [I]",1,3,"Number of vowels in the word: 3
+Array of vowel letters present in the word: ['e', 'a', 'e']
+"
+70,nFBALdcBF,"The word is: nFBALdcBF
+There are 1 vowel letter: A
+Output: ""nFBALdcBF: 1; [A]""",1,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+71,aPnycHoFeAQ,"The word is: aPnycHoFeAQ
+There are 4 vowel letters in the word: a, y, o, e
+The output is: ""aPnycHoFeAQ: 4; [a, y, o, e]""",4,4,"Number of vowels: 4
+Vowel letters: ['a', 'o', 'e', 'A']
+"
+72,tkcNTmEnQ,"The word is: tkcNTmEnQ
+There are 1 vowel letter in the word.
+Input: tkcNTmEnQ
+Output: 1; [e]",1,1,"Number of vowels: 1
+Vowel array: ['E']
+"
+73,hlnDSyCXsPDaxdv,"The word is: hlnDSyCXsPDaxdv
+There are 0 vowel letters in the word.
+Output: ""hlnDSyCXsPDaxdv: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+74,ZtqAgYH,"The word is: ZtqAgYH
+There are 2 vowel letters: A and Y
+Output: ""ZtqAgYH: 2; [A, Y]""",2,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+75,DmsRYVKaPj,"The word is ""DmsRYVKaPj"".
+There are 2 vowel letters in the word: ""a"" and ""i"".
+Therefore, the output is:
+""DmsRYVKaPj: 2; [a, i]""",2,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+76,VAlURUez,"""VAlURUez"" : 4; [A, U, U, e]",4,4,"Number of vowels: 4
+Vowel letters: ['A', 'U', 'U', 'e']
+"
+77,tQcuLOcV,"The word is: tQcuLOcV
+There are 2 vowel letters: u, O
+Output: ""tQcuLOcV: 2; [u, O]""",2,2,"Number of vowels: 2
+Vowel letters: ['u', 'O']
+"
+78,oUXomfzwA,"The word is: oUXomfzwA
+There are 3 vowel letters in the word: [o, U, A]
+Therefore, the output is: ""oUXomfzwA: 3; [o, U, A]""",3,4,"Number of vowels: 4
+Vowel letters: ['o', 'U', 'o', 'A']
+"
+79,TyAcuEZcHcZ,"The word is : TyAcuEZcHcZ
+There are 2 vowel letters in the word : [u, E]",2,3,"Number of vowels: 3
+Vowel letters: ['A', 'u', 'E']
+"
+80,VDTCxWNTJyM,"The word is: VDTCxWNTJyM
+There are 0 vowel letters in the word.
+Output: ""VDTCxWNTJyM: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+81,jpkLkLfBLzPLb,"The word is : jpkLkLfBLzPLb
+There are 0 vowel letters in the word.
+Output: ""jpkLkLfBLzPLb: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+82,bbbqFbtR,"The word is: bbbqFbtR
+There are 0 vowel letters in the word.
+Output: ""bbbqFbtR: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+83,RJIDhM,"The word is: RJIDhM
+There are 1 vowel letter in the word.
+RJIDhM: 1; [i]",1,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+84,prcHlVY,"The word is ""prcHlVY"". There are 1 vowel letter in this word, which is ""Y"". Therefore, the output is:
+""prcHlVY"" : 1; [Y]",1,0,"Number of vowels: 0
+Vowel letters: []
+"
+85,OyWYfThopwZJk,"The word is : OyWYfThopwZJk
+There are 0 vowel letters in the word.
+Output: OyWYfThopwZJk : 0; []",0,2,"2
+['O', 'o']
+"
+86,hSCtCzQSNnuuvju,"The word is: hSCtCzQSNnuuvju
+There are 2 vowel letters: u, u
+Output: ""hSCtCzQSNnuuvju: 2; [u, u]""",2,3,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+87,bbbbbbywbbbBb,"The word is: bbbbbbywbbbBb
+There are 0 vowel letters in the word.
+Output: ""bbbbbbywbbbBb: 0; []""",0,0,"[]
+"
+88,GPruBCESFVEx,"The word is: GPruBCESFVEx
+There are 2 vowel letters: [u, E]",2,3,"Number of vowels: 3
+Vowel letters: ['u', 'E', 'E']
+"
+89,KbbbbbUb,"The word is ""KbbbbbUb"". There are 1 vowel letter in the word, which is ""U"". Therefore, the output is:
+""KbbbbbUb"" : 1; [U]",1,1,"[0, 0, 0, 0, 0]
+"
+90,bbUbbbbbbibb,"The word is ""bbUbbbbbbibb"". There are 2 vowel letters in the word: ""U"" and ""i"". Therefore, the output is:
+""bbUbbbbbbibb"" : 2; [U, i]",2,2,"2
+['U', 'i']
+"
+91,GWeqMsfzheypKMy,"The word is: GWeqMsfzheypKMy
+There are 2 vowel letters: e, y
+Output: ""GWeqMsfzheypKMy: 2; [e, y]""",2,2,"Number of vowels: 2
+Vowel letters: ['e', 'e']
+"
+92,fnbbbZZbbb,"The word is : fnbbbZZbbb
+There are 0 vowel letters in the word.
+Output: ""fnbbbZZbbb: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+93,CcUNiyXeekooLoH,"The word is: CcUNiyXeekooLoH
+There are 5 vowel letters: [U, i, e, o, o]",5,7,"Number of vowels: 7
+Vowel letters: ['U', 'i', 'e', 'e', 'o', 'o', 'o']
+"
+94,JLFAWtuUrMo,"The word is : JLFAWtuUrMo
+There are 2 vowel letters in the word: ""U"" and ""o""
+Output: ""JLFAWtuUrMo: 2; [U, o]""",2,4,"Number of vowels: 4
+Vowel letters: ['A', 'u', 'U', 'o']
+"
+95,YcMYPiSmmnM,"The word is: YcMYPiSmmnM
+There are 2 vowel letters: [Y, i]",2,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+96,mCqgLqe,"The word is: mCqgLqe
+There are 2 vowel letters: [u, e]",2,1,"Number of vowels in the word: 1
+Vowel letters in the word: ['e']
+"
+97,eMMyqM,"The word is: eMMyqM
+There are 1 vowel letter in the word.
+Output: ""eMMyqM: 1; [e]""",1,1,"['e']
+"
+98,LfAJtuq,"The word is: LfAJtuq
+There are 2 vowel letters: A, U
+Output: ""LfAJtuq: 2; [A, U]""",2,2,"Number of vowels: 2
+Vowel letters: ['A', 'u']
+"
+99,AetCHhTyZdlJcCJ,"The word is: AetCHhTyZdlJcCJ
+There are 2 vowel letters: [A, e]",2,2,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+100,uiYBSnfcMpUBTzw,"The word is : uiYBSnfcMpUBTzw
+There are 2 vowel letters in the word : [u, i]
+Input: uiYBSnfcMpUBTzw
+Output: uiYBSnfcMpUBTzw : 2; [u, i]",2,3,"Number of vowels: 3
+Vowel letters: ['u', 'i', 'U']
+"
+101,ykMHGjczXPGX,"The word is : ykMHGjczXPGX
+There are 0 vowel letters in the word.
+Output: ykMHGjczXPGX : 0; []",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+102,HWGIrSero,"The word is: HWGIrSero
+There are 3 vowel letters in the word: [I, e, o]
+Input: HWGIrSero
+Output: 3; [I, e, o]",3,3,"3
+['I', 'e', 'o']
+"
+103,PPDoLlTKTB,"The word is: PPDoLlTKTB
+There are 0 vowel letters in the word.
+Output: ""PPDoLlTKTB: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+104,kWocvGNjwZl,"The word is: kWocvGNjwZl
+There are 0 vowel letters in this word.
+Output: ""kWocvGNjwZl: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+105,RmcoVeAXqgll,"The word is: RmcoVeAXqgll
+There are 2 vowel letters: o, e
+Output: ""RmcoVeAXqgll: 2; [o, e]""",2,3,"Number of vowels: 3
+Vowel letters: ['o', 'e', 'A']
+"
+106,MccccccicccC,"The word is ""MccccccicccC"". There are 2 vowel letters in the word: ""i"" and ""i"". Therefore, the output is:
+""MccccccicccC"" : 2; [i, i]",2,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+107,qpxEmHk,"The word is: qpxEmHk
+There are 1 vowel letter in the word.
+qpxEmHk: 1; [E]",1,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+108,GybrMykpaNXhbg,"The word is : GybrMykpaNXhbg
+There are 0 vowel letters in the word.
+Output: GybrMykpaNXhbg : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+109,aReviXbeKxTcjW,"The word is: aReviXbeKxTcjW
+There are 3 vowel letters: a, e, i
+Output: ""aReviXbeKxTcjW: 3; [a, e, i]""",3,4,"Number of vowels: 4
+Vowel array: ['a', 'e', 'i', 'e']
+"
+110,xeQkzDDiixVUMFw,"The word is: xeQkzDDiixVUMFw
+There are 3 vowel letters: [e, i, i]",3,4,"Number of vowels: 2
+Vowel letters: ['e', 'o']
+"
+111,FoVcrPAdHhSEO,"The word FoVcrPAdHhSEO has 3 vowel letters: O, A, and E.
+Therefore, the output is:
+FoVcrPAdHhSEO: 3; [O, A, E]",3,4,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+112,hAiaIu,"""hAiaIu"" : 4; [a, i, a, u]",4,5,"5
+['A', 'i', 'a', 'I', 'u']
+"
+113,CTMNoyEDSTrNSCa,"The word is: CTMNoyEDSTrNSCa
+There are 2 vowel letters: o, e
+Output: ""CTMNoyEDSTrNSCa: 2; [o, e]""",2,3,"Number of vowels: 3
+Vowel letters: ['o', 'E', 'a']
+"
+114,wlWGMuBHULett,"The word is: wlWGMuBHULett
+There are 2 vowel letters: [e, u]",2,3,"3
+['u', 'U', 'e']
+"
+115,gHJStd,"""gHJStd"" : 0; []",0,0,"0
+[]
+"
+116,mtGDCNeh,"The word is ""mtGDCNeh"". There are 1 vowel letter in this word, which is ""e"". Therefore, the output must be:
+""mtGDCNeh"" : 1; [e]",1,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+117,jxDuueiFhaqXbKN,"The word is: jxDuueiFhaqXbKN
+There are 4 vowel letters: [u, u, e, i]",4,5,"5
+['u', 'u', 'e', 'i', 'a']
+"
+118,fGLzNhXq,"The word is: fGLzNhXq
+There are 0 vowel letters in the word.
+Output: ""fGLzNhXq: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+119,wxYgCjcXKWS,"The word is: wxYgCjcXKWS
+There are 0 vowel letters in the word.
+Output: ""wxYgCjcXKWS: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+120,DHPemubcvmVJpj,"The word is: DHPemubcvmVJpj
+There are 2 vowel letters: e, u
+Output: ""DHPemubcvmVJpj: 2; [e, u]""",2,2,"Number of vowels: 2
+Vowel array: ['e', 'u']
+"
+121,SVHzlNS,"The word is: SVHzlNS
+There are 0 vowel letters in the word.
+Output: SVHzlNS: 0; []",0,0,"0
+[]
+"
+122,aKtxegDXQWml,"The word is : aKtxegDXQWml
+There are 2 vowel letters in the word: a, e
+Output: ""aKtxegDXQWml"" : 2; [a, e]",2,2,"Number of vowels: 2
+Vowel array: ['a', 'e']
+"
+123,oVRkZt,"The word is: oVRkZt
+There are 1 vowel letter: o
+Output: ""oVRkZt: 1; [o]""",1,1,"1
+['o']
+"
+124,upfHCOD,"The word is: upfHCOD
+There are 2 vowel letters: [u, O]",2,2,"Number of vowels: 2
+Vowel letters: ['u', 'O']
+"
+125,qIXtdBlFhHlTjoF,"The word is: qIXtdBlFhHlTjoF
+There are 1 vowel letters: [i]",1,2,"Number of vowels: 2
+Vowel letters: ['I', 'o']
+"
+126,dccW,"The word ""dccW"" does not contain any vowel letters. Therefore, the input would be ""dccW: 0; []"".",0,0,"Number of vowels: 0
+Vowel array: []
+"
+127,gjDnVVPdJa,"The word is : gjDnVVPdJa
+There are 2 vowel letters in the word : [o, a]",2,1,"1
+['a']
+"
+128,cjcsccccNcc,"The word is: cjcsccccNcc
+There are 0 vowel letters in the word.
+Output: ""cjcsccccNcc: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+129,NBvWNAEwgoSmO,"The word is: NBvWNAEwgoSmO
+There are 3 vowel letters in the word: A, E, O
+The output is: NBvWNAEwgoSmO: 3; [A, E, O]",3,4,"Number of vowels in the word: 3
+Vowel letters in an array: ['e', 'a', 'e']
+"
+130,vUZNtgawt,"The word is: vUZNtgawt
+There are 2 vowel letters: U and a
+Output: ""vUZNtgawt: 2; [U, a]""",2,2,"['U', 'a']
+"
+131,TdnAUOeXhL,"The word is: TdnAUOeXhL
+There are 4 vowel letters: A, U, O, e
+Output: TdnAUOeXhL: 4; [A, U, O, e]",4,4,"Number of vowels: 4
+Vowel letters: ['A', 'U', 'O', 'e']
+"
+132,yhfeclml,"The word is ""yhfeclml"". There are 0 vowel letters in this word. Therefore, the output would be:
+""yhfeclml"": 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+133,cWcccdcc,"The word is: cWcccdcc
+There are 0 vowel letters in the word.
+Output: ""cWcccdcc: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+134,dzbUhLUcTnOvf,"The word is: dzbUhLUcTnOvf
+There are 2 vowel letters: U, O
+Output: ""dzbUhLUcTnOvf"": 2; [U, O]",2,3,"3
+['e', 'a', 'e']
+"
+135,wFBoBWXSwWkQ,"The word is: wFBoBWXSwWkQ
+There are 0 vowel letters in this word.
+Output: wFBoBWXSwWkQ: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+136,RYEoJJFQvRKm,"The word is : RYEoJJFQvRKm
+There are 2 vowel letters in the word: [Y, E, o]",2,2,"2
+['E', 'o']
+"
+137,VytzDEzTbyLGFm,"The word is: VytzDEzTbyLGFm
+There are 0 vowel letters in this word.
+Output: ""VytzDEzTbyLGFm: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+138,ToaBFoXCQKYKP,"The word is: ToaBFoXCQKYKP
+There are 2 vowel letters: [o, a]",2,3,"Number of vowels: 3
+Vowel letters: ['o', 'a', 'o']
+"
+139,xeNCTGoV,"The word is: xeNCTGoV
+There are 2 vowel letters in the word: e, o
+Output: ""xeNCTGoV: 2; [e, o]""",2,2,"2
+['e', 'o']
+"
+140,ZFTCrGwEKf,"The word is : ZFTCrGwEKf
+There are 0 vowel letters in the word.
+Output: ZFTCrGwEKf : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+141,PEtaxDrMMDw,"The word is ""PEtaxDrMMDw"". There are 2 vowel letters in this word, which are ""e"" and ""a"". Therefore, the output should be:
+""PEtaxDrMMDw"" : 2; [e, a]",2,2,"Number of vowels: 2
+Vowel letters: ['E', 'a']
+"
+142,GbfrjBu,"The word is ""GbfrjBu"". There are 0 vowel letters in this word. Therefore, the output is:
+""GbfrjBu"" : 0; []",0,1,"Number of vowels: 2
+Vowel letters: ['e', 'o']
+"
+143,rPceccc,"The word is ""rPceccc"". There are 1 vowel letter in the word, which is ""e"". Therefore, the output is:
+""rPceccc"" : 1; [e]",1,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+144,ccXcMcHccccN,"The word is: ccXcMcHccccN
+There are 0 vowel letters in the word.
+Output: ""ccXcMcHccccN: 0; []""",0,0,"0
+[]
+"
+145,cccJcVcRccccccc,"The word is : cccJcVcRccccccc
+There are 0 vowel letters in the word.
+Output: ""cccJcVcRccccccc: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+146,OnTUenm,"""OnTUenm"" : 3; [O, U, e]",3,3,"3
+['e', 'a', 'e']
+"
+147,wFxtv,"The word is ""wFxtv"" : 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+148,SaKiWPycI,"The word is: SaKiWPycI
+There are 2 vowel letters: a, I
+Output: ""SaKiWPycI"": 2; [a, I]",2,3,"Number of vowels: 3
+Vowel letters: ['a', 'i', 'I']
+"
+149,hDcccucccc,"The word is ""hDcccucccc"". There are 0 vowel letters in this word. Therefore, the output must be:
+""hDcccucccc"" : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+150,DFaiASBKvf,"The word is: DFaiASBKvf
+There are 3 vowel letters: a, i, A
+Output: ""DFaiASBKvf: 3; [a, i, A]""",3,3,"Number of vowels: 3
+Vowel letters: ['a', 'i', 'A']
+"
+151,tYjrYrisgr,"The word is: tYjrYrisgr
+There are 0 vowel letters in the word.
+Output: ""tYjrYrisgr: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['i']
+"
+152,rObYzMOaenmKI,"The word is: rObYzMOaenmKI
+There are 5 vowel letters: O, Y, a, e, I
+Output: ""rObYzMOaenmKI: 5; [O, Y, a, e, I]""",5,5,"Number of vowels: 5
+Vowel array: ['O', 'O', 'a', 'e', 'I']
+"
+153,aBxDS,"The word is ""aBxDS"". There is only 1 vowel letter in the word, which is ""a"". Therefore, the output is:
+""aBxDS"" : 1; [a]",1,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+154,ppmShCDR,"The word is : ppmShCDR
+There are 0 vowel letters in the word.
+Output: ""ppmShCDR: 0; []""",0,0,"0
+[]
+"
+155,Catrli,"The word is ""Catrli"".
+There are 2 vowel letters in the word: ""a"" and ""i"".
+Therefore, the output is:
+""Catrli"": 2; [a, i]",2,2,"2
+['a', 'i']
+"
+156,NlqcJDpaoLpFYR,"The word is : NlqcJDpaoLpFYR
+There are 2 vowel letters in the word: o, a
+Output: NlqcJDpaoLpFYR : 2; [o, a]",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'o']
+"
+157,qDvfsblaaeuf,"The word is: qDvfsblaaeuf
+There are 5 vowel letters in the word: a, a, e, u, and a.
+The output is: ""qDvfsblaaeuf: 5; [a, a, e, u, a]""",5,4,"Number of vowels: 2
+Vowel letters: ['e', 'o']
+"
+158,sJPHAk,"""sJPHAk"" : 1; [A]",1,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+159,OTHCcWPwUPvZ,"There are 0 vowel letters in the word OTHCcWPwUPvZ. The output would be:
+""OTHCcWPwUPvZ: 0; []""",0,2,"['O', 'U']
+"
+160,dNcd,"The word ""dNcd"" does not contain any vowel letters. Therefore, the input would be:
+""dNcd"" : 0; []",0,0,"0
+[]
+"
+161,ZgTOnLOU,"The word is: ZgTOnLOU
+There are 3 vowel letters: O, U, O
+Output: ""ZgTOnLOU: 3; [O, U, O]""",3,3,"Number of vowels: 3
+Vowel letters: ['O', 'O', 'U']
+"
+162,ptwCqqwTKvPWlsc,"The word is : ptwCqqwTKvPWlsc
+There are 0 vowel letters in the word.
+Output: ""ptwCqqwTKvPWlsc: 0; []""",0,0,"[]
+"
+163,tsOpGFANOjvw,"The word is: tsOpGFANOjvw
+There are 2 vowel letters: O, A
+Output: ""tsOpGFANOjvw: 2; [O, A]""",2,3,"3
+['O', 'A', 'O']
+"
+164,faWhUrkReLr,"The word is: faWhUrkReLr
+There are 2 vowel letters: a, e
+Output: ""faWhUrkReLr: 2; [a, e]""",2,3,"Number of vowels: 3
+Vowel letters: ['a', 'U', 'e']
+"
+165,fddW,"The word ""fddW"" does not contain any vowel letters. Therefore, the input would be ""fddW: 0; []"".",0,0,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+166,kaHuVmjdyMV,"The word is: kaHuVmjdyMV
+There are 2 vowel letters: [a, u]",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'u']
+"
+167,tWyVCjGpFfQc,"The word is: tWyVCjGpFfQc
+Number of vowel letters: 0
+Vowel letters: []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+168,rySAfF,"The word is ""rySAfF"". There are 1 vowel letter in this word (the letter ""A""). Therefore, the output would be:
+
+""rySAfF"" : 1; [A]",1,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+169,bMPePJnPk,"The word is: bMPePJnPk
+There are 2 vowel letters: e, i
+Output: ""bMPePJnPk: 2; [e, i]""",2,1,"Number of vowels in the word: 1
+Vowel letters in the word: ['e']
+"
+170,TjOwJrwYQ,"The word is : TjOwJrwYQ
+There are 0 vowel letters in the word.
+Output: TjOwJrwYQ : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+171,pAbEhEUfQFcr,"The word is: pAbEhEUfQFcr
+There are 3 vowel letters: A, E, U
+Output: ""pAbEhEUfQFcr: 3; [A, E, U]""",3,4,"Number of vowels: 4
+Vowel letters: ['A', 'E', 'E', 'U']
+"
+172,HWuCFNWRl,"The word is: HWuCFNWRl
+There are 0 vowel letters in the word.
+Output: ""HWuCFNWRl: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+173,Addddddddddk,"The word is ""Addddddddddk"". There are 1 vowel letter in this word, which is ""a"". Therefore, the output must be:
+""Addddddddddk"" : 1; [a]",1,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+174,kjRlpXWjk,"The word is: kjRlpXWjk
+There are 0 vowel letters in the word.
+Output: ""kjRlpXWjk: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+175,MLmPX,"The word is: MLmPX
+There are 0 vowel letters in the word.
+Output: ""MLmPX: 0; []""",0,0,"0
+[]
+"
+176,aTpvjggpEjFb,"The word is: aTpvjggpEjFb
+There are 2 vowel letters: [a, E]",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'E']
+"
+177,kEvPSaPAiU,"The word is: kEvPSaPAiU
+There are 5 vowel letters: [e, a, A, i, U]",5,5,"Number of vowels: 5
+Vowel letters: ['E', 'a', 'A', 'i', 'U']
+"
+178,WGMIu,"The word is ""WGMIu"". There is only 1 vowel letter in this word, which is ""u"". Therefore, the output would be:
+
+""WGMIu"" : 1; [u]",1,2,"Number of vowels: 2
+Vowel letters: ['I', 'u']
+"
+179,FrGfRUuQ,"The word is ""FrGfRUuQ"". There are 2 vowel letters in the word, which are ""U"" and ""u"". Therefore, the output is:
+""FrGfRUuQ"" : 2; [U, u]",2,2,"Number of vowels: 2
+Vowel letters: ['U', 'u']
+"
+180,qzUlYAobxApL,"The word is : qzUlYAobxApL
+There are 3 vowel letters: U, Y, A
+Output: ""qzUlYAobxApL: 3; [U, Y, A]""",3,4,"Number of vowels: 4
+Vowel letters: ['U', 'A', 'o', 'A']
+"
+181,ddbBddddddddxdd,"There are 0 vowel letters in the word ""ddbBddddddddxdd"". Therefore, the output would be:
+""ddbBddddddddxdd"" : 0; []",0,0,"Number of vowels in the word: 3
+Vowel letters in the word: ['e', 'a', 'e']
+"
+182,Wddddddk,"The word is: Wddddddk
+There are 0 vowel letters in the word.
+Output: ""Wddddddk: 0; []""",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+183,FTuCouSImza,"FTuCouSImza : 4; [u, o, u, i]",4,5,"Number of vowels: 5
+Vowel array: ['u', 'o', 'u', 'I', 'a']
+"
+184,qjowYPkotwULGS,"The word is : qjowYPkotwULGS
+There are 2 vowel letters in the word: o, o
+Output: qjowYPkotwULGS: 2; [o, o]",2,3,"['o', 'o', 'U']
+"
+185,vKflf,"The word is: vKflf
+There are 0 vowel letters in the word.
+Output: ""vKflf: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+186,MOHYhC,"The word is ""MOHYhC"". 
+There are 1 vowel letter in the word: ""O"". 
+Therefore, the output is: ""MOHYhC: 1; [O]"".",1,1,"1
+['O']
+"
+187,QilEYYJ,"The word is ""QilEYYJ"". There are 2 vowel letters in the word, which are ""i"" and ""E"". Therefore, the output is:
+""QilEYYJ"" : 2; [i, E]",2,2,"Number of vowels: 2
+Vowel letters: ['i', 'E']
+"
+188,UIdd,"The word is ""UIdd"". There are 2 vowel letters in the word: ""U"" and ""I"". Therefore, the output must be:
+""UIdd"": 2; [U, I]",2,2,"Number of vowels: 2
+Vowel letters: ['U', 'I']
+"
+189,NVkWZ,"The word is: NVkWZ
+There are 0 vowel letters in the word.
+Output: ""NVkWZ: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+190,urwJZfeF,"The word is: urwJZfeF
+There are 1 vowel letter: [u]",1,2,"Number of vowels: 2
+Vowel letters: ['u', 'e']
+"
+191,dddDOdr,"The word is ""dddDOdr"". There are 1 vowel letter in the word, which is ""O"". Therefore, the output is:
+""dddDOdr"" : 1; [O]",1,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+192,GNCnshukCYZDUKJ,"The word is: GNCnshukCYZDUKJ
+There are 0 vowel letters in the word.
+Output: GNCnshukCYZDUKJ: 0; []",0,2,"Number of vowels: 2
+Vowel letters: ['u', 'U']
+"
+193,dNsdTdNddd,"The word is: dNsdTdNddd
+There are 0 vowel letters in the word.
+Output: ""dNsdTdNddd: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+194,nEFdd,"The word is ""nEFdd"". There are 1 vowel letter in this word, which is ""E"". Therefore, the output must be:
+""nEFdd"" : 1; [E]",1,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+195,FfxmyrDJ,"The word is: FfxmyrDJ
+There are 0 vowel letters in the word.
+Output: FfxmyrDJ: 0; []",0,0,"0
+[]
+"
+196,vLTOvlTO,"The word is ""vLTOvlTO"". There are 2 vowel letters in this word, which are ""O"" and ""O"". Therefore, the output must be:
+""vLTOvlTO"": 2; [O, O]",2,2,"Number of vowels: 2
+Vowel letters: ['O', 'O']
+"
+197,UtCuQyqRRH,"The word is ""UtCuQyqRRH"". There are 0 vowel letters in this word. Therefore, the output is:
+""UtCuQyqRRH"" : 0; []",0,2,"Number of vowels: 2
+Vowel letters: ['U', 'u']
+"
+198,fMvEK,"The word is ""fMvEK"". There are 1 vowel letter in this word, which is ""E"". Therefore, the output must be:
+""fMvEK: 1; [E]""",1,1,"Number of vowels: 1
+Vowel array: ['E']
+"
+199,QmsAGGKriDJzKJQ,"The word is: QmsAGGKriDJzKJQ
+There are 2 vowel letters: A, I
+Output: QmsAGGKriDJzKJQ: 2; [A, I]",2,2,"Number of vowels in the word:  2
+Vowel letters in the word:  ['A', 'i']
+"
+200,EjWOlNb,"The word is: EjWOlNb
+There are 2 vowel letters: [E, o]",2,2,"Number of vowels: 2
+Vowel letters: ['E', 'O']
+"
+201,jLFfNwXsZLkevJ,"The word is: jLFfNwXsZLkevJ
+There are 0 vowel letters in this word.
+Output: jLFfNwXsZLkevJ: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+202,IMnDZyIAORyLzq,"The word is: IMnDZyIAORyLzq
+There are 3 vowel letters: [I, A, O]",3,4,"Number of vowels: 4
+Vowel letters: ['I', 'I', 'A', 'O']
+"
+203,iJcjoJQjpl,"The word is: iJcjoJQjpl
+There are 2 vowel letters: i, o
+Output: ""iJcjoJQjpl: 2; [i, o]""",2,2,"Number of vowels: 2
+Vowel letters: ['i', 'o']
+"
+204,bGprjIIttiQFbf,"The word is: bGprjIIttiQFbf
+There are 2 vowel letters: [I, i]",2,3,"Number of vowels: 3
+Vowel letters: ['I', 'I', 'i']
+"
+205,WIdtmaHpw,"The word is: WIdtmaHpw
+There are 2 vowel letters: [I, a]",2,2,"Number of vowels in the word: 2
+Vowel letters in the word: ['I', 'a']
+"
+206,flHnqRp,"The word is: flHnqRp
+There are 0 vowel letters in the word.
+Output: ""flHnqRp: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+207,gtcNfgtanXJsE,"The word is: gtcNfgtanXJsE
+There are 2 vowel letters: [a, a]",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'E']
+"
+208,djVxs,"The word is: djVxs
+There is 1 vowel letter in the word.
+djVxs: 1; [V]",1,0,"Number of vowels: 0
+Vowel array: []
+"
+209,UFKyxwSSyCpG,"The word is : UFKyxwSSyCpG
+There are 0 vowel letters in the word.
+Output: ""UFKyxwSSyCpG: 0; []""",0,1,"3
+['e', 'a', 'e']
+"
+210,aEAEWtP,"The word is ""aEAEWtP"". There are 3 vowel letters in this word: ""a"", ""E"", and ""A"". Therefore, the output is:
+""aEAEWtP"" : 3; [a, E, A]",3,4,"Number of vowels: 4
+Vowel letters: ['a', 'E', 'A', 'E']
+"
+211,MBvezBGkkJxlW,"The word is: MBvezBGkkJxlW
+There are 0 vowel letters in the word.
+Output: ""MBvezBGkkJxlW: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+212,mDlIZ,"The word is ""mDlIZ"". There are 1 vowel letters in the word, which is ""I"". Therefore, the output must be:
+
+""mDlIZ"" : 1; [I]",1,1,"1
+['i']
+"
+213,eeereeeeeO,"The word is ""eeereeeeeO"". There are 6 vowel letters in the word: 5 ""e""s and 1 ""O"". Therefore, the output is:
+""eeereeeeeO"" : 6; [e, e, e, e, e, O]",6,9,"Number of vowels: 9
+Vowel array: ['e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'O']
+"
+214,eeOeeeereoeJee,"The word is: eeOeeeereoeJee
+There are 7 vowel letters in the word: [e, e, O, e, e, e, e]",7,12,"Number of vowels: 12
+Vowel letters: ['e', 'e', 'O', 'e', 'e', 'e', 'e', 'e', 'o', 'e', 'e', 'e']
+"
+215,gxFmWDzuxfjYMDM,"The word is: gxFmWDzuxfjYMDM
+There are 0 vowel letters in this word.
+Output: gxFmWDzuxfjYMDM: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+216,IwXxmRmg,"""IwXxmRmg"" : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['I']
+"
+217,sYYcxVfvKQ,"The word is : sYYcxVfvKQ
+There are 0 vowel letters in the word.
+Output: sYYcxVfvKQ : 0; []",0,0,"0
+[]
+"
+218,YlECwYPomVcMP,"The word is: YlECwYPomVcMP
+There are 2 vowel letters: [E, o]",2,2,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+219,FONED,"""FONED"" : 2; [O, E]",2,2,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+220,PvzVZDqQgVJmEc,"The word is: PvzVZDqQgVJmEc
+There are 0 vowel letters in this word.
+Output: PvzVZDqQgVJmEc: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+221,eeeeeeAeeYeNe,"The word is: eeeeeeAeeYeNe
+There are 6 vowel letters in the word: A, e, e, e, Y, e
+Input: eeeeeeAeeYeNe
+Output: 6; [A, e, e, e, Y, e]",6,11,"Number of vowels: 11
+Vowel letters: ['e', 'e', 'e', 'e', 'e', 'e', 'A', 'e', 'e', 'e', 'e']
+"
+222,fJOOQuCuyHaRDfa,"The word is: fJOOQuCuyHaRDfa
+There are 4 vowel letters: [O, O, u, a]",4,6,"Number of vowels: 6
+Vowel array: ['O', 'O', 'u', 'u', 'a', 'a']
+"
+223,tJsWFNuZpZDHWfj,"The word is: tJsWFNuZpZDHWfj
+There are 0 vowel letters in the word.
+Output: ""tJsWFNuZpZDHWfj: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+224,DdHKqbPkGoRoVQW,"The word is: DdHKqbPkGoRoVQW
+There are 0 vowel letters in this word.
+Output: DdHKqbPkGoRoVQW : 0; []",0,2,"Number of vowels: 2
+Vowel letters: ['o', 'o']
+"
+225,qthzPYgqPgU,"The word is: qthzPYgqPgU
+There are 0 vowel letters in the word.
+Output: qthzPYgqPgU: 0; []",0,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+226,eudjgyfaValH,"The word is: eudjgyfaValH
+There are 4 vowel letters: [u, e, a, a]",4,4,"4
+['e', 'u', 'a', 'a']
+"
+227,etRyie,"""etRyie"" : 3; [e, i, e]",3,3,"[1, 2, 0, 0, 0]
+"
+228,mjdwhYLMftReVlB,"The word is: mjdwhYLMftReVlB
+There are 0 vowel letters in the word.
+Output: ""mjdwhYLMftReVlB: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+229,zlrLBhbVnkxj,"The word is : zlrLBhbVnkxj
+There are 0 vowel letters in this word.
+Output: zlrLBhbVnkxj : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+230,eeeeeeNfFeeee,"The word is: eeeeeeNfFeeee
+There are 7 vowel letters: [e, e, e, e, e, e, e]",7,10,"Number of vowels: 10
+Vowel letters: ['e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e']
+"
+231,OpdXnp,"The word is: OpdXnp
+There are 0 vowel letters in the word.
+Output: ""OpdXnp: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+232,eeaeeaee,"The word is ""eeaeaaee"" and there are 8 vowel letters in it. The output should be:
+""eeaeaaee"" : 8; [e, e, a, e, a, a, e, e]",8,8,"Number of vowels: 8
+Vowel array: ['e', 'e', 'a', 'e', 'a', 'a', 'e', 'e']
+"
+233,HIoTVirFpmhWuHV,"The word is : HIoTVirFpmhWuHV
+There are 3 vowel letters in the word: i, o, u.
+The output is: ""HIoTVirFpmhWuHV"" : 3; [i, o, u]",3,4,"Number of vowels: 4
+Vowel letters: ['I', 'o', 'i', 'u']
+"
+234,eeeeXKeeeeee,"The word is: eeeeXKeeeeee
+There are 8 vowel letters in the word: [e, e, e, e, e, e, e, e]",8,10,"10
+['e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e']
+"
+235,caAbpYiQPmwJoEt,"The word is: caAbpYiQPmwJoEt
+There are 4 vowel letters: a, A, i, o
+Output: ""caAbpYiQPmwJoEt: 4; [a, A, i, o]""",4,5,"Number of vowels in the word: 3
+Vowel letters in an array: ['e', 'a', 'e']
+"
+236,eVEeeecee,"The word is: eVEeeecee
+There are 6 vowel letters in the word: e, E, e, e, e, e
+The output is: ""eVEeeecee: 6; [e, E, e, e, e, e]""",6,7,"Number of vowels: 7
+Vowel array: ['e', 'E', 'e', 'e', 'e', 'e', 'e']
+"
+237,eeeeeBeeeeeKeeF,"The word is: eeeeeBeeeeeKeeF
+There are 7 vowel letters in the word: e, e, e, e, e, e, e
+Input: eeeeeBeeeeeKeeF
+Output: 7; [e, e, e, e, e, e, e]",7,12,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+238,pztEgA,"The word is ""pztEgA"".
+There are 2 vowel letters in the word: ""E"" and ""A"".
+Therefore, the output is: ""pztEgA: 2; [E, A]""",2,2,"['E', 'A']
+"
+239,znWGADm,"The word is: znWGADm
+There are 1 vowel letter: A
+The output is: ""znWGADm: 1; [A]""",1,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+240,eeefeeeDeeJeeee,"The word is ""eeefeeeDeeJeeee"". There are 11 vowel letters in the word: 7 ""e""s and 4 ""e""s. Therefore, the output should be:
+
+""eeefeeeDeeJeeee"": 11; [e, e, e, e, e, e, e, e, e, e, e]",11,12,"12
+['e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e']
+"
+241,KJyYUWitkWjlJu,"The word is: KJyYUWitkWjlJu
+There are 2 vowel letters: [U, i]",2,3,"3
+['U', 'i', 'u']
+"
+242,eOeeeeeeeWAeMe,"The word is ""eOeeeeeeeWAeMe"". 
+There are 7 vowel letters in the word: ""e, O, e, e, e, e, A, e"". 
+Therefore, the output is: ""eOeeeeeeeWAeMe: 7; [e, O, e, e, e, e, A, e]"".",7,12,"['e', 'O', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'A', 'e', 'e']
+"
+243,vxPLvdLj,"The word is : vxPLvdLj
+There are 0 vowel letters in the word.
+Output: ""vxPLvdLj: 0; []""",0,0,"Number of vowels in the word: 0
+Vowel letters in the word: []
+"
+244,eeeeKeeede,"The word is ""eeeeKeeede"". There are 5 vowel letters in the word (4 ""e""s and 1 ""e""). Therefore, the output must be:
+""eeeeKeeede"": 5; [e, e, e, e, e]",5,8,"Number of vowels: 8
+Vowel letters: ['e', 'e', 'e', 'e', 'e', 'e', 'e', 'e']
+"
+245,wbqNCo,"The word ""wbqNCo"" has 1 vowel letter. 
+
+Therefore, the output is:
+""wbqNCo"" : 1; [o]",1,1,"['o']
+"
+246,eeneeeeTeeeUe,"The word is: eeneeeeTeeeUe
+There are 7 vowel letters in the word: e, e, e, e, e, e, U
+Output: ""eeneeeeTeeeUe: 7; [e, e, e, e, e, e, U]""",7,11,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+247,nKHQpgFRhLvVU,"The word is: nKHQpgFRhLvVU
+There are 0 vowel letters in the word.
+Output: nKHQpgFRhLvVU: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+248,dSSvTSKlupDQ,"The word is: dSSvTSKlupDQ
+There are 0 vowel letters in the word.
+Output: ""dSSvTSKlupDQ: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+249,cwbyTwuToBq,"The word is: cwbyTwuToBq
+There are 2 vowel letters: [u, o]",2,2,"2
+['u', 'o']
+"
+250,fffufk,"The word ""fffufk"" has 1 vowel letter. 
+Output: ""fffufk"" : 1; [u]",1,1,"Number of vowels: 1
+Vowel array: ['u']
+"
+251,ogQFmlieDbDclBo,"The word is: ogQFmlieDbDclBo
+There are 4 vowel letters: o, i, e, o
+The output is: ogQFmlieDbDclBo: 4; [o, i, e, o]",4,4,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+252,HHgCmgKyQxkbtW,"The word is : HHgCmgKyQxkbtW
+There are 0 vowel letters in the word.
+Output: ""HHgCmgKyQxkbtW : 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+253,jUTtpfJoLCIU,"The word is: jUTtpfJoLCIU
+There are 4 vowel letters: U, I, o, I
+Output: ""jUTtpfJoLCIU: 4; [U, I, o, I]""",4,4,"Number of vowels: 4
+Vowel array: ['U', 'o', 'I', 'U']
+"
+254,KRMZcNwUN,"The word is: KRMZcNwUN
+There are 0 vowel letters in the word.
+Therefore, the output is:
+KRMZcNwUN: 0; []",0,1,"1
+['U']
+"
+255,GEwLkmf,"The word is ""GEwLkmf"". There are 0 vowel letters in this word. Therefore, the output is:
+""GEwLkmf"" : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+256,ffLMAi,"The word is ""ffLMAi"". There are 2 vowel letters in this word, which are ""A"" and ""i"". Therefore, the output must be:
+""ffLMAi"" : 2; [A, i]",2,2,"Number of vowels: 2
+Vowel array: ['A', 'i']
+"
+257,NfrApf,"The word is ""NfrApf"" : 1; [A]",1,1,"Number of vowels: 1
+Vowel array: ['A']
+"
+258,DDJZQqHwyIB,"The word is : DDJZQqHwyIB
+There are 0 vowel letters in the word.
+Output: ""DDJZQqHwyIB: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['I']
+"
+259,fWffffffffwfff,"""fWffffffffwfff"" : 0; []",0,0,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+260,zxjhbV,"The word is: zxjhbV
+There is 1 vowel letter in the word.
+The output is: ""zxjhbV: 1; [V]""",1,0,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+261,ffAffffflffBfff,"The word is: ffAffffflffBfff
+There are 2 vowel letters: A
+Output: ""ffAffffflffBfff: 2; [A]""",2,1,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+262,NsYfFWrHoXytS,"The word is: NsYfFWrHoXytS
+There are 0 vowel letters in the word.
+Output: ""NsYfFWrHoXytS: 0; []""",0,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+263,DIcxBZBtAAsIc,"The word is: DIcxBZBtAAsIc
+There are 4 vowel letters: I, A, A, I
+Output: ""DIcxBZBtAAsIc: 4; [I, A, A, I]""",4,4,"Number of vowels: 4
+Vowel letters: ['I', 'A', 'A', 'I']
+"
+264,iCPSInycklMtZ,"The word is: iCPSInycklMtZ
+There are 2 vowel letters: i, I
+Output: ""iCPSInycklMtZ"": 2; [i, I]",2,2,"Number of vowels: 2
+Vowel letters: ['i', 'I']
+"
+265,DfffVfsffnff,"The word is: DfffVfsffnff
+There are 0 vowel letters in the word.
+Output: ""DfffVfsffnff: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+266,ZALMQrdmtUXb,"The word is: ZALMQrdmtUXb
+There are 0 vowel letters in the word.
+Output: ""ZALMQrdmtUXb: 0; []""",0,2,"Number of vowels: 2
+Vowel letters: ['A', 'U']
+"
+267,ffSmk,"The word ""ffSmk"" has 0 vowel letters. Therefore, the output would be:
+""ffSmk"": 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+268,npsOadDs,"The word is ""npsOadDs"". 
+There are 2 vowel letters in the word: ""O"" and ""a"". 
+Therefore, the output is: ""npsOadDs: 2; [O, a]""",2,2,"2
+['O', 'a']
+"
+269,fffffAffffof,"The word is: fffffAffffof
+There is 1 vowel letter in the word.
+Output: ""fffffAffffof: 1; [A]""",1,2,"Number of vowels: 2
+Vowel letters: ['A', 'o']
+"
+270,qUejpZE,"The word is: qUejpZE
+There are 2 vowel letters: [U, e]",2,3,"Number of vowels: 3
+Vowel array: ['U', 'e', 'E']
+"
+271,SAbsDtXn,"The word is: SAbsDtXn
+There are 1 vowel letter: A
+Output: ""SAbsDtXn: 1; [A]""",1,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+272,fjfffffH,"The word ""fjfffffH"" has 0 vowel letters. Therefore, the output would be:
+""fjfffffH"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+273,TnyDCgilHbWwJ,"The word is: TnyDCgilHbWwJ
+There are 0 vowel letters in this word.
+Output: TnyDCgilHbWwJ: 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['i']
+"
+274,swWVTCxDDp,"The word is: swWVTCxDDp
+There are 0 vowel letters in the word.
+Output: ""swWVTCxDDp: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+275,RaxVZFUXubD,"The word is : RaxVZFUXubD
+There are 2 vowel letters in the word: a, U
+Output: RaxVZFUXubD : 2; [a, U]",2,3,"Number of vowels: 3
+Vowel letters: ['a', 'U', 'u']
+"
+276,MZELVcwWDuz,"The word is: MZELVcwWDuz
+There are 1 vowel letter: [E]",1,2,"Number of vowels: 2
+Vowel letters: ['E', 'u']
+"
+277,CXsAh,"The word is: CXsAh
+There are 1 vowel letter in the word.
+CXsAh: 1; [A]",1,1,"Number of vowels: 1
+Vowel array: ['A']
+"
+278,ffkfJfffffff,"The word is: ffkfJfffffff
+There are 0 vowel letters in the word.
+Output: ""ffkfJfffffff: 0; []""",0,0,"3
+['e', 'a', 'e']
+"
+279,GkziqGileHyrJrr,"The word is: GkziqGileHyrJrr
+There are 2 vowel letters: i, e
+Output: ""GkziqGileHyrJrr: 2; [i, e]""",2,3,"Number of vowels: 3
+Vowel letters: ['i', 'i', 'e']
+"
+280,JbfKffqf,"The word is: JbfKffqf
+There are 0 vowel letters in the word.
+Output: ""JbfKffqf: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+281,HffYBfffnfffff,"The word is: HffYBfffnfffff
+There are 0 vowel letters in the word.
+Output: ""HffYBfffnfffff: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+282,zSxKJflmePmw,"The word is: zSxKJflmePmw
+Number of vowel letters: 0
+Vowel letters: []",0,1,"Number of vowels: 1
+Vowel array: ['e']
+"
+283,IrMfdW,"""IrMfdW"" : 0; []",0,1,"3
+['e', 'a', 'e']
+"
+284,noXIvag,"The word is ""noXIvag"".
+There are 3 vowel letters in the word: ""o"", ""I"", and ""a"".
+Therefore, the output is:
+""noXIvag"" : 3; [o, I, a]",3,3,"3
+['o', 'I', 'a']
+"
+285,GIpqTkdsTNUFT,"The word is : GIpqTkdsTNUFT
+There are 1 vowel letter in the word.
+GIpqTkdsTNUFT : 1; [I]",1,2,"Number of vowels: 2
+Vowel letters: ['I', 'U']
+"
+286,bBpWptiMrMIO,"The word is: bBpWptiMrMIO
+There are 2 vowel letters: i, O
+Output: ""bBpWptiMrMIO: 2; [i, O]""",2,3,"Number of vowels: 3
+Vowel letters: ['i', 'I', 'O']
+"
+287,ORlGXkfE,ORlGXkfE: 1; [O],1,2,"[0, 1, 0, 1, 0]
+"
+288,hTnYWKe,"The word is: hTnYWKe
+There are 1 vowel letter in the word; [e]",1,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+289,FvXfjunfdG,"The word is: FvXfjunfdG
+There are 0 vowel letters in the word.
+Output: FvXfjunfdG: 0; []",0,1,"1
+['u']
+"
+290,vgOpS,"The word is ""vgOpS"". There are 1 vowel letter in this word, which is ""O"". Therefore, the output must be:
+""vgOpS"" : 1; [O]",1,1,"Number of vowels: 1
+Vowel array: ['O']
+"
+291,OymRgaiYmknP,"The word is: OymRgaiYmknP
+There are 3 vowel letters: [o, a, i]",3,3,"Number of vowels: 3
+Vowel letters: ['o', 'a', 'i']
+"
+292,NWEMOC,"The word is ""NWEMOC"". There are 2 vowel letters in the word, which are ""E"" and ""O"". Therefore, the output is:
+""NWEMOC"": 2; [E, O]",2,2,"Number of vowels: 2
+Vowel letters: ['E', 'O']
+"
+293,wARQRJkxQ,"The word is: wARQRJkxQ
+There are 1 vowel letter: A
+The output is: ""wARQRJkxQ: 1; [A]""",1,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+294,frTffySf,"The word is: frTffySf
+There are 0 vowel letters in the word.
+Output: ""frTffySf: 0; []""",0,0,"Number of vowels in the word: 3
+Vowel letters in the word: ['e', 'a', 'e']
+"
+295,fdLyffnf,"The word is: fdLyffnf
+There are 0 vowel letters in the word.
+Output: ""fdLyffnf: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+296,zcvNDxOdyOHIjSi,"The word is: zcvNDxOdyOHIjSi
+There are 3 vowel letters: O, y, I
+Output: zcvNDxOdyOHIjSi: 3; [O, y, I]",3,4,"4
+['O', 'O', 'I', 'i']
+"
+297,BObQwYVn,"The word is: BObQwYVn
+There are 0 vowel letters in the word.
+Output: ""BObQwYVn: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+298,MxekNzSNj,"The word is: MxekNzSNj
+There are 0 vowel letters in this word.
+Output: MxekNzSNj: 0; []",0,1,"Number of vowels in the word: 1
+Vowel letters in the word: ['e']
+"
+299,fffKtf,"The word is ""fffKtf"". There are 0 vowel letters in this word. Therefore, the output is:
+""fffKtf"" : 0; []",0,0,"3
+['e', 'a', 'e']
+"
+300,iQbwPWKKfrozEo,"The word is: iQbwPWKKfrozEo
+There are 3 vowel letters: i, o, E
+Output: iQbwPWKKfrozEo: 3; [i, o, E]",3,4,"Number of vowels: 4
+Vowel letters: ['i', 'o', 'E', 'o']
+"
+301,BMvoreRXQ,"The word is: BMvoreRXQ
+There are 2 vowel letters: o, e
+Output: ""BMvoreRXQ: 2; [o, e]""",2,2,"Number of vowels: 2
+Vowel array: ['o', 'e']
+"
+302,AmfiGoCOrsjyMbo,"The word is: AmfiGoCOrsjyMbo
+There are 4 vowel letters: A, i, O, o
+Output: ""AmfiGoCOrsjyMbo: 4; [A, i, O, o]""",4,5,"Number of vowels: 5
+Vowel array: ['A', 'i', 'o', 'O', 'o']
+"
+303,HiouNuUmTy,"The word is ""HiouNuUmTy"". There are 4 vowel letters in the word: ""i"", ""o"", ""u"", and ""y"". Therefore, the output would be:
+
+""HiouNuUmTy"" : 4; [i, o, u, y]",4,5,"Number of vowels: 5
+Vowel letters: ['i', 'o', 'u', 'u', 'U']
+"
+304,ggaxRgg,"The word is ""ggaxRgg"" : 1; [a]",1,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+305,ZiOuOBTfqky,"The word is: ZiOuOBTfqky
+There are 4 vowel letters: [i, O, u, O]",4,4,"Number of vowels: 4
+Vowel letters: ['i', 'O', 'u', 'O']
+"
+306,yDBMv,"The word is ""yDBMv"". There are 0 vowel letters in this word. Therefore, the output must be:
+""yDBMv"" : 0; []",0,0,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+307,VGkohvdYuW,"The word is: VGkohvdYuW
+There are 2 vowel letters: o, u
+Therefore, the output is:
+""VGkohvdYuW: 2; [o, u]""",2,2,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+308,javgGkWrnjdJFUb,"The word is: javgGkWrnjdJFUb
+There are 2 vowel letters: [a, U]",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'U']
+"
+309,pIKPWKRFqGKZyu,"The word is: pIKPWKRFqGKZyu
+There are 2 vowel letters: i, u
+Output: ""pIKPWKRFqGKZyu: 2; [i, u]""",2,2,"2
+['I', 'u']
+"
+310,eMpaPgC,"The word is ""eMpaPgC"". There are 2 vowel letters in the word, which are ""a"" and ""e"". Therefore, the output is:
+""eMpaPgC"": 2; [a, e]",2,2,"Number of vowels in the word: 2
+Array of vowel letters present in the word: ['e', 'a']
+"
+311,ggNgqg,"The word is : ggNgqg
+There are 0 vowel letters in the word.
+Output: ""ggNgqg: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+312,lQxganOlvZZixH,"The word is: lQxganOlvZZixH
+There are 2 vowel letters: [a, o]",2,3,"Number of vowels: 3
+Vowel letters: ['a', 'O', 'i']
+"
+313,wpKVKb,"The word is : wpKVKb
+There are 0 vowel letters in the word.
+Output: ""wpKVKb: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+314,VjuZviVjunrb,"The word is: VjuZviVjunrb
+There are 2 vowel letters: [u, i]",2,3,"Number of vowels: 3
+Vowel letters: ['u', 'i', 'u']
+"
+315,xQgMVp,"The word is: xQgMVp
+There are 0 vowel letters in the word.
+Output: ""xQgMVp: 0; []""",0,0,"0
+[]
+"
+316,CulNPnZDn,"The word is: CulNPnZDn
+There are 0 vowel letters in this word.
+Output: ""CulNPnZDn: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+317,gBFWbfkrv,"The word is: gBFWbfkrv
+There are 0 vowel letters in the word.
+Output: gBFWbfkrv: 0; []",0,0,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+318,oLdLic,"""oLdLic"" : 2; [o, i]",2,2,"Number of vowels: 2
+Vowel array: ['o', 'i']
+"
+319,Bggygggg,"The word is ""Bggygggg"". There are 0 vowel letters in this word. Therefore, the output must be:
+""Bggygggg"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+320,SBYnZsr,"The word is: SBYnZsr
+There are 0 vowel letters in the word.
+Output: SBYnZsr: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+321,fMOTNBuLQuZIZTp,"The word is: fMOTNBuLQuZIZTp
+There are 2 vowel letters: [O, U]",2,4,"['O', 'u', 'u', 'I']
+"
+322,ggggggfgggjgggN,"The word is : ggggggfgggjgggN
+There are 0 vowel letters in the word.
+Output: ""ggggggfgggjgggN : 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+323,ggggUgggOngz,"The word is: ggggUgggOngz
+There are 2 vowel letters: U and O
+Output: ""ggggUgggOngz: 2; [U, O]""",2,2,"Number of vowels in the given word: 2
+Array of vowel letters in the given word: ['U', 'O']
+"
+324,gOgrggsggGgggg,"The word is: gOgrggsggGgggg
+Number of vowel letters: 1
+Explanation: There is only one vowel letter in the word, which is ""O"".
+Output: gOgrggsggGgggg: 1; [O]",1,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+325,UnAclDIZ,"""UnAclDIZ"" : 3; [U, A, I]",3,3,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+326,ggFRgggg,"The word is : ggFRgggg
+There are 0 vowel letters in the word.
+Output: ggFRgggg: 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+327,gbgXggggUgglgg,"The word is: gbgXggggUgglgg
+There are 0 vowel letters in this word.
+Output: ""gbgXggggUgglgg: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+328,ggggLhggbCgg,"The word is: ggggLhggbCgg
+There are 0 vowel letters in the word.
+Output: ggggLhggbCgg: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+329,CgzAeiBl,"The word is: CgzAeiBl
+There are 3 vowel letters: A, e, i
+Output: ""CgzAeiBl: 3; [A, e, i]""",3,3,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+330,GWpvdBYZlAQK,"The word is: GWpvdBYZlAQK
+There are 0 vowel letters in the word.
+Output: GWpvdBYZlAQK : 0; []",0,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+331,SQmggx,"The word ""SQmggx"" has 0 vowel letters. Therefore, the output must be:
+""SQmggx"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+332,gNsaAv,"The word is ""gNsaAv"". There are 3 vowel letters in this word: ""a"", ""A"", and ""i"". Therefore, the output must be: ""gNsaAv: 3; [a, A, i]"".",3,2,"Number of vowels: 2
+Vowel array: ['a', 'A']
+"
+333,QafQCkuEst,"The word is: QafQCkuEst
+There are 3 vowel letters: a, u, E
+Output: ""QafQCkuEst: 3; [a, u, E]""",3,3,"Number of vowels: 3
+Vowel letters: ['a', 'u', 'E']
+"
+334,ggFPgggggSg,"The word is: ggFPgggggSg
+There are 0 vowel letters in the word.
+Output: ggFPgggggSg: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+335,mGtwBwJukiHwFrq,"The word is: mGtwBwJukiHwFrq
+Number of vowel letters: 1
+Explanation: There is only one vowel letter 'i' in the word.
+Output: ""mGtwBwJukiHwFrq: 1; [i]""",1,2,"Number of vowels: 2
+Vowel array: ['u', 'i']
+"
+336,IHUIiwVFJ,"""IHUIiwVFJ"" : 3; [I, U, I]",3,4,"Number of vowels: 4
+Vowel letters: ['I', 'U', 'I', 'i']
+"
+337,feerBT,"The word is ""feerBT"". There are 2 vowel letters in the word: ""ee"". Therefore, the output is:
+""feerBT"": 2; [e, e]",2,2,"2
+['e', 'e']
+"
+338,kJGLPcKeGd,"The word is: kJGLPcKeGd
+There are 2 vowel letters: [e, e]",2,1,"Number of vowels: 1
+Vowel array: ['e']
+"
+339,TVhVjzxlKitEFA,"The word is: TVhVjzxlKitEFA
+There are 2 vowel letters: [i, E]",2,3,"Number of vowels: 3
+Vowel letters: ['i', 'E', 'A']
+"
+340,mLNflQXPuwYOqsb,"The word is: mLNflQXPuwYOqsb
+There are 0 vowel letters in the word.
+Output: ""mLNflQXPuwYOqsb: 0; []""",0,2,"Number of vowels: 2
+Vowel letters: ['u', 'O']
+"
+341,KjgzgggXgg,"The word is: KjgzgggXgg
+There are 0 vowel letters in the word.
+The output is: ""KjgzgggXgg: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+342,RiBxIzECm,"The word is: RiBxIzECm
+There are 2 vowel letters: i, E
+Output: ""RiBxIzECm: 2; [i, E]""",2,3,"Number of vowels: 3
+Vowel letters: ['i', 'I', 'E']
+"
+343,lpPiNuK,"The word is ""lpPiNuK"". There are 2 vowel letters in the word, which are ""i"" and ""u"". Therefore, the output must be:
+""lpPiNuK"" : 2; [i, u]",2,2,"Number of vowels: 2
+Vowel letters: ['i', 'u']
+"
+344,lBNjTZBudFbRvEi,"The word is: lBNjTZBudFbRvEi
+There are 3 vowel letters: [u, i, E]",3,3,"3
+['e', 'a', 'e']
+"
+345,IkhwHfdSw,"The word is: IkhwHfdSw
+There are 0 vowel letters in the word.
+Output: ""IkhwHfdSw: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['I']
+"
+346,gxUagYXGDKPQhtK,"The word is : gxUagYXGDKPQhtK
+There are 2 vowel letters: [U, a]",2,2,"Number of vowels: 2
+Vowel array: ['U', 'a']
+"
+347,HKUUB,"The word is ""HKUUB"". There are 0 vowel letters in this word. Therefore, the output would be:
+""HKUUB: 0; []""",0,2,"2
+['U', 'U']
+"
+348,vcgKImSzGKJGVd,"The word is : vcgKImSzGKJGVd
+There are 0 vowel letters in the word.
+Output: ""vcgKImSzGKJGVd : 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['I']
+"
+349,PebNJHwTlRokYG,"The word is : PebNJHwTlRokYG
+There are 0 vowel letters in the word.
+Output: ""PebNJHwTlRokYG: 0; []""",0,2,"Number of vowels: 2
+Vowel array: ['e', 'o']
+"
+350,buqNOe,"The word is ""buqNOe"". There are 3 vowel letters in the word: ""u"", ""O"", and ""e"". Therefore, the output would be:
+""buqNOe"" : 3; [u, O, e]",3,3,"Number of vowels: 3
+Vowel letters: ['u', 'O', 'e']
+"
+351,CgjYFEftHIx,"The word is: CgjYFEftHIx
+There are 0 vowel letters in the word.
+Output: ""CgjYFEftHIx: 0; []""",0,2,"2
+['E', 'I']
+"
+352,xIpDSSCguN,"The word is: xIpDSSCguN
+There are 2 vowel letters in the word: i, u
+Therefore, the output is:
+""xIpDSSCguN: 2; [i, u]""",2,2,"Number of vowels: 2
+Vowel array: ['I', 'u']
+"
+353,chhhhFZhhh,"The word is : chhhhFZhhh
+There are 0 vowel letters in the word.
+Output: ""chhhhFZhhh: 0; []""",0,0,"0
+[]
+"
+354,lyzGdXPAo,"The word is: lyzGdXPAo
+There are 2 vowel letters: [y, o]",2,2,"Number of vowels in the word: 3
+Vowel letters in the word: ['e', 'a', 'e']
+"
+355,ohIh,"The word is ""ohIh"". There are 2 vowel letters in this word, which are ""o"" and ""I"". Therefore, the output should be:
+""ohIh"" : 2; [o, I]",2,2,"Number of vowels: 2
+Vowel letters: ['o', 'I']
+"
+356,abJQVyyrBlNgZDv,"The word is: abJQVyyrBlNgZDv
+There are 0 vowel letters in the word.
+Output: ""abJQVyyrBlNgZDv: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+357,hhhhZKhh,"The word is: hhhhZKhh
+There are 0 vowel letters in the word.
+Output: ""hhhhZKhh: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+358,gafMzpRpffzzNw,"The word is: gafMzpRpffzzNw
+There are 1 vowel letters: [a]",1,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+359,hSwhS,"The word ""hSwhS"" does not contain any vowel letters. Therefore, the input is ""hSwhS"" : 0; [] (empty array).",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+360,DLQBlVkVObNrO,"The word is : DLQBlVkVObNrO
+There are 0 vowel letters in the word.
+Output: DLQBlVkVObNrO : 0; []",0,2,"Number of vowels: 2
+Vowel array: ['O', 'O']
+"
+361,oyiXPdeU,"The word is: oyiXPdeU
+There are 3 vowel letters: [o, i, e]",3,4,"Number of vowels: 4
+Vowel letters: ['o', 'i', 'e', 'U']
+"
+362,ADfkWTZFo,"The word is: ADfkWTZFo
+There are 2 vowel letters in the word: A and O
+The output is: ""ADfkWTZFo: 2; [A, O]""",2,2,"Number of vowels: 2
+Vowel array: ['A', 'o']
+"
+363,fjgQlJTDztOmk,"The word is : fjgQlJTDztOmk
+There are 0 vowel letters in the word.
+Output: fjgQlJTDztOmk : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+364,cNLZDPyOTLB,"The word is: cNLZDPyOTLB
+There are 0 vowel letters in this word.
+Output: cNLZDPyOTLB: 0; []",0,1,"Number of vowels in the word: 1
+Array of vowel letters: ['O']
+"
+365,SHIkEBCq,"The word is ""SHIkEBCq"". There are 2 vowel letters in the word, which are ""I"" and ""E"". Therefore, the output should be:
+""SHIkEBCq"" : 2; [I, E]",2,2,"2
+['I', 'E']
+"
+366,hPhhhfhhg,"The word is: hPhhhfhhg
+There are 0 vowel letters in the word.
+Output: ""hPhhhfhhg: 0; []""",0,0,"0
+[]
+"
+367,auiqs,"""auiqs"" : 3; [a, u, i]",3,3,"Number of vowels in the word: 3
+Vowel letters in an array: ['a', 'u', 'i']
+"
+368,fcKwrlJ,"The word is : fcKwrlJ
+There are 0 vowel letters in the word.
+Output: ""fcKwrlJ: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+369,kEtGCDB,"The word is ""kEtGCDB"". There are 1 vowel letter in the word, which is ""E"". Therefore, the output is:
+""kEtGCDB"" : 1; [E]",1,1,"1
+['E']
+"
+370,fKOZSykTXcFumzv,"The word is: fKOZSykTXcFumzv
+There are 0 vowel letters in the word.
+Output: ""fKOZSykTXcFumzv: 0; []""",0,2,"Number of vowels: 2
+Vowel letters: ['O', 'u']
+"
+371,QhhhhhWhhnhhh,"The word is: QhhhhhWhhnhhh
+There are 0 vowel letters in this word.
+Output: ""QhhhhhWhhnhhh: 0; []""",0,0,"[]
+"
+372,CXDQz,"The word ""CXDQz"" has 0 vowel letters. Therefore, the output would be:
+""CXDQz"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+373,yzNhhqhhhh,"The word is: yzNhhqhhhh
+There are 0 vowel letters in the word.
+Output: ""yzNhhqhhhh: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+374,ogzzYBMOeNuulpq,"The word is: ogzzYBMOeNuulpq
+There are 4 vowel letters: o, e, u, u
+Output: ogzzYBMOeNuulpq: 4; [o, e, u, u]",4,5,"Number of vowels in the word: 5
+Array of vowel letters in the word: ['o', 'O', 'e', 'u', 'u']
+"
+375,etkrd,"""etkrd"" : 1; [e]",1,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+376,UeCTg,"The word is: UeCTg
+There are 1 vowel letter in the word.
+Output: UeCTg: 1; [e]",1,2,"Number of vowels: 2
+Vowel letters: ['U', 'e']
+"
+377,XwOiSgu,"The word is: XwOiSgu
+There are 3 vowel letters in the word: O, i, u
+Therefore, the output is:
+""XwOiSgu: 3; [O, i, u]""",3,3,"['O', 'i', 'u']
+"
+378,yFMVlBeQhfHKhv,"The word is: yFMVlBeQhfHKhv
+There are 0 vowel letters in the word.
+Output: yFMVlBeQhfHKhv: 0; []",0,1,"Number of vowels: 1
+Vowel array: ['e']
+"
+379,NPoErq,"The word is: NPoErq
+There are 2 vowel letters in the word: o, E
+Output: ""NPoErq: 2; [o, E]""",2,2,"Number of vowels: 2
+Vowel array: ['o', 'e']
+"
+380,VBOPsyBMJHPYbk,"The word is: VBOPsyBMJHPYbk
+There are 0 vowel letters in the word.
+Output: ""VBOPsyBMJHPYbk: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+381,PHslwAnzTUwyog,"The word is: PHslwAnzTUwyog
+There are 2 vowel letters: A, U
+Output: ""PHslwAnzTUwyog: 2; [A, U]""",2,3,"Number of vowels: 3
+Vowel letters: ['A', 'U', 'o']
+"
+382,thVVM,"The word ""thVVM"" does not contain any vowel letters. Therefore, the input would be:
+""thVVM"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+383,heDhhh,"The word is ""heDhhh"". There are 1 vowel letter in the word, which is ""e"". Therefore, the output should be:
+
+""heDhhh"" : 1; [e]",1,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+384,swMLRT,"The word ""swMLRT"" has 0 vowel letters.
+Therefore, the output is:
+""swMLRT"" : 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+385,IihTbYBNOJl,"""IihTbYBNOJl"" : 2; [i, O]",2,3,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+386,mDtnqF,"The word is ""mDtnqF"". There are 0 vowel letters in this word. Therefore, the output is:
+""mDtnqF"" : 0; []",0,0,"0
+[]
+"
+387,CbYdE,"The word is ""CbYdE"". There are 2 vowel letters in the word, which are ""E"" and ""Y"". Therefore, the output should be:
+""CbYdE"" : 2; [E, Y]",2,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+388,QMRgKl,"The word is : QMRgKl
+There are 0 vowel letters in the word.
+Output: ""QMRgKl: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+389,fAGbL,"""fAGbL"" : 1; [A]",1,1,"['A']
+"
+390,JeRfhZhA,"JeRfhZhA : 2; [e, a]",2,2,"Number of vowels: 2
+Vowel letters: ['e', 'A']
+"
+391,AmZgVklOluggdI,"The word is: AmZgVklOluggdI
+There are 3 vowel letters: A, O, I
+Output: ""AmZgVklOluggdI: 3; [A, O, I]""",3,4,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+392,yxDYEDqHTL,"The word is: yxDYEDqHTL
+There are 2 vowel letters: [Y, E]",2,1,"Number of vowels: 1
+Vowel array: ['E']
+"
+393,hhDp,"The word is ""hhDp"". There are 0 vowel letters in this word. Therefore, the output must be:
+""hhDp"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+394,CwUTjm,"The word is: CwUTjm
+There are 0 vowel letters in the word.
+Output: ""CwUTjm: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+395,DQvFcbiI,"The word is: DQvFcbiI
+There are 2 vowel letters: i, I
+Output: ""DQvFcbiI: 2; [i, I]""",2,2,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+396,hhhxhhdDhhhhh,"The word is: hhhxhhdDhhhhh
+There are 0 vowel letters in this word.
+Output: ""hhhxhhdDhhhhh: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+397,WuXAmT,"The word is ""WuXAmT"". There are 2 vowel letters in this word, which are ""u"" and ""A"". Therefore, the output must be:
+""WuXAmT"" : 2; [u, A]",2,2,"Number of vowels: 2
+Vowel array: ['u', 'A']
+"
+398,DSyIZcNn,"The word is DSyIZcNn.
+There are 1 vowel letter in the word.
+DSyIZcNn : 1; [i]",1,1,"Number of vowels: 1
+Vowel letters: ['I']
+"
+399,mbeZhZvVBXQBBJN,"The word is: mbeZhZvVBXQBBJN
+There are 0 vowel letters in the word.
+Output: ""mbeZhZvVBXQBBJN: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+400,giHi,"The word is ""giHi"". There are 2 vowel letters in the word, which are ""i"" and ""i"". Therefore, the output is:
+""giHi"": 2; [i, i]",2,2,"Number of vowels: 2
+Vowel array: ['i', 'i']
+"
+401,kxiXpMnRZBLR,"The word is: kxiXpMnRZBLR
+There are 0 vowel letters in this word.
+Output: ""kxiXpMnRZBLR: 0; []""",0,1,"Number of vowels: 1
+Vowel array: ['i']
+"
+402,iYOxZxYRUnuo,"The word is: iYOxZxYRUnuo
+There are 4 vowel letters: i, O, U, u
+Output: ""iYOxZxYRUnuo: 4; [i, O, U, u]""",4,5,"5
+['i', 'O', 'U', 'u', 'o']
+"
+403,uDSVhNSb,"The word is: uDSVhNSb
+There are 0 vowel letters in the word.
+Output: ""uDSVhNSb: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['u']
+"
+404,saLvfmR,"The word is ""saLvfmR"". There are 1 vowel letter in the word, which is ""a"". Therefore, the output must be:
+""saLvfmR"" : 1; [a]",1,1,"Number of vowels: 1
+Vowel letters: ['a']
+"
+405,akFqUx,"The word is: akFqUx
+There are 2 vowel letters: [a, U]",2,2,"Number of vowels: 2
+Vowel array: ['a', 'U']
+"
+406,YObVHeMDEnwJqZ,"The word is : YObVHeMDEnwJqZ
+There are 2 vowel letters: [o, e]",2,3,"Number of vowels: 3
+Vowel letters: ['O', 'e', 'E']
+"
+407,NArhsylMD,"The word is: NArhsylMD
+There are 1 vowel letter: A
+Output: ""NArhsylMD: 1; [A]""",1,1,"Number of vowels in the word: 1
+Vowel letters in the word: ['A']
+"
+408,wMHVX,"The word is: wMHVX
+There are 0 vowel letters in the word.
+Output: ""wMHVX: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+409,iiiCiiiwiipE,"The word is ""iiiCiiiwiipE"". There are 4 vowel letters in this word: ""i"", ""i"", ""i"", and ""E"". Therefore, the output should be:
+
+""iiiCiiiwiipE"": 4; [i, i, i, E]",4,9,"Number of vowels: 9
+Vowel letters: ['i', 'i', 'i', 'i', 'i', 'i', 'i', 'i', 'E']
+"
+410,KpxFzhlQhowyk,"The word is: KpxFzhlQhowyk
+There are 0 vowel letters in the word.
+Output: KpxFzhlQhowyk: 0; []",0,1,"Number of vowels in the word: 3
+Vowel letters in the word: ['e', 'a', 'e']
+"
+411,LtYXAqz,"The word is : LtYXAqz
+
+There are 0 vowel letters in the word.
+
+Therefore, the output is:
+""LtYXAqz"" : 0; []",0,1,"Number of vowels: 1
+Vowel letters: ['A']
+"
+412,qPzwoTZXc,"The word is: qPzwoTZXc
+There are 0 vowel letters in the word.
+Output: ""qPzwoTZXc: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+413,LTLqmZZLL,"The word is : LTLqmZZLL
+There are 0 vowel letters in the word.
+Output: ""LTLqmZZLL: 0; []""",0,0,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+414,yiiiVCsi,"The word is ""yiiiVCsi"". 
+There are 3 vowel letters: [i, i, i]
+Output: ""yiiiVCsi"" : 3; [i, i, i]",3,4,"Number of vowels: 4
+Vowel letters: ['i', 'i', 'i', 'i']
+"
+415,dQtxT,"The word is: dQtxT
+There are 0 vowel letters in the word.
+Output: ""dQtxT: 0; []""",0,0,"0
+[]
+"
+416,yiATUCIIxQo,"The word is: yiATUCIIxQo
+There are 5 vowel letters: [i, A, U, I, I]",5,6,"Number of vowels: 6
+Vowel letters: ['i', 'A', 'U', 'I', 'I', 'o']
+"
+417,JSnaypIulFmsvy,"The word is: JSnaypIulFmsvy
+There are 3 vowel letters: a, I, u
+Output: ""JSnaypIulFmsvy: 3; [a, I, u]""",3,3,"Number of vowels: 3
+Vowel letters: ['a', 'I', 'u']
+"
+418,jdlTGbE,"The word is : jdlTGbE
+There are 1 vowel letter in the word.
+jdlTGbE : 1; [E]",1,1,"Number of vowels: 1
+Vowel letters: ['E']
+"
+419,YjfAEqzark,"The word is: YjfAEqzark
+There are 3 vowel letters: A, E, a
+Output: ""YjfAEqzark: 3; [A, E, a]""",3,3,"Number of vowels: 3
+Vowel letters: ['A', 'E', 'a']
+"
+420,iiiikMii,"The word is: iiiikMii
+There are 4 vowel letters in the word: i, i, i, i
+The output is: ""iiiikMii: 4; [i, i, i, i]""",4,6,"Number of vowels: 6
+Vowel array: ['i', 'i', 'i', 'i', 'i', 'i']
+"
+421,gnqZB,"The word ""gnqZB"" does not contain any vowel letters. Therefore, the output must be:
+""gnqZB"": 0; []",0,0,"[]
+"
+422,uDYnqNsaKL,"The word is: uDYnqNsaKL
+There are 2 vowel letters: [u, a]",2,2,"Number of vowels: 2
+Vowel letters: ['u', 'a']
+"
+423,GQCSroRcanebAU,"The word is: GQCSroRcanebAU
+There are 4 vowel letters: a, e, a, U
+Output: ""GQCSroRcanebAU: 4; [a, e, a, U]""",4,5,"Number of vowels: 5
+Vowel array: ['o', 'a', 'e', 'A', 'U']
+"
+424,uriYirii,"uriYirii: 4; [u, i, Y, i]",4,5,"5
+['u', 'i', 'i', 'i', 'i']
+"
+425,ijQiiiiiiUiiNi,"The word is: ijQiiiiiiUiiNi
+There are 4 vowel letters: i, i, i, i
+Output: ""ijQiiiiiiUiiNi: 4; [i, i, i, i]""",4,11,"Number of vowels: 11
+Vowel letters: ['i', 'i', 'i', 'i', 'i', 'i', 'i', 'U', 'i', 'i', 'i']
+"
+426,uZcdLOfbPPgJoe,"The word is: uZcdLOfbPPgJoe
+There are 3 vowel letters: [u, O, e]",3,4,"Number of vowels: 4
+Vowel letters: ['u', 'O', 'o', 'e']
+"
+427,NCdTKmRnngv,"The word is: NCdTKmRnngv
+There are 0 vowel letters in the word.
+Output: ""NCdTKmRnngv: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+428,MArvBaWIzpL,"The word is: MArvBaWIzpL
+There are 3 vowel letters: A, a, I
+Output: ""MArvBaWIzpL: 3; [A, a, I]""",3,3,"Number of vowels in the word: 3
+Array of vowel letters: ['e', 'a', 'e']
+"
+429,XjbbtseY,"The word is: XjbbtseY
+There are 1 vowel letter: [e]",1,1,"Number of vowels: 1
+Vowel letters: ['e']
+"
+430,dWaehhe,"The word is ""dWaehhe"". 
+There are 2 vowel letters in the word: ""a"" and ""e"". 
+Therefore, the output is: ""dWaehhe: 2; [a, e]""",2,3,"Number of vowels: 3
+Vowel array: ['a', 'e', 'e']
+"
+431,FMjGYbyvXjni,"The word is: FMjGYbyvXjni
+There are 0 vowel letters in the word.
+Output: FMjGYbyvXjni: 0; []",0,1,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+432,ZuFzr,"The word is : ZuFzr
+There are 0 vowel letters in the word.
+Output: ""ZuFzr: 0; []""",0,1,"['u']
+"
+433,tZQDwdRy,"The word is: tZQDwdRy
+There are 0 vowel letters in the word.
+Output: tZQDwdRy: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+434,hAcERZcRcVGls,"The word is: hAcERZcRcVGls
+There are 2 vowel letters: A, E
+Output: ""hAcERZcRcVGls: 2; [A, E]""",2,2,"2
+['A', 'E']
+"
+435,GRETefnNA,"The word is ""GRETefnNA"". There are 3 vowel letters: E, e, and A.
+Therefore, the output is:
+""GRETefnNA"": 3; [E, e, A]",3,3,"['E', 'e', 'A']
+"
+436,Biiiiiiuiiiniii,"The word is ""Biiiiiiuiiiniii"".
+There are 9 vowel letters in the word: 5 ""i""s and 4 ""i""s.
+The output is: ""Biiiiiiuiiiniii"" : 9; [i, i, i, i, i, u, i, i, i]",9,13,"13
+['i', 'i', 'i', 'i', 'i', 'i', 'u', 'i', 'i', 'i', 'i', 'i', 'i']
+"
+437,EiaqOOX,"The word is ""EiaqOOX"". There are 3 vowel letters in this word: ""E"", ""i"", and ""a"". Therefore, the output should be:
+""EiaqOOX"": 3; [E, i, a]",3,5,"Number of vowels: 5
+Vowel array: ['E', 'i', 'a', 'O', 'O']
+"
+438,iiiiivfi,"The word is ""iiiiivfi"". There are 3 vowel letters: ""i"", ""i"", and ""i"". Therefore, the output is:
+""iiiiivfi"" : 3; [i, i, i]",3,6,"Number of vowels: 6
+Vowel letters: ['i', 'i', 'i', 'i', 'i', 'i']
+"
+439,xYJIDqnFoZzc,"The word is: xYJIDqnFoZzc
+There are 1 vowel letters in the word: [i]",1,2,"Number of vowels: 2
+Vowel letters: ['I', 'o']
+"
+440,iyMiyii,"The word is ""iyMiyii"". There are 4 vowel letters in the word: 3 ""i""s and 1 ""y"". Therefore, the output is:
+""iyMiyii"" : 4; [i, y, i, i]",4,4,"Number of vowels: 4
+Vowel letters: ['i', 'i', 'i', 'i']
+"
+441,laoRK,"The word is ""laoRK"". There are 2 vowel letters in the word, ""a"" and ""o"". Therefore, the output is:
+""laoRK"" : 2; [a, o]",2,2,"Number of vowels: 2
+Vowel letters: ['a', 'o']
+"
+442,tseQrJeExvkI,"The word is: tseQrJeExvkI
+There are 3 vowel letters: e, E, I
+Output: ""tseQrJeExvkI: 3; [e, E, I]""",3,4,"Number of vowels: 4
+Vowel letters: ['e', 'e', 'E', 'I']
+"
+443,hWsXbKsTVumsxpg,"The word is: hWsXbKsTVumsxpg
+There are 0 vowel letters in the word.
+Output: ""hWsXbKsTVumsxpg: 0; []""",0,1,"Number of vowels: 2
+Vowel letters: ['e', 'o']
+"
+444,vKVNRksZCCN,"The word is: vKVNRksZCCN
+There are 0 vowel letters in the word.
+Output: ""vKVNRksZCCN: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+445,BQOHKb,"The word is : BQOHKb
+There are 0 vowel letters in the word.
+Output: ""BQOHKb: 0; []""",0,1,"1
+['O']
+"
+446,kVtYe,"""kVtYe"" : 2; [e]",2,1,"1
+['e']
+"
+447,RCAhSeOADgohwP,"The word is: RCAhSeOADgohwP
+There are 4 vowel letters: A, e, O, A
+Output: RCAhSeOADgohwP: 4; [A, e, O, A]",4,5,"Number of vowels: 5
+Vowel letters: ['A', 'e', 'O', 'A', 'o']
+"
+448,VcLlMqhLv,"The word is: VcLlMqhLv
+There are 0 vowel letters in the word.
+Output: ""VcLlMqhLv: 0; []""",0,0,"[0, 0, 0, 0, 0]
+"
+449,OLyGAaSFmvpRc,"""OLyGAaSFmvpRc"" : 3; [O, y, A, a]",3,3,"[1, 0, 0, 0, 0]
+"
+450,lUlcWbrEXHtpFw,"The word is: lUlcWbrEXHtpFw
+There are 0 vowel letters in this word.
+Output: ""lUlcWbrEXHtpFw: 0; []""",0,2,"2
+['U', 'E']
+"
+451,fiYnWjbRS,"The word is: fiYnWjbRS
+There are 0 vowel letters in the word.
+Output: ""fiYnWjbRS: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['i']
+"
+452,KGTffkEiapX,"The word is: KGTffkEiapX
+There are 4 vowel letters: [i, a, i, X]",4,3,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+453,jjjjjjlJjjrjjjj,"The word is: jjjjjjlJjjrjjjj
+There are 0 vowel letters in the word.
+Output: ""jjjjjjlJjjrjjjj: 0; []""",0,0,"Number of vowels: 0
+Vowel array: []
+"
+454,CqZytNVUyD,"The word is : CqZytNVUyD
+There are 0 vowel letters in the word.
+Output: ""CqZytNVUyD: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['U']
+"
+455,HRDWrHMUUestJV,"The word is : HRDWrHMUUestJV
+There are 0 vowel letters in the word.
+Output: HRDWrHMUUestJV : 0; []",0,3,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+456,opovOgygtdpc,"The word is: opovOgygtdpc
+There are 2 vowel letters: o, o
+Output: ""opovOgygtdpc: 2; [o, o]""",2,3,"Number of vowels: 3
+Vowel array: ['o', 'o', 'O']
+"
+457,uIpSspYlqn,"The word is: uIpSspYlqn
+There are 1 vowel letters in the word.
+uIpSspYlqn: 1; [u]",1,2,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+458,CIGxIklkES,"The word is ""CIGxIklkES"". There are 3 vowel letters in this word: ""I"", ""I"", and ""E"". Therefore, the output should be:
+
+""CIGxIklkES"": 3; [I, I, E]",3,3,"Number of vowels: 3
+Vowel array: ['I', 'I', 'E']
+"
+459,CAuDLLAfEFRv,"CAuDLLAfEFRv: 4; [A, u, A, E]",4,4,"Number of vowels in the word: 4
+Vowel letters in the word: ['A', 'u', 'A', 'E']
+"
+460,Qjjkjj,"There are 0 vowel letters in the word ""Qjjkjj"". Therefore, the output would be:
+""Qjjkjj"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+461,rXlRtNeUkPVPVl,"The word is: rXlRtNeUkPVPVl
+There are 2 vowel letters: e, U
+Output: ""rXlRtNeUkPVPVl: 2; [e, U]""",2,2,"Number of vowels: 2
+Vowel letters: ['e', 'U']
+"
+462,jjjjyjjgjxjjj,"The word is ""jjjjyjjgjxjjj"". There are 0 vowel letters in this word. Therefore, the output is:
+""jjjjyjjgjxjjj"" : 0; []",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+463,LdqyNKaTI,"The word is: LdqyNKaTI
+There are 3 vowel letters: [a, I, I]",3,2,"Number of vowels in the word: 2
+Array of vowel letters in the word: ['a', 'i']
+"
+464,jajdajjjaj,"The word is ""jajdajjjaj"". There are 3 vowel letters in this word, which are ""a"" (appears 3 times). Therefore, the output is:
+""jajdajjjaj"" : 3; [a]",3,3,"Number of vowels in the word: 2
+Array of vowel letters: ['e', 'o']
+"
+465,UUrRLQmN,"The word is: UUrRLQmN
+There are 0 vowel letters in this word.
+Output: UUrRLQmN: 0; []",0,2,"Number of vowels: 2
+Vowel array: ['U', 'U']
+"
+466,yJPasN,"The word is : yJPasN
+There are 2 vowel letters in the word: [a, a]",2,1,"Number of vowels: 1
+Vowel array: ['a']
+"
+467,jjcjOjWjjCjj,"The word is: jjcjOjWjjCjj
+There are 1 vowel letter in the word.
+The output is: jjcjOjWjjCjj: 1; [O]",1,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+468,xPjEvEaR,"The word is: xPjEvEaR
+There are 3 vowel letters: [E, E, a]",3,3,"Number of vowels: 3
+Vowel letters: ['E', 'E', 'a']
+"
+469,jjjjAqjijjDj,"The word is: jjjjAqjijjDj
+There are 2 vowel letters: A, i
+Output: ""jjjjAqjijjDj: 2; [A, i]""",2,2,"Number of vowels: 2
+Vowel letters: ['A', 'i']
+"
+470,uaOVGPD,"The word is : uaOVGPD
+There are 3 vowel letters in the word: u, a, O
+Output: ""uaOVGPD"" : 3; [u, a, O]",3,3,"Number of vowels in the word: 3
+Vowel letters in the word: ['u', 'a', 'O']
+"
+471,RjjRjj,"The word is: RjjRjj
+There are 0 vowel letters in the word.
+Output: ""RjjRjj: 0; []""",0,0,"0
+[]
+"
+472,vTEiv,"The word is ""vTEiv"". There are 2 vowel letters in the word, which are ""E"" and ""i"". Therefore, the output is:
+""vTEiv"" : 2; [E, i]",2,2,"2
+['E', 'i']
+"
+473,PwNIyXkVHis,"The word is: PwNIyXkVHis
+There are 2 vowel letters: I, i
+Output: ""PwNIyXkVHis: 2; [I, i]""",2,2,"Number of vowels: 3
+Vowel letters: ['e', 'a', 'e']
+"
+474,rzLSrsoXTSquMlc,"The word is: rzLSrsoXTSquMlc
+There are 0 vowel letters in the word.
+Output: ""rzLSrsoXTSquMlc: 0; []""",0,2,"Number of vowels: 2
+Vowel letters: ['o', 'u']
+"
+475,zjjjOjjj,"The word is: zjjjOjjj
+There is 1 vowel letter in the word.
+Output: ""zjjjOjjj: 1; [O]""",1,1,"Number of vowels: 1
+Vowel letters: ['O']
+"
+476,nldIxX,"The word is: nldIxX
+There are 1 vowel letter: ""I""
+The output is: ""nldIxX: 1; [I]""",1,1,"Number of vowels: 1
+Vowel letters: ['I']
+"
+477,NGURCFx,"The word is ""NGURCFx"". There are 0 vowel letters in this word. Therefore, the output is:
+""NGURCFx"": 0; []",0,1,"Number of vowels: 1
+Vowel array: ['U']
+"
+478,IpEJpOaD,"""IpEJpOaD"" : 3; [i, E, O]",3,4,"Number of vowels: 4
+Array of vowels: ['I', 'E', 'O', 'a']
+"
+479,gqHVzjJGQJr,"The word is: gqHVzjJGQJr
+There are 0 vowel letters in the word.
+Output: gqHVzjJGQJr: 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+480,jjKjkjjjAPjj,"The word is: jjKjkjjjAPjj
+There are 1 vowel letter: A
+Output: ""jjKjkjjjAPjj: 1; [A]""",1,1,"[0, 0, 0, 0, 0]
+"
+481,jjjhjjjY,"The word is : jjjhjjjY
+There are 0 vowel letters in the word.
+Output: ""jjjhjjjY : 0; []""",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+482,gjjjjjjjrjjj,"The word is : gjjjjjjjrjjj
+0 vowels; []",0,0,"Number of vowels: 3
+Vowel array: ['e', 'a', 'e']
+"
+483,jwdFFFX,"The word is : jwdFFFX
+There are 0 vowel letters in the word.
+Output: ""jwdFFFX: 0; []""",0,0,"0
+[]
+"
+484,zLnRVN,"The word is: zLnRVN
+There are 0 vowel letters in the word.
+Output: zLnRVN: 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+485,MGisayxr,"The word is ""MGisayxr"". There are 2 vowel letters in the word, ""i"" and ""a"". Therefore, the output must be:
+""MGisayxr"": 2; [i, a]",2,2,"Number of vowels: 2
+Vowel array: ['i', 'a']
+"
+486,vJjry,"The word is ""vJjry"". There are 0 vowel letters in this word. Therefore, the output must be:
+""vJjry"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+487,ZPvohDSUhy,"The word is: ZPvohDSUhy
+There are 2 vowel letters: o, U
+Output: ""ZPvohDSUhy: 2; [o, U]""",2,2,"Number of vowels: 2
+Vowel letters: ['o', 'U']
+"
+488,odPjjM,"The word is: odPjjM
+There are 0 vowel letters in the word.
+Output: ""odPjjM: 0; []""",0,1,"Number of vowels: 1
+Vowel letters: ['o']
+"
+489,qIpyccCwmtZR,"The word is: qIpyccCwmtZR
+There are 1 vowel letter: [i]",1,1,"Number of vowels: 1
+Vowel letters: ['i']
+"
+490,PjjI,"The word is ""PjjI"". There is only 1 vowel letter in the word, which is ""I"". Therefore, the output is:
+""PjjI"" : 1; [I]",1,1,"['I']
+"
+491,jxLysmUtR,"The word is: jxLysmUtR
+There are 0 vowel letters in the word.
+The output is: ""jxLysmUtR: 0; []""",0,1,"['U']
+"
+492,aIepKzt,"The word is ""aIepKzt"". There are 3 vowel letters in the word: ""a"", ""I"", and ""e"". Therefore, the output is:
+""aIepKzt"" : 3; [a, I, e]",3,3,"Number of vowels: 3
+Vowel letters: ['a', 'I', 'e']
+"
+493,DRpMsRj,"The word is: DRpMsRj
+There are 0 vowel letters in the word.
+Output: ""DRpMsRj: 0; []""",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+494,IJyCeHusgPxI,"""IJyCeHusgPxI"" : 3; [I, e, u]",3,4,"Number of vowels: 4
+Vowel letters: ['I', 'e', 'u', 'I']
+"
+495,CKDRtx,"There are 0 vowel letters in the word ""CKDRtx"". The output must be:
+""CKDRtx"": 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+496,xkPcdzkNxxDlU,"The word is: xkPcdzkNxxDlU
+There are 0 vowel letters in the word.
+Output: ""xkPcdzkNxxDlU: 0; []""",0,1,"Vowel count: 1
+Vowel letters: ['U']
+"
+497,myLWc,"The word is ""myLWc"". There are 0 vowel letters in this word. Therefore, the output is:
+""myLWc"" : 0; []",0,0,"Number of vowels: 0
+Vowel array: []
+"
+498,jjjqjxjjZjjjJj,"The word is : jjjqjxjjZjjjJj
+There are 0 vowel letters in the word.
+Output: ""jjjqjxjjZjjjJj"" : 0; []",0,0,"Number of vowels: 0
+Vowel letters: []
+"
+499,GEBvolQmspVozw,"The word is: GEBvolQmspVozw
+There are 2 vowel letters: o, o
+Output: ""GEBvolQmspVozw: 2; [o, o]""",2,3,"Number of vowels: 3
+Vowel letters: ['E', 'o', 'o']
+"

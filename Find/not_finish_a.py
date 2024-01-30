@@ -6,13 +6,12 @@ sys.path.append(os.path.dirname(SCRIPT_DIR))
 from gpt.gpt import get_completion
 from prompts import *
 from tasks import *
-from make_python import extract_data
-from extraction import extract_numbers
+from counting.make_python import extract_data
 from gpt_scripts import *
-from view import view
+from counting.view import view
 import json
 
-def vowel_counting(path, tempreture):
+def add_z(path, tempreture):
     with open(path) as f:
         lines = f.read().split('\n')
     i = 0
@@ -23,23 +22,26 @@ def vowel_counting(path, tempreture):
     results3 = []
     counts = []
     is_oks = []
-    while i < 150: 
+    while i < 380: 
         print(i)
-        data = lines[i:i + 1]
-        data = data[0]
-        pr = count_lowercase_prompt + f" the word is : {data}"
+        data = lines[i:i + 3]
+        pr = not_finished_prompt + f" the words are : {data}"
         result1 = get_completion(pr , tempreture)
         print(result1)
-        result2 = count_lower_case_script(data)
+        result2 = not_end_with_specific_letter(data, "a")
         print(result2)
-        result3 = count_vowels_in_word_gpt(data)
+        result3 = "nothing"
         print(result3)
-        result4 = extract_data(pr, tempreture)
+        try:
+            result4 = extract_data(pr, tempreture)
+        except Exception as e:
+            print(e)
+            continue
         print(result4)
         result1 = result1.strip()
 
         try:
-            count_result1 = extract_numbers(extract_numbers(result1.split(";")[0]))
+            count_result1 = "nothing"
             view(result1, result2, result3, result4, count_result1)
         except Exception as e:
             print(e)
@@ -54,7 +56,7 @@ def vowel_counting(path, tempreture):
         counts.append(count_result1)
         print(f"{i} is done")
 
-        i += 1
+        i += 3
         if i == 500 :
             break
     dict = {
@@ -65,6 +67,6 @@ def vowel_counting(path, tempreture):
         "gpt_script": results4
     }
 
-    with open(f'results/{int(tempreture*10)}/count_lower_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
+    with open(f'results/{int(tempreture*10)}/not_finish{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
         json.dump(dict, fp)
-vowel_counting("dataset/word_num1000.txt", 0.3)
+add_z("dataset/word_num1000.txt", 0.3)

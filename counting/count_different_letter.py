@@ -5,6 +5,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 from gpt.gpt import get_completion
 from prompts import *
+from make_python import *
 from tasks import *
 from extraction import extract_numbers
 from gpt_scripts import *
@@ -19,20 +20,22 @@ def letter_counting(path, tempreture):
     results1 = []
     results2 = []
     results3 = []
+    results4 = []
     counts = []
     is_oks = []
-    while i < 470: 
+    while i < 170: 
         print(i)
         data = lines[i:i + 1]
         data = data[0]
         result1 = get_completion(letter_counter_prompt + f" the word is : {data}", tempreture)
         result2 = counting_with_condition(data)
         result3 = count_characters_in_word_gpt(data)
+        result4 = extract_data(letter_counter_prompt + f" the word is : {data}", tempreture)
         result1 = result1.strip()
 
         try:
             count_result1 = extract_numbers(extract_numbers(result1.split(";")[0]))
-            view(result1, result2, result3, count_result1)
+            view(result1, result2, result3,result4, count_result1)
         except Exception as e:
             print(e)
             continue
@@ -42,6 +45,7 @@ def letter_counting(path, tempreture):
         
         results2.append(result2)
         results3.append(result3)
+        results4.append(result4)
         counts.append(count_result1)
 
 
@@ -53,10 +57,10 @@ def letter_counting(path, tempreture):
         "gpt" : results1,
         "counts": counts,
         "script" : results2,
-        "gpt_script": results3
+        "gpt_script": results4
     }
 
-    with open(f'results/{int(tempreture*10)}/count_letters_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
+    with open(f'results/{int(tempreture*10)}/count_lettersa_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
         json.dump(dict, fp)
 
 
@@ -92,15 +96,16 @@ def specific_letter_counting(path, tempreture):
     }
     with open(path) as f:
         lines = f.read().split('\n')
-    for a in string.ascii_lowercase[12:]:
+    for _ in string.ascii_lowercase[:1]:
         
-        tp = count_specific_letter_prompt.replace("[xxx]", a).replace("[XXX]", a.upper()).replace("[yyy]",d[a][0]).replace("[nnn]", str(d[a][1])) 
+        tp = count_specific_letter_prompt.replace("[xxx]", "a").replace("[XXX]", "A").replace("[yyy]","banana").replace("[nnn]", "3")
         print(tp)
         i = 0
         all_data = []
         results1 = []
         results2 = []
         results3 = []
+        results4 = []
         counts = []
         is_oks = []
         while i < 470: 
@@ -108,13 +113,15 @@ def specific_letter_counting(path, tempreture):
             data = lines[i:i + 1]
             data = data[0]
             result1 = get_completion(tp+ f" the word is : {data}", tempreture)
-            result2 = count_specific_letter_script(data, a)
-            result3 = count_specific_letter_in_word_gpt(data, a)
+            result2 = count_specific_letter_script(data, "a")
+            result3 = count_specific_letter_in_word_gpt(data, "a")
             result1 = result1.strip()
-
+            result4 = extract_data(tp+ f" the word is : {data}", tempreture)
+            print(result4)
             try:
                 count_result1 = extract_numbers(extract_numbers(result1.split(";")[0]))
-                view(result1, result2, result3, count_result1)
+                print("ck ", count_result1)
+                view(result1, result2, result3,result4, count_result1)
             except Exception as e:
                 print(e)
                 continue
@@ -124,6 +131,7 @@ def specific_letter_counting(path, tempreture):
             
             results2.append(result2)
             results3.append(result3)
+            results4.append(result4)
             counts.append(count_result1)
 
 
@@ -135,9 +143,9 @@ def specific_letter_counting(path, tempreture):
             "gpt" : results1,
             "counts": counts,
             "script" : results2,
-            "gpt_script": results3
+            "gpt_script": results4
         }
 
         with open(f'results/{int(tempreture*10)}/count_letters_{path.split("/")[-1].split(".")[0]}_{a}{int(tempreture*10)}.json', 'w') as fp:
             json.dump(dict, fp)
-specific_letter_counting("dataset/meaningful.txt", 0.2)
+letter_counting("dataset/word_num1000.txt", 0.3)

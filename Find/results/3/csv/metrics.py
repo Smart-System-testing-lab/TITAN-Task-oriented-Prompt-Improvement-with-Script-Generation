@@ -18,8 +18,10 @@ def acc(yhats, ys):
     ys = list(ys)
     
     for i in range(len(ys)):
-        if ys[i] == yhats[i]:
+        if ys[i].lower() in yhats[i].lower():
             m += 1
+        else:
+            print(yhats[i], ys[i])
     
     return m / len(yhats)
 
@@ -34,7 +36,7 @@ def counting_metrics():
     twosaccmean = []
     twosmsemean = []
 
-    key_word = "count_lettersa"
+    key_word = "most_unique_"
     random_names = []
     mean_names = []
     randoms_dfs = []
@@ -55,8 +57,8 @@ def counting_metrics():
     print(mean_names)
     for df in randoms_dfs:
         pf = pd.read_csv(f"results/3/csv/{df}")
-        twosaccrand.append(acc(pf["counts"], pf["script"]))
-        twosmserand.append(mse(pf["counts"], pf["script"]))
+        twosaccrand.append(acc(pf["gpt"], pf["script"]))
+        # twosmserand.append(mse(pf["counts"], pf["script"]))
 
     print(twosaccrand)
     # for df in mean_dfs:

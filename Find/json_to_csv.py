@@ -12,3 +12,4 @@ for name in  [file for file in os.listdir("results/3") if file.endswith('.json')
     with open(f"results/3/{name}") as fd:
         dict = json.load(fd)
     pd.DataFrame(dict).to_csv(f"results/3/csv/{path}.csv")
+    print(path)

@@ -1,0 +1,1 @@
+print("['MObQwYVn', 'BxekNzSNj']" in "the word is: ['BObQwYVn', 'MxekNzSNj']")

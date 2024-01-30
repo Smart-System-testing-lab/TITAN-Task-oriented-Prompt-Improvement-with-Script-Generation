@@ -27,13 +27,12 @@ def vowel_counting(path, tempreture):
         print(i)
         data = lines[i:i + 1]
         data = data[0]
-        pr = count_lowercase_prompt + f" the word is : {data}"
+        pr = count_words_with_condition_prompt + f" the word is : {data}"
         result1 = get_completion(pr , tempreture)
         print(result1)
-        result2 = count_lower_case_script(data)
+        result2 = counting_words_condition_script(data)
         print(result2)
-        result3 = count_vowels_in_word_gpt(data)
-        print(result3)
+        result3 = 3
         result4 = extract_data(pr, tempreture)
         print(result4)
         result1 = result1.strip()
@@ -65,6 +64,6 @@ def vowel_counting(path, tempreture):
         "gpt_script": results4
     }
 
-    with open(f'results/{int(tempreture*10)}/count_lower_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
+    with open(f'results/{int(tempreture*10)}/count_words_{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}.json', 'w') as fp:
         json.dump(dict, fp)
-vowel_counting("dataset/word_num1000.txt", 0.3)
+vowel_counting("dataset/neg.txt", 0.3)
