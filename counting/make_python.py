@@ -4,16 +4,27 @@ sys.path.append(os.path.dirname(SCRIPT_DIR))
 import subprocess
 from gpt.gpt import get_completion
 import re
-from prompt_code import make_prompt, extraction_prompt
+from prompt_code import *
 import os
 import re
+
+def process_generation_to_code(gens: str):
+    if '```python' in gens:
+        gens = gens.split('```python')[1].split('```')[0]
+    elif '```' in gens:
+        gens = gens.split('```')[1].split('```')[0]
+
+    return gens
 def extract_data(prompt, output, tem):
-    p = extraction_prompt + "\n" + f"{prompt}"
-    data = get_completion(prompt=p, tem=tem)
+    p = make_step_back_prompt(prompt)
+    print("step back is done ")
+    step_back = get_completion(prompt=p, tem=tem)
  
-    print("####")
-    code = get_completion(prompt=make_prompt(data, output), tem=tem)
-    print(code)
+    p = make_cot_prompt(p, step_back)
+    print("CoT is done ")
+    code = get_completion(prompt=make_code_prompt(p, output), tem=tem)
+    print("Code generation is done ")
+    code = process_generation_to_code(code)
     with open("1.py", "w") as f:
         f.writelines(code)
 

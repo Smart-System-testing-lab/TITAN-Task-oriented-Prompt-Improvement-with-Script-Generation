@@ -1,0 +1,1001 @@
+,labels,gpt_script
+0,39,"target: 39
+"
+1,8,"target: 8
+"
+2,2,"target: 2
+"
+3,40,"target: 40
+"
+4,3,"The number of extra flowers Lana picked is: 3
+"
+5,7,"target: 7
+"
+6,19,"target: 19
+"
+7,2,"Megan still has 2 pictures from her vacation.
+"
+8,11,"target: 11
+"
+9,1,"target: 1
+"
+10,66,"target: 66
+"
+11,9,"target: 9
+"
+12,22,"target: 22
+"
+13,2,"target: 2
+"
+14,15,"target: 15
+"
+15,2,"target: 2
+"
+16,14,"target: 14
+"
+17,86,"target: 86
+"
+18,50,"Tickets left: 50
+"
+19,25,"target: 25
+"
+20,4,"target: 4
+"
+21,68,"target: 68
+"
+22,6,"target: 6
+"
+23,19,"target: 19
+"
+24,55,"target: 55
+"
+25,34,"target: 34
+"
+26,12,"target: 12
+"
+27,16,"target: 16
+"
+28,73,"target: 71
+"
+29,17,"target: 17
+"
+30,18,"target: 18
+"
+31,41,"target: 41
+"
+32,7,"target: 7
+"
+33,36,"target: 36
+"
+34,63,"target: 63
+"
+35,13,"target: 13
+"
+36,56,"target: 56
+"
+37,15,"target: 15
+"
+38,5,"target: 5
+"
+39,24,"target: 24
+"
+40,15,"target: 15
+"
+41,14,"target: 14
+"
+42,1,"Oliver has 1 dollars now.
+"
+43,1,"Total points at the end of the game: 1
+"
+44,11,"target: 11
+"
+45,35,"target: 35
+"
+46,16,"target: 16
+"
+47,4,"target: 4
+"
+48,7,"target: 7
+"
+49,54,"Remaining cats: 54
+"
+50,15,"target: 15
+"
+51,14,"target: 14
+"
+52,1,"Oliver has 1 dollars now.
+"
+53,1,"Total points at the end of the game: 1
+"
+54,11,"target: 11
+"
+55,35,"target: 35
+"
+56,16,"target: 16
+"
+57,4,"target: 4
+"
+58,7,"target: 7
+"
+59,54,"target: 54
+"
+60,4,"target: 4
+"
+61,33,"target: 33
+"
+62,23,"target: 23
+"
+63,9,"target: 9
+"
+64,24,"target: 24
+"
+65,28,"target: 28
+"
+66,15,"target: 15
+"
+67,8,"target: 8
+"
+68,47,"target: 47
+"
+69,51,"target: 51
+"
+70,53,"target: 53
+"
+71,20,"target: 20
+"
+72,31,"target: 31
+"
+73,22,"target: 22
+"
+74,39,"target: 39
+"
+75,14,"target: 14
+"
+76,15,"target: 15
+"
+77,30,"target: 30
+"
+78,34,"target: 34
+"
+79,50,"target: 50
+"
+80,16,"target: 16
+"
+81,7,"target: 7
+"
+82,19,"target: 19
+"
+83,5,"target: 5
+"
+84,7,"target: 7
+"
+85,45,"target: 45
+"
+86,21,"target: 21
+"
+87,58,"target: 58
+"
+88,19,"target: 19
+"
+89,2,"target: 2
+"
+90,8,"target: 8
+"
+91,26,"target: 26
+"
+92,59,"target: 59
+"
+93,9,"target: 9
+"
+94,23,"target: 23
+"
+95,3,"target: 3
+"
+96,40,"target: 40
+"
+97,32,"target: 32
+"
+98,34,"Jerry has 34 tickets left.
+"
+99,35,"target: 35
+"
+100,49,"target: 49
+"
+101,62,"target: 62
+"
+102,24,"target: 24
+"
+103,48,"target: 48
+"
+104,61,"target: 61
+"
+105,40,"target: 40
+"
+106,20,"target: 22
+"
+107,10,"target: 10
+"
+108,41,"target: 41
+"
+109,6,"target: 6
+"
+110,51,"target: 48
+"
+111,33,"target: 33
+"
+112,52,"target: 52
+"
+113,27,"target: 27
+"
+114,26,"target: 26
+"
+115,29,"target: 29
+"
+116,26,"target: 26
+"
+117,8,"target: 8
+"
+118,56,"target: 56
+"
+119,17,"target: 17
+"
+120,50,"target: 50
+"
+121,25,"target: 25
+"
+122,79,"target: 79
+"
+123,10,"target: 10
+"
+124,49,"target: 49
+"
+125,52,"target: 52
+"
+126,74,"target: 74
+"
+127,11,"target: 11
+"
+128,30,"Cody would have 30 tickets.
+"
+129,25,"target: 25
+"
+130,59,"target: 59
+"
+131,57,"target: 57
+"
+132,49,"target: 49
+"
+133,60,"target: 60
+"
+134,45,"target: 45
+"
+135,10,"target: 10
+"
+136,46,"target: 46
+"
+137,60,"target: 60
+"
+138,37,"target: 37
+"
+139,32,"target: 32
+"
+140,13,"target: 13
+"
+141,35,"target: 35
+"
+142,50,"target: 50
+"
+143,38,"target: 38
+"
+144,33,"target: 33
+"
+145,35,"target: 35
+"
+146,40,"target: 40
+"
+147,10,"target: 10
+"
+148,58,"target: 58
+"
+149,45,"Total number of carrots Chloe would have: 45
+"
+150,43,"target: 43
+"
+151,51,"target: 51
+"
+152,63,"target: 63
+"
+153,11,"target: 11
+"
+154,19,"target: 19
+"
+155,18,"target: 18
+"
+156,32,"target: 32
+"
+157,9,"target: 9
+"
+158,54,"target: 54
+"
+159,61,"target: 61
+"
+160,71,"target: 71
+"
+161,38,"target: 38
+"
+162,70,"target: 70
+"
+163,31,"target: 31
+"
+164,64,"target: 64
+"
+165,39,"target: 39
+"
+166,27,"target: 27
+"
+167,24,"target: 24
+"
+168,34,"target: 34
+"
+169,11,"target: 11
+"
+170,60,"target: 60
+"
+171,47,"target: 47
+"
+172,28,"target: 28
+"
+173,31,"target: 31
+"
+174,67,"target: 67
+"
+175,37,"target: 37
+"
+176,59,"target: 59
+"
+177,41,"target: 41
+"
+178,22,"target: 22
+"
+179,46,"target: 46
+"
+180,58,"target: 58
+"
+181,41,"target: 41
+"
+182,58,"target: 58
+"
+183,23,"target: 23
+"
+184,31,"target: 31
+"
+185,56,"target: 56
+"
+186,23,"target: 23
+"
+187,16,"target: 16
+"
+188,28,"target: 28
+"
+189,47,"target: 47
+"
+190,33,"target: 33
+"
+191,36,"target: 36
+"
+192,9,"target: 9
+"
+193,43,"target: 43
+"
+194,26,"target: 26
+"
+195,34,"target: 34
+"
+196,36,"target: 36
+"
+197,41,"target: 41
+"
+198,29,"target: 29
+"
+199,11,"target: 11
+"
+200,50,"target: 50
+"
+201,32,"target: 32
+"
+202,90,"target: 90
+"
+203,12,"Total cost: 12
+"
+204,30,"target: 30
+"
+205,35,"target: 35
+"
+206,63,"target: 63
+"
+207,90,"target: 90
+"
+208,48,"target: 48
+"
+209,72,"target: 72
+"
+210,49,"target: 49
+"
+211,36,"target: 36
+"
+212,80,"target: 80
+"
+213,21,"target: 21
+"
+214,72,"target: 72
+"
+215,50,"target: 50
+"
+216,32,"Total amount spent: 32
+"
+217,30,"target: 30
+"
+218,64,"target: 64
+"
+219,90,"target: 90
+"
+220,56,"target: 56
+"
+221,72,"target: 72
+"
+222,24,"target: 24
+"
+223,48,"target: 48
+"
+224,30,"Total amount Zoe spent: 30
+"
+225,60,"target: 60
+"
+226,42,"target: 42
+"
+227,45,"target: 45
+"
+228,15,"target: 15
+"
+229,72,"target: 72
+"
+230,64,"target: 64
+"
+231,70,"target: 70
+"
+232,60,"target: 60
+"
+233,54,"target: 54
+"
+234,32,"target: 32
+"
+235,32,"target: 32
+"
+236,48,"target: 48
+"
+237,70,"target: 70
+"
+238,63,"target: 63
+"
+239,56,"target: 56
+"
+240,21,"target: 21
+"
+241,48,"target: 48
+"
+242,24,"target: 24
+"
+243,32,"target: 32
+"
+244,63,"target: 63
+"
+245,54,"target: 54
+"
+246,72,"target: 72
+"
+247,18,"target: 18
+"
+248,30,"target: 30
+"
+249,27,"target: 27
+"
+250,80,"target: 80
+"
+251,12,"target: 12
+"
+252,28,"target: 28
+"
+253,72,"target: 72
+"
+254,60,"Total cost: 60
+"
+255,56,"target: 56
+"
+256,32,"target: 32
+"
+257,72,"target: 72
+"
+258,90,"target: 90
+"
+259,63,"target: 63
+"
+260,60,"target: 60
+"
+261,72,"target: 72
+"
+262,42,"target: 42
+"
+263,32,"target: 32
+"
+264,63,"target: 63
+"
+265,48,"target: 48
+"
+266,24,"target: 24
+"
+267,70,"target: 70
+"
+268,36,"target: 36
+"
+269,40,"target: 40
+"
+270,48,"target: 48
+"
+271,80,"target: 80
+"
+272,40,"target: 40
+"
+273,80,"target: 80
+"
+274,40,"target: 40
+"
+275,40,"target: 40
+"
+276,72,"target: 72
+"
+277,20,"target: 20
+"
+278,81,"target: 81
+"
+279,64,"target: 64
+"
+280,21,"target: 21
+"
+281,35,"target: 35
+"
+282,40,"target: 40
+"
+283,60,"target: 60
+"
+284,63,"target: 63
+"
+285,60,"target: 60
+"
+286,48,"target: 48
+"
+287,48,"target: 48
+"
+288,30,"target: 30
+"
+289,30,"target: 30
+"
+290,30,"target: 30
+"
+291,32,"target: 32
+"
+292,30,"target: 30
+"
+293,40,"target: 40
+"
+294,40,"target: 40
+"
+295,54,"target: 54
+"
+296,48,"target: 48
+"
+297,72,"target: 72
+"
+298,27,"target: 27
+"
+299,72,"target: 72
+"
+300,8,"target: 8
+"
+301,8,"target: 8
+"
+302,6,"target: 6
+"
+303,6,"target: 6
+"
+304,9,"target: 8.0
+"
+305,9,"target: 9
+"
+306,7,"target: 7
+"
+307,4,"Total points earned: 4
+"
+308,4,"target: 4.0
+"
+309,6,"target: 6
+"
+310,8,"target: 8
+"
+311,4,"target: 4
+"
+312,9,"target: 9
+"
+313,7,"target: 7
+"
+314,3,"target: 3
+"
+315,2,"target: 2
+"
+316,8,"target: 8.0
+"
+317,9,"target: 9
+"
+318,2,"target: 2
+"
+319,2,"target: 2
+"
+320,7,"target: 7
+"
+321,8,"target: 7.0
+"
+322,6,"target: 6
+"
+323,4,"target: 4
+"
+324,2,"target: 2
+"
+325,7,"target: 7
+"
+326,2,"target: 2
+"
+327,5,"target: 5
+"
+328,3,"target: 3
+"
+329,8,"target: 9
+"
+330,8,"target: 8
+"
+331,8,"target: 8
+"
+332,3,"target: 3
+"
+333,9,"target: 9.0
+"
+334,9,"target: 9
+"
+335,4,"target: 4
+"
+336,2,"target: 2
+"
+337,9,"target: 9
+"
+338,2,"target: 2
+"
+339,6,"target: 6
+"
+340,4,"target: 4
+"
+341,3,"target: 3
+"
+342,5,"target: 5
+"
+343,4,"target: 4
+"
+344,2,"target: 3
+"
+345,5,"target: 5
+"
+346,9,"target: 9.0
+"
+347,9,"target: 9
+"
+348,7,"target: 7
+"
+349,5,"target: 5
+"
+350,4,"target: 4
+"
+351,3,"target: 3
+"
+352,5,"target: 5
+"
+353,4,"target: 4
+"
+354,2,"target: 2
+"
+355,5,"target: 5
+"
+356,9,"target: 9.0
+"
+357,9,"target: 9
+"
+358,7,"target: 7
+"
+359,5,"target: 5
+"
+360,9,"target: 9
+"
+361,5,"target: 5.0
+"
+362,5,"target: 5
+"
+363,9,"target: 9
+"
+364,5,"target: 5
+"
+365,4,"target: 4
+"
+366,2,"target: 2
+"
+367,8,"target: 8
+"
+368,5,"target: 5
+"
+369,5,"target: 5
+"
+370,8,"target: 8
+"
+371,3,"target: 3
+"
+372,2,"target: 2
+"
+373,2,"target: 2
+"
+374,6,"target: 6.0
+"
+375,6,"target: 6
+"
+376,9,"target: 9
+"
+377,2,"target: 2
+"
+378,5,"target: 5
+"
+379,6,"target: 6
+"
+380,3,"target: 3
+"
+381,2,"target: 2
+"
+382,9,"target: 9
+"
+383,5,"target: 5
+"
+384,9,"target: 9
+"
+385,4,"Total points earned: 4.0
+"
+386,9,"target: 9
+"
+387,3,"target: 3
+"
+388,8,"target: 8
+"
+389,6,"target: 6
+"
+390,3,"target: 3
+"
+391,6,"target: 6.0
+"
+392,9,"target: 9
+"
+393,8,"target: 8
+"
+394,4,"target: 4
+"
+395,3,"target: 3
+"
+396,9,"target: 9
+"
+397,6,"target: 6
+"
+398,2,"target: 2
+"
+399,9,"target: 9.0
+"
+400,36,"target: 36
+"
+401,45,"target: 45
+"
+402,42,"Ned still has: 42 pieces
+"
+403,30,"target: 30
+"
+404,25,"target: 25
+"
+405,18,"target: 18
+"
+406,16,"target: 16
+"
+407,12,"target: 12
+"
+408,45,"target: 45
+"
+409,9,"target: 9
+"
+410,54,"target: 54
+"
+411,15,"target: 15
+"
+412,72,"target: 72
+"
+413,72,"target: 72
+"
+414,72,"target: 72
+"
+415,20,"target: 20
+"
+416,36,"target: 36
+"
+417,64,"target: 64
+"
+418,56,"target: 56
+"
+419,49,"target: 49
+"
+420,15,"target: 15
+"
+421,27,"target: 27
+"
+422,63,"target: 63
+"
+423,42,"Total money made: 42
+"
+424,16,"target: 16
+"
+425,24,"target: 24
+"
+426,10,"target: 10
+"
+427,54,"target: 54
+"
+428,4,"target: 4
+"
+429,36,"target: 36
+"
+430,18,"target: 18
+"
+431,81,"target: 81
+"
+432,21,"Dave still has: 21 pieces of chocolate candy
+"
+433,10,"target: 10
+"
+434,32,"target: 32
+"
+435,20,"target: 20
+"
+436,15,"target: 15
+"
+437,16,"target: 16
+"
+438,40,"target: 40
+"
+439,45,"target: 45
+"
+440,6,"target: 6
+"
+441,45,"target: 45
+"
+442,18,"target: 18
+"
+443,24,"target: 24
+"
+444,36,"target: 36
+"
+445,28,"target: 28
+"
+446,20,"target: 20
+"
+447,12,"target: 12
+"
+448,35,"target: 35
+"
+449,32,"target: 32
+"
+450,48,"target: 48
+"
+451,45,"target: 45
+"
+452,72,"target: 72
+"
+453,30,"target: 30
+"
+454,64,"target: 64
+"
+455,24,"target: 24
+"
+456,40,"Total points earned: 40
+"
+457,63,"target: 63
+"
+458,32,"target: 32
+"
+459,32,"target: 32
+"
+460,14,"target: 7
+"
+461,36,"target: 36
+"
+462,35,"target: 35
+"
+463,42,"Remaining cups of flour needed: 42
+"
+464,20,"target: 20
+"
+465,16,"target: 16
+"
+466,16,"target: 16
+"
+467,24,"target: 24
+"
+468,63,"target: 63
+"
+469,35,"target: 35
+"
+470,48,"target: 48
+"
+471,45,"target: 45
+"
+472,18,"target: 18
+"
+473,10,"target: 10
+"
+474,24,"target: 24
+"
+475,27,"target: 36
+"
+476,27,"target: 27
+"
+477,18,"Tom still has: 18 pieces
+"
+478,12,"target: 12
+"
+479,32,"target: 32
+"
+480,56,"target: 56
+"
+481,30,"Tom still has 30 pieces of chocolate candy.
+"
+482,30,"target: 30
+"
+483,72,"target: 88
+"
+484,27,"target: 27
+"
+485,72,"target: 72
+"
+486,21,"target: 21
+"
+487,56,"Earnings: 56
+"
+488,30,"target: 30
+"
+489,6,"target: 6
+"
+490,63,"target: 63
+"
+491,63,"target: 63
+"
+492,12,"target: 12
+"
+493,30,"target: 30
+"
+494,36,"target: 36
+"
+495,14,"target: 14
+"
+496,54,"target: 54
+"
+497,15,"target: 15
+"
+498,6,"target: 6
+"
+499,72,"target: 72
+"
