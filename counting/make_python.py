@@ -5,6 +5,7 @@ import subprocess
 from gpt.gpt import get_completion
 import re
 from prompt_code import *
+from messages import *
 import os
 import re
 
@@ -18,25 +19,29 @@ def process_generation_to_code(gens: str):
 def extract_data(prompt, output, tem):
     p = make_step_back_prompt(prompt)
     print("step back is done ")
-    step_back = get_completion(prompt=p, tem=tem)
+    step_back = get_completion(prompt=p, tem=tem, m=step_back_message)
  
     p = make_cot_prompt(p, step_back)
+    p = get_completion(p, tem, cot_message)
     print("CoT is done ")
-    code = get_completion(prompt=make_code_prompt(p, output), tem=tem)
+    code = get_completion(prompt=make_code_prompt(p, output), tem=tem, m=code_message)
     print("Code generation is done ")
     code = process_generation_to_code(code)
-    with open("1.py", "w") as f:
+    code += '\n'
+    with open("2.py", "w") as f:
         f.writelines(code)
+
+    print("code is here")
 
     try:
         # Run the command and capture the output
-        output = subprocess.check_output("python3 1.py", shell=True, encoding='utf-8')
-        
+        output = subprocess.check_output("python3 2.py", shell=True, encoding='utf-8')
+        print(output)
         # Print the captured output
         return output
 
     except subprocess.CalledProcessError as e:
         # Handle the case when the command returns a non-zero exit code
         print(f"Error: {e}")
-    return subprocess.check_output(f"python3 1.py", shell=True, encoding="utf-8")
+    return subprocess.check_output(f"python3 2.py", shell=True, encoding="utf-8")
 

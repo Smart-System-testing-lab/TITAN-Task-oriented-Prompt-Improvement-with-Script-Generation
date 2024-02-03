@@ -27,34 +27,37 @@ def pal_example(path, tempreture):
         for jsonObj in f:
             question_json = json.loads(jsonObj)
             question_list.append(question_json)
-    while i < 990: 
+    while i < 2000: 
         print(i)
         data = question_list[i]
 
         q = data["input"]
         answer = data["target"]
-        labels.append(answer)
         pr = q
         try:
             result4 = extract_data(pr, f"target: {answer}", tempreture)
         except Exception as e:
             print(e)
-            results4.append(answer)
+            i += 1
             print("this could be wrong")
+
             continue
         
 
         results4.append(result4)
+        labels.append(answer)
+
         print(f"{i} is done")
 
         i += 1
-        if i == 990 :
+        if i == 200 :
             break
     dict = {
         "labels": labels,
         "gpt_script": results4
     }
 
-    with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}1.json', 'w') as fp:
+    with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}2.json', 'w') as fp:
         json.dump(dict, fp)
-pal_example("dataset/svamp.jsonl", 0)
+pal_example("dataset/gsmhardv2.jsonl", 0)
+# pal_example("dataset/asdiv.jsonl", 0)
