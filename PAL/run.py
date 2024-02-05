@@ -50,7 +50,7 @@ def pal_example(path, tempreture):
         print(f"{i} is done")
 
         i += 1
-        if i == 200 :
+        if i == 500 :
             break
     dict = {
         "labels": labels,
@@ -59,5 +59,5 @@ def pal_example(path, tempreture):
 
     with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}2.json', 'w') as fp:
         json.dump(dict, fp)
-pal_example("dataset/gsmhardv2.jsonl", 0)
+pal_example("dataset/gsm.jsonl", 0)
 # pal_example("dataset/asdiv.jsonl", 0)

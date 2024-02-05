@@ -20,7 +20,7 @@ def make_step_back_prompt(p):
     '''
 
 
-def make_cot_prompt(p, step_back):
+def make_cot_prompt(p):
 
     return f'''
     client ask you {p}. 

@@ -17,11 +17,9 @@ def process_generation_to_code(gens: str):
 
     return gens
 def extract_data(prompt, output, tem):
-    p = make_step_back_prompt(prompt)
-    print("step back is done ")
-    step_back = get_completion(prompt=p, tem=tem, m=step_back_message)
+   
  
-    p = make_cot_prompt(p, step_back)
+    p = make_cot_prompt(prompt)
     p = get_completion(p, tem, cot_message)
     print("CoT is done ")
     code = get_completion(prompt=make_code_prompt(p, output), tem=tem, m=code_message)
