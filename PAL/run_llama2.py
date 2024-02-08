@@ -3,7 +3,7 @@ import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
-from gpt.gpt import get_completion
+from gpt.llama2 import extract_data_llama
 from prompts import *
 from make_python_beta import extract_data
 from counting.view import view
@@ -27,7 +27,7 @@ def pal_example(path, tempreture):
         for jsonObj in f:
             question_json = json.loads(jsonObj)
             question_list.append(question_json)
-    while i < 2000: 
+    while i < 100: 
         print(i)
         data = question_list[i]
 
@@ -35,7 +35,7 @@ def pal_example(path, tempreture):
         answer = data["target"]
         pr = q
         try:
-            result4 = extract_data(pr, f"target: {answer}", tempreture, i)
+            result4, code, back = extract_data_llama(pr, answer)
         except Exception as e:
             print(e)
             i += 1
@@ -43,21 +43,26 @@ def pal_example(path, tempreture):
 
             continue
         
-
-        results4.append(result4)
-        labels.append(answer)
+        dict = {
+            "label" : answer, 
+            "target": result4,
+            "code" : code, 
+            "back": back
+        }
+        with open(f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w+') as fp:
+            json.dump(dict)
 
         print(f"{i} is done")
 
         i += 1
         if i == 100 :
             break
-    dict = {
-        "labels": labels,
-        "gpt_script": results4
-    }
+    # dict = {
+    #     "labels": labels,
+    #     "gpt_script": results4
+    # }
 
-    with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w') as fp:
-        json.dump(dict, fp)
+    # with open(f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w') as fp:
+    #     json.dump(dict, fp)
 # pal_example("dataset/gsmhardv2.jsonl", 0)
 pal_example("dataset/asdiv.jsonl", 0)

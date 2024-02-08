@@ -1,19 +1,17 @@
 
 def solution():
-    # Number of houses
-    houses = 8107792
-    # Bedrooms per house
-    bedrooms_per_house = 3
-    # Windows per bedroom
-    windows_per_bedroom = 8107792
-    # Additional windows per house
-    additional_windows = 4
+    # Ask the client how many balls Marin has
+    n = int(input("Enter the number of balls Marin has: "))
 
-    # Total windows calculation
-    total_windows = (houses * bedrooms_per_house * windows_per_bedroom) + (houses * additional_windows)
+    # Ask the client how many more balls Ellen has than Marin
+    extra_balls = int(input("Enter the number of extra balls Ellen has: "))
 
-    # Print the result
-    print(f"target: {total_windows:.1f}")
+    # Calculate the number of balls Ellen has
+    ellen_balls = n + extra_balls
 
+    # Provide the client with the calculated number of balls Ellen has
+    print(f"Ellen has {ellen_balls} balls.")
+
+# Run the function
 solution()
 
