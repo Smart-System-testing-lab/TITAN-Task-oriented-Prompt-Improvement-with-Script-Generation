@@ -1,28 +1,28 @@
 def solution():
-    boys = 11
-    girls = 45
-    group_size = 7
-
-    total_members = boys + girls
-    groups = total_members // group_size
-
-    print(f"target: {groups}")
+    total_puppies = 9 + 12  # Calculate total number of puppies available for adoption
+    adoption_rate = 3  # Number of puppies adopted per day
+    days_to_adopt = (
+        total_puppies // adoption_rate
+    )  # Calculate number of days to adopt all puppies
+    print(f"Target: {days_to_adopt}")  # Print the result
 
 
 """
-                Sure, here's a possible implementation of the `solution()` function in Python:
+                Sure, here's a Python function that solves the problem:
+
 ```python
 def solution():
-    boys = 11
-    girls = 45
-    group_size = 7
-
-    total_members = boys + girls
-    groups = total_members // group_size
-
-    print(f"target: {groups}")
+    total_puppies = 9 + 12  # Calculate total number of puppies available for adoption
+    adoption_rate = 3  # Number of puppies adopted per day
+    days_to_adopt = total_puppies // adoption_rate  # Calculate number of days to adopt all puppies
+    print(f"Target: {days_to_adopt}")  # Print the result
 ```
-This function takes no input, as the values for `boys`, `girls`, and `group_size` are hardcoded. It first calculates the total number of members in the debate team by adding the number of boys and girls. Then, it divides the total number of members by the group size to find the number of groups that can be formed. Finally, it prints the result using the format string `"target: {groups}"`, where `{groups}` is the number of groups that can be formed.
 
-When you run this function, it should print `target: 8`, which is the answer to the question.
+Explanation:
+
+1. First, we calculate the total number of puppies available for adoption by adding the number of puppies initially in the shelter (9) to the number of additional puppies brought in (12). This gives us a total of 21 puppies.
+2. Next, we calculate the number of days it would take to adopt all the puppies by dividing the total number of puppies available for adoption by the number of puppies adopted per day. In this case, we have 21 / 3 = 7.
+3. Finally, we print the result in the format requested by the client: "Target: X", where X is the number of days it would take to adopt all the puppies.
+
+Note: The // operator is used for integer division, which is what we want in this case since we're dealing with whole numbers. If you prefer to use decimal division, you can replace // with /.
 """

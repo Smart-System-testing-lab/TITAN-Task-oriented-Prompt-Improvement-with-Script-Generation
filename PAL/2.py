@@ -1,28 +1,31 @@
 def solution():
-    treetown_donation = 570.00
-    forest_reserve_donation = 140.00
-    animal_preservation_park_donation = forest_reserve_donation - 140.00
-    total_donation = (
-        treetown_donation + forest_reserve_donation + animal_preservation_park_donation
-    )
-    print(f"Total amount donated to all three parks: ${total_donation}")
+    oranges_per_glass = 2
+    glasses_made = 6
+    total_oranges = oranges_per_glass * glasses_made
+    print(f"target: {total_oranges}")
 
 
 """
-                Sure, here's a Python function that solves the problem:
+                Sure, here's a possible implementation of the `solution()` function in Python:
 ```python
 def solution():
-    treetown_donation = 570.00
-    forest_reserve_donation = 140.00
-    animal_preservation_park_donation = forest_reserve_donation - 140.00
-    total_donation = treetown_donation + forest_reserve_donation + animal_preservation_park_donation
-    print(f"Total amount donated to all three parks: ${total_donation}")
+    oranges_per_glass = 2
+    glasses_made = 6
+    total_oranges = oranges_per_glass * glasses_made
+    print(f"target: {total_oranges}")
 ```
-Explanation:
+This function takes no input, as the values for `oranges_per_glass` and `glasses_made` are already provided in the question. It simply calculates the total number of oranges used based on those values and prints the result in the format requested.
 
-1. First, we define the three variables for the donations to Treetown National Park, the Forest Reserve, and Animal Preservation Park, respectively.
-2. We calculate the total donation by adding the three variables.
-3. Finally, we print the total donation using the `print()` function.
+Here's a breakdown of the code:
 
-Note: The `f` string notation is used to include the calculated total donation in the string.
+1. `oranges_per_glass = 2`: This line sets a variable `oranges_per_glass` to the value of 2, which is the number of oranges used per glass of juice.
+2. `glasses_made = 6`: This line sets a variable `glasses_made` to the value of 6, which is the number of glasses of juice made by the client.
+3. `total_oranges = oranges_per_glass * glasses_made`: This line calculates the total number of oranges used by multiplying the number of oranges per glass by the number of glasses made.
+4. `print(f"target: {total_oranges}"): This line prints the result in the format requested, which is "target: [total number of oranges]"
+
+When you run this function, it should output:
+```
+target: 12
+```
+Which is the total number of oranges used to make 6 glasses of fresh orange juice.
 """

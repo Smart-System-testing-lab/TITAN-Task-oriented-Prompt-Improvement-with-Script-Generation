@@ -16,11 +16,18 @@ def process_generation_to_code(gens: str):
         gens = gens.split('```')[1].split('```')[0]
 
     return gens
+<<<<<<< HEAD
 def extract_data(prompt, output, tem, i):
    
     print("hiI")
     p = make_cot_prompt(prompt)
     print(p)
+=======
+def extract_data(prompt, output, tem):
+   
+ 
+    p = make_cot_prompt(prompt)
+>>>>>>> 40e734ffeea394c7e5b4695f5f9c60e835ca1d8c
     p = get_completion(p, tem, cot_message)
     print("CoT is done ")
     code = get_completion(prompt=make_code_prompt(p, output), tem=tem, m=code_message)

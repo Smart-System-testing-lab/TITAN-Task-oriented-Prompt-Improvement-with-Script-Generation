@@ -1,27 +1,21 @@
 def solution():
-    initial_water = 3
-    water_added = 6.8
-    total_water = initial_water + water_added
-    print(f"target: {total_water}")
+    total_pages = 10.2 + 8.6
+    print(f"Target: {total_pages}")
 
 
 """
                 Sure, here's a possible implementation of the `solution()` function in Python:
 ```python
 def solution():
-    initial_water = 3
-    water_added = 6.8
-    total_water = initial_water + water_added
-    print(f"target: {total_water}")
+    total_pages = 10.2 + 8.6
+    print(f"Target: {total_pages}")
 ```
-This function takes no input, as the values for the initial water in the bucket and the water added by Derek are hardcoded. It simply calculates the total amount of water in the bucket after Derek adds water and prints the result in the format requested.
+This function simply adds the two given numbers and stores the result in the `total_pages` variable. Then, it prints the result in the format specified in the question, using the `f` string notation to include the value of `total_pages` in the output.
 
 Here's a breakdown of the code:
 
-1. `initial_water = 3`: This line sets the initial amount of water in the bucket to 3 gallons.
-2. `water_added = 6.8`: This line sets the amount of water added by Derek to 6.8 gallons.
-3. `total_water = initial_water + water_added`: This line calculates the total amount of water in the bucket after Derek adds water by adding the initial amount of water to the amount of water added.
-4. `print(f"target: {total_water}"): This line prints the result in the format requested, which is "target: X.X", where X.X is the total amount of water in the bucket after Derek adds water.
+* `total_pages = 10.2 + 8.6`: This line adds the two given numbers and assigns the result to the `total_pages` variable.
+* `print(f"Target: {total_pages}"): This line prints the string "Target: " followed by the value of `total_pages`. The `f` string notation allows us to include the value of `total_pages` in the string.
 
-I hope this helps! Let me know if you have any questions.
+Note that this code assumes that the input values are floating-point numbers. If the inputs are integers, you can use `int` instead of `float` to convert the values to integers before adding them.
 """
