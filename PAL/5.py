@@ -1,26 +1,27 @@
 def solution():
-    green_peppers = 2.8333333333333335
-    red_peppers = 2.8333333333333335
-    total_peppers = green_peppers + red_peppers
-    print(f"target: {total_peppers}")
+    initial_water = 3
+    water_added = 6.8
+    total_water = initial_water + water_added
+    print(f"target: {total_water}")
 
 
 """
-                Sure, here's a Python function that solves the problem:
-
+                Sure, here's a possible implementation of the `solution()` function in Python:
 ```python
 def solution():
-    green_peppers = 2.8333333333333335
-    red_peppers = 2.8333333333333335
-    total_peppers = green_peppers + red_peppers
-    print(f"target: {total_peppers}")
+    initial_water = 3
+    water_added = 6.8
+    total_water = initial_water + water_added
+    print(f"target: {total_water}")
 ```
+This function takes no input, as the values for the initial water in the bucket and the water added by Derek are hardcoded. It simply calculates the total amount of water in the bucket after Derek adds water and prints the result in the format requested.
 
-Explanation:
+Here's a breakdown of the code:
 
-1. First, we define the variables `green_peppers` and `red_peppers` and assign them the values mentioned in the problem statement.
-2. We calculate the total amount of peppers bought by adding the amounts of green and red peppers.
-3. Finally, we print the total amount of peppers bought in the format required by the problem statement.
+1. `initial_water = 3`: This line sets the initial amount of water in the bucket to 3 gallons.
+2. `water_added = 6.8`: This line sets the amount of water added by Derek to 6.8 gallons.
+3. `total_water = initial_water + water_added`: This line calculates the total amount of water in the bucket after Derek adds water by adding the initial amount of water to the amount of water added.
+4. `print(f"target: {total_water}"): This line prints the result in the format requested, which is "target: X.X", where X.X is the total amount of water in the bucket after Derek adds water.
 
-Note: The `f` string syntax is used to format the output string. The `{total_peppers}` is replaced with the calculated value of `total_peppers` at runtime.
+I hope this helps! Let me know if you have any questions.
 """

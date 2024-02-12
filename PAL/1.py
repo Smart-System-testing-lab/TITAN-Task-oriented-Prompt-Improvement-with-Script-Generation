@@ -1,30 +1,28 @@
 def solution():
-    weekly_spending = 3
-    lawn_mowing_income = 9
-    weed_eating_income = 18
+    boys = 11
+    girls = 45
+    group_size = 7
 
-    total_income = lawn_mowing_income + weed_eating_income
-    money_left = total_income - weekly_spending
-    number_of_weeks = money_left // weekly_spending
+    total_members = boys + girls
+    groups = total_members // group_size
 
-    print(f"The money will last {number_of_weeks} weeks.")
+    print(f"target: {groups}")
 
 
 """
-                Sure, here's a Python function that solves the problem:
-
-```
+                Sure, here's a possible implementation of the `solution()` function in Python:
+```python
 def solution():
-    weekly_spending = 3
-    lawn_mowing_income = 9
-    weed_eating_income = 18
+    boys = 11
+    girls = 45
+    group_size = 7
 
-    total_income = lawn_mowing_income + weed_eating_income
-    money_left = total_income - weekly_spending
-    number_of_weeks = money_left // weekly_spending
+    total_members = boys + girls
+    groups = total_members // group_size
 
-    print(f"The money will last {number_of_weeks} weeks.")
+    print(f"target: {groups}")
 ```
+This function takes no input, as the values for `boys`, `girls`, and `group_size` are hardcoded. It first calculates the total number of members in the debate team by adding the number of boys and girls. Then, it divides the total number of members by the group size to find the number of groups that can be formed. Finally, it prints the result using the format string `"target: {groups}"`, where `{groups}` is the number of groups that can be formed.
 
-This function takes no input, as all the necessary values are hardcoded within the function itself. It first calculates the total income that Luke has, then subtracts his weekly spending to find out how much money he has left. Finally, it divides the amount of money left by his weekly spending to find out how many weeks the money will last. The result is then printed to the console.
+When you run this function, it should print `target: 8`, which is the answer to the question.
 """

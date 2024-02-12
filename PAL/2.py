@@ -1,33 +1,28 @@
 def solution():
-    species_seen = 532
-    insect_species = 253
-    bird_species = 143
-
-    reptile_species = species_seen - (insect_species + bird_species)
-
-    print("target :", reptile_species)
+    treetown_donation = 570.00
+    forest_reserve_donation = 140.00
+    animal_preservation_park_donation = forest_reserve_donation - 140.00
+    total_donation = (
+        treetown_donation + forest_reserve_donation + animal_preservation_park_donation
+    )
+    print(f"Total amount donated to all three parks: ${total_donation}")
 
 
 """
                 Sure, here's a Python function that solves the problem:
-
-```
+```python
 def solution():
-    species_seen = 532
-    insect_species = 253
-    bird_species = 143
-
-    reptile_species = species_seen - (insect_species + bird_species)
-
-    print("target :", reptile_species)
+    treetown_donation = 570.00
+    forest_reserve_donation = 140.00
+    animal_preservation_park_donation = forest_reserve_donation - 140.00
+    total_donation = treetown_donation + forest_reserve_donation + animal_preservation_park_donation
+    print(f"Total amount donated to all three parks: ${total_donation}")
 ```
-
 Explanation:
 
-1. We define a function named `solution()` that takes no arguments.
-2. We define three variables: `species_seen` (532), `insect_species` (253), and `bird_species` (143).
-3. We calculate the number of reptile species by subtracting the sum of insect and bird species from the total number of species seen: `reptile_species = species_seen - (insect_species + bird_species)`.
-4. We print the result using the format specified in the question: `print("target :", reptile_species)`.
+1. First, we define the three variables for the donations to Treetown National Park, the Forest Reserve, and Animal Preservation Park, respectively.
+2. We calculate the total donation by adding the three variables.
+3. Finally, we print the total donation using the `print()` function.
 
-Note: The function doesn't ask for any input from the user, and it uses the values provided in the question to calculate the number of reptile species.
+Note: The `f` string notation is used to include the calculated total donation in the string.
 """
