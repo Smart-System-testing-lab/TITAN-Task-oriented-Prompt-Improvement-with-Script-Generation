@@ -1,17 +1,33 @@
-
 def solution():
-    # Ask the client how many balls Marin has
-    n = int(input("Enter the number of balls Marin has: "))
+    species_seen = 532
+    insect_species = 253
+    bird_species = 143
 
-    # Ask the client how many more balls Ellen has than Marin
-    extra_balls = int(input("Enter the number of extra balls Ellen has: "))
+    reptile_species = species_seen - (insect_species + bird_species)
 
-    # Calculate the number of balls Ellen has
-    ellen_balls = n + extra_balls
+    print("target :", reptile_species)
 
-    # Provide the client with the calculated number of balls Ellen has
-    print(f"Ellen has {ellen_balls} balls.")
 
-# Run the function
-solution()
+"""
+                Sure, here's a Python function that solves the problem:
 
+```
+def solution():
+    species_seen = 532
+    insect_species = 253
+    bird_species = 143
+
+    reptile_species = species_seen - (insect_species + bird_species)
+
+    print("target :", reptile_species)
+```
+
+Explanation:
+
+1. We define a function named `solution()` that takes no arguments.
+2. We define three variables: `species_seen` (532), `insect_species` (253), and `bird_species` (143).
+3. We calculate the number of reptile species by subtracting the sum of insect and bird species from the total number of species seen: `reptile_species = species_seen - (insect_species + bird_species)`.
+4. We print the result using the format specified in the question: `print("target :", reptile_species)`.
+
+Note: The function doesn't ask for any input from the user, and it uses the values provided in the question to calculate the number of reptile species.
+"""

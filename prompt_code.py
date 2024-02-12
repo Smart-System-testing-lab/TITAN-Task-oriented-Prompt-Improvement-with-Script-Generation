@@ -1,14 +1,19 @@
 
-def make_code_prompt(p, output):
-    
+def make_code_prompt(p, inputs, output):
+
 
     SINGLE_PROMPT = f'''
-    You are a helpful assistant that can write Python code. Generate Python3 Code to solve these steps: \n {p} \n. for the inputs, you must
-     use the details and inputs that provided in the steps. Do not ask any input from the
-      user. Only use the information provided for you. You must not provide any explanation rather than the runnable code. At the end of your code you should print the result.  the output format must be like {output}.
-      For the output you must complete the 'def solution():' function.
-
+            You are professional python developer. write a python function to do these following steps: "{p}".
+            for the inputs, use "{inputs}". At the end of the program, you should print output like this format : "target : {output}".
+            Just return the code in following format without any other explanation. Do not ask user to enter ouput and just 
+            use the information that are provided.
+            ```python
+            def solution():
+                # Your code here
+                print(result)
+            ```
         '''
+
     return SINGLE_PROMPT
 
 
@@ -20,13 +25,24 @@ def make_step_back_prompt(p):
     '''
 
 
+def make_input_prompt(p):
+
+    return f'''
+        A client asked you : "{p}". 
+        Take an step back and Extract all the inputs mentioned in the client's query step by step.
+          Format your response as a dictionary of these inputs. In this dictionray, you should tell the
+          name of each input and it's value. 
+
+    '''
+
 def make_cot_prompt(p):
 
     return f'''
-    client ask you {p}. 
-    take a deep breath and a step back and tell us what is the client's goal by this question step by step. at the end
-    tell us what exactly he wants. use the client's inputs to 
-    describe as accurate as you can. take your steps as small as you can.
+    A client asks you "{p}". First, take an step back and understand what does he actually want.
+    Then, break the question to small step that guide you to reach the final goal. Please, divide question
+    to small parts to find the ultimate goal. You do not need to solve the question. You only should guide us step by step
+    how to solve this problem.
+
     '''
 
 
