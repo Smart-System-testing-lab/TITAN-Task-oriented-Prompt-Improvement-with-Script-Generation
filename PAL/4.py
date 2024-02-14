@@ -1,21 +1,36 @@
 def solution():
-    inputs = {"number of red apples": 7, "number of green apples": 2}
-    total_apples = inputs["number of red apples"] + inputs["number of green apples"]
-    print(f"target: {total_apples}")
+    daily_consumption = 1
+    carton_size = 15
+    cost_per_carton = 4.00
+    days = 60
+
+    total_consumption = daily_consumption * days
+    cartons_needed = total_consumption // carton_size
+    remaining_servings = total_consumption % carton_size
+
+    cost = cartons_needed * cost_per_carton
+    cost += remaining_servings * (cost_per_carton / carton_size)
+
+    print(f"target : {cost:.2f}")
 
 
 """
-                Sure, here's a possible implementation of the `solution()` function that solves the problem as described:
+                Sure, here's a Python function that solves the problem:
 ```python
 def solution():
-    inputs = {
-        'number of red apples': 7,
-        'number of green apples': 2
-    }
-    total_apples = inputs['number of red apples'] + inputs['number of green apples']
-    print(f'target: {total_apples}')
-```
-This function first defines a dictionary `inputs` that contains the two input values mentioned in the problem statement. Then, it uses the values from the dictionary to calculate the total number of apples, which is the sum of the number of red apples and the number of green apples. Finally, it prints the result in the format specified in the problem statement.
+    daily_consumption = 1
+    carton_size = 15
+    cost_per_carton = 4.00
+    days = 60
 
-Note that this implementation assumes that the input values are integers, so it uses the `int` type to store the values in the dictionary. If the input values could be non-integer values, you would need to modify the code accordingly.
+    total_consumption = daily_consumption * days
+    cartons_needed = total_consumption // carton_size
+    remaining_servings = total_consumption % carton_size
+
+    cost = cartons_needed * cost_per_carton
+    cost += remaining_servings * (cost_per_carton / carton_size)
+
+    print(f"target : {cost:.2f}")
+```
+This function takes no input, as all the necessary values are provided in the dictionary. It calculates the total cost of ice cream consumed by Cynthia over 60 days, considering that she eats one serving per day and that each carton contains 15 servings. The function then prints the result in the format requested.
 """

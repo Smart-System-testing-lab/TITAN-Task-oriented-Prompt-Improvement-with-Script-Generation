@@ -5,11 +5,7 @@ import math
 import string
 files = [file for file in os.listdir("results/0/csv") if file.endswith('.csv')]
 for file in files:
-<<<<<<< HEAD
     if "finqa" in file:
-=======
-    if "addsub02" in file:
->>>>>>> 40e734ffeea394c7e5b4695f5f9c60e835ca1d8c
         f = file
         break
 df = pd.read_csv(f'results/0/csv/{f}')

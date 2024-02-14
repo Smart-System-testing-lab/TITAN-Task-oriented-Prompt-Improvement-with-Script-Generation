@@ -31,7 +31,8 @@ def pal_example(path, tempreture):
     labels = []
     is_oks = []
     question_list = []
-    path1 = f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}vfin1.jsonl'
+    version = 4
+    path1 = f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
     print("Started Reading JSON file which contains multiple JSON document")
     with open(path) as f:
         for jsonObj in f:
@@ -67,7 +68,7 @@ def pal_example(path, tempreture):
         print(f"{i} is done")
 
         i += 1
-        if i == 599 :
+        if i == 990 :
             break
     # dict = {
     #     "labels": labels,

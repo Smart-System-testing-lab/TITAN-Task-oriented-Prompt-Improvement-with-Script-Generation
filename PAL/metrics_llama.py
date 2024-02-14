@@ -2,11 +2,14 @@ import tqdm
 import json
 import subprocess
 import re
-fi = "finqa_test"
-OUTPUT_PATH = f'results/0/llama{fi}0vfin1.jsonl'
+fi = "date_understanding"
+version = 4
+OUTPUT_PATH = f'results/0/llama2{fi}{version}0vfin1.jsonl'
+OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
 i = 0
 answers = []
 count = 0
+flag = True
 total = 0
 with open(OUTPUT_PATH) as f:
     for i, line in enumerate(f):
@@ -14,7 +17,7 @@ with open(OUTPUT_PATH) as f:
         label = j["label"]
         code = j["code"]
         target = j["target"]
-
+        total += 1
         try:
             if code.count("solution()") == 2 and code.count("def solution()") == 1:
                 code_temp = code
@@ -31,20 +34,31 @@ with open(OUTPUT_PATH) as f:
                 # Run the command and capture the output
                 
                 output = subprocess.check_output("python3 3.py", shell=True, encoding='utf-8')
+                print(output)
                 label_hat = re.findall(r'\d+', output)[0]
-                total += 1
-                if int(label_hat) == int(label):
-                    
-                    count += 1
+                if flag:
+                    for d in j["target_scores"].keys():
+                        if j["target_scores"][d] == 1:
+                            label = d
+
+                    print(d, output)
+                    if d in output:
+                        count += 1
                 else:
-                    print(j["i"], label, label_hat)
-                    if j["i"] == 7:
-                        print(j["back"])
-                        print(j["code"])
-                        print(j["inputs"])
+                    if int(label_hat) == int(label):
+                        
+                        count += 1
+                    else:
+                        print(j["i"], label, label_hat)
+                        if j["i"] == 4:
+                            print(j["back"])
+                            print(j["code"])
+                            print(j["inputs"])
                 # Print the captured output
 
             except subprocess.CalledProcessError as e:
+                # print(j["code"])
+                # print(j["label"])
                 # Handle the case when the command returns a non-zero exit code
                 print(f"Error: {e}")
         
@@ -55,4 +69,5 @@ with open(OUTPUT_PATH) as f:
         #     break
         # print(j["target"].split("\n")[0])
         
-print(count/ total)
+        print(count/ total)
+        print(count)

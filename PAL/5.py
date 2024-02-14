@@ -1,21 +1,26 @@
 def solution():
-    total_pages = 10.2 + 8.6
-    print(f"Target: {total_pages}")
+    jason_blue = 43
+    jason_red = 16
+    tom_blue = 24
+
+    total_blue = jason_blue + tom_blue
+
+    print(f"target : {total_blue}")
 
 
 """
-                Sure, here's a possible implementation of the `solution()` function in Python:
-```python
-def solution():
-    total_pages = 10.2 + 8.6
-    print(f"Target: {total_pages}")
+                Sure, here's a Python function that solves the problem:
+
 ```
-This function simply adds the two given numbers and stores the result in the `total_pages` variable. Then, it prints the result in the format specified in the question, using the `f` string notation to include the value of `total_pages` in the output.
+def solution():
+    jason_blue = 43
+    jason_red = 16
+    tom_blue = 24
 
-Here's a breakdown of the code:
+    total_blue = jason_blue + tom_blue
 
-* `total_pages = 10.2 + 8.6`: This line adds the two given numbers and assigns the result to the `total_pages` variable.
-* `print(f"Target: {total_pages}"): This line prints the string "Target: " followed by the value of `total_pages`. The `f` string notation allows us to include the value of `total_pages` in the string.
+    print(f"target : {total_blue}")
+```
 
-Note that this code assumes that the input values are floating-point numbers. If the inputs are integers, you can use `int` instead of `float` to convert the values to integers before adding them.
+The function takes no input, as all the necessary values are provided in the question. It simply calculates the total number of blue marbles by adding Jason's blue marbles, Jason's red marbles, and Tom's blue marbles, and then prints the result in the required format.
 """

@@ -1,28 +1,35 @@
 def solution():
-    total_puppies = 9 + 12  # Calculate total number of puppies available for adoption
-    adoption_rate = 3  # Number of puppies adopted per day
-    days_to_adopt = (
-        total_puppies // adoption_rate
-    )  # Calculate number of days to adopt all puppies
-    print(f"Target: {days_to_adopt}")  # Print the result
+        # Total number of animals
+        total_animals = 8 + 5 + 3 + 2395736
 
+        # Number of days in the week
+        num_days = 7
+
+        # Calculate the number of animals per day
+        animals_per_day = total_animals // num_days
+
+        # Print the result
+        print(f"Target: {animals_per_day:.2f}")
+
+The code calculates the total number of animals by adding up the number of dogs, cats, birds, and horses. Then, it divides the total number of animals by the number of days in the week to find the number of animals per day. Finally, it prints the result in the format requested.
+
+It's important to note that the number of animals per day will be a float number, that's why I'm using the f-string to print the result with two decimal places.
 
 """
-                Sure, here's a Python function that solves the problem:
+                def solution():
+        # Total number of animals
+        total_animals = 8 + 5 + 3 + 2395736
 
-```python
-def solution():
-    total_puppies = 9 + 12  # Calculate total number of puppies available for adoption
-    adoption_rate = 3  # Number of puppies adopted per day
-    days_to_adopt = total_puppies // adoption_rate  # Calculate number of days to adopt all puppies
-    print(f"Target: {days_to_adopt}")  # Print the result
-```
+        # Number of days in the week
+        num_days = 7
 
-Explanation:
+        # Calculate the number of animals per day
+        animals_per_day = total_animals // num_days
 
-1. First, we calculate the total number of puppies available for adoption by adding the number of puppies initially in the shelter (9) to the number of additional puppies brought in (12). This gives us a total of 21 puppies.
-2. Next, we calculate the number of days it would take to adopt all the puppies by dividing the total number of puppies available for adoption by the number of puppies adopted per day. In this case, we have 21 / 3 = 7.
-3. Finally, we print the result in the format requested by the client: "Target: X", where X is the number of days it would take to adopt all the puppies.
+        # Print the result
+        print(f"Target: {animals_per_day:.2f}")
 
-Note: The // operator is used for integer division, which is what we want in this case since we're dealing with whole numbers. If you prefer to use decimal division, you can replace // with /.
+The code calculates the total number of animals by adding up the number of dogs, cats, birds, and horses. Then, it divides the total number of animals by the number of days in the week to find the number of animals per day. Finally, it prints the result in the format requested.
+
+It's important to note that the number of animals per day will be a float number, that's why I'm using the f-string to print the result with two decimal places.
 """

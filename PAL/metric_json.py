@@ -1,7 +1,7 @@
 
 import tqdm
 import json
-OUTPUT_PATH = 'results/date_understanding.jsonl'
+OUTPUT_PATH = 'results/llama2date_understanding40vfin1.jsonl'
 i = 0
 answers = []
 with open(OUTPUT_PATH) as f:
@@ -14,8 +14,7 @@ with open(OUTPUT_PATH) as f:
         except Exception as e:
             pass
         i += 1
-        if i > 35:
-            break
+
         # print(j["target"].split("\n")[0])
         
 print(sum(answers)/len(answers))

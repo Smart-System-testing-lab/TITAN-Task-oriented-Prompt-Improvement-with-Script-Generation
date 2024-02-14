@@ -1,9 +1,11 @@
 
-def make_code_prompt(p, inputs, output):
+def make_code_prompt(p, question, inputs, output):
 
 
     SINGLE_PROMPT = f'''
-            You are professional python developer. write a python function to do these following steps: "{p}".
+            You are professional python developer.You are suppose to write a python function to solve : "{question}". step by step,
+            go thorough the question and try to solve ultimate goal. this is an example to show you how to think about it : "{p}".
+            You do not need to follow exactly the above example but it can help you.
             for the inputs, use "{inputs}". At the end of the program, you should print output like this format : "target : {output}".
             Just return the code in following format without any other explanation. Do not ask user to enter ouput and just 
             use the information that are provided.

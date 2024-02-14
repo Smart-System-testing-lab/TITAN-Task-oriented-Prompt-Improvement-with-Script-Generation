@@ -1,42 +1,47 @@
-def solution():
-    deferred_tax_assets_2014 = 6348
-    deferred_tax_assets_2013 = 6241
-    regulatory_assets_2014 = 6348
-    regulatory_assets_2013 = 6241
 
-    deferred_tax_assets_change = (deferred_tax_assets_2014 - deferred_tax_assets_2013) / deferred_tax_assets_2013
-    regulatory_assets_change = (regulatory_assets_2014 - regulatory_assets_2013) / regulatory_assets_2013
+import datetime
 
-    print(f"Deferred tax assets: {deferred_tax_assets_change:.4f}%")
-    print(f"Regulatory assets: {regulatory_assets_change:.4f}%")
+def solution(date, today):
+    # Convert the date to a datetime object
+    dt = datetime.datetime.strptime(date, '%m/%d/%Y')
 
-    return deferred_tax_assets_change, regulatory_assets_change
+    # Subtract 7 days from the date
+    past_date = dt - datetime.timedelta(days=7)
+
+    # Format the past date into MM/DD/YYYY
+    past_date_formatted = past_date.strftime('%m/%d/%Y')
+
+    # Return the formatted past date
+    return past_date_formatted
+
+# Test the function with the given inputs
+print(solution(date='08/03/1997', today=True))
 
 
 """
-                Sure, here's a Python function that calculates the percentage change in deferred tax assets and regulatory assets from 2013 to 2014 using the information provided:
+                Sure, here's a Python function that solves the problem:
 ```python
-def solution():
-    deferred_tax_assets_2014 = 6348
-    deferred_tax_assets_2013 = 6241
-    regulatory_assets_2014 = 6348
-    regulatory_assets_2013 = 6241
+import datetime
 
-    deferred_tax_assets_change = (deferred_tax_assets_2014 - deferred_tax_assets_2013) / deferred_tax_assets_2013
-    regulatory_assets_change = (regulatory_assets_2014 - regulatory_assets_2013) / regulatory_assets_2013
+def solution(date, today):
+    # Convert the date to a datetime object
+    dt = datetime.datetime.strptime(date, '%m/%d/%Y')
 
-    print(f"Deferred tax assets: {deferred_tax_assets_change:.4f}%")
-    print(f"Regulatory assets: {regulatory_assets_change:.4f}%")
+    # Subtract 7 days from the date
+    past_date = dt - datetime.timedelta(days=7)
 
-    return deferred_tax_assets_change, regulatory_assets_change
+    # Format the past date into MM/DD/YYYY
+    past_date_formatted = past_date.strftime('%m/%d/%Y')
+
+    # Return the formatted past date
+    return past_date_formatted
+
+# Test the function with the given inputs
+print(solution(date='08/03/1997', today=True))
 ```
-This function takes no input, as all the necessary values are provided in the question. It calculates the percentage change in deferred tax assets and regulatory assets using the formula you provided, and then prints the results.
+The function takes two inputs: `date` and `today`. It first converts the `date` string to a `datetime` object using `strptime()`. Then, it subtracts 7 days from the date using `timedelta()`. Finally, it formats the past date into MM/DD/YYYY format using `strftime()` and returns it.
 
-Here's an explanation of the code:
-
-* `deferred_tax_assets_2014` and `deferred_tax_assets_2013` are the values of deferred tax assets for 2014 and 2013, respectively.
-* `regulatory_assets_2014` and `regulatory_assets_2013` are the values of regulatory assets for 2014 and 2013, respectively.
-* `deferred_tax_assets_change` is the percentage change in deferred tax assets from 2013 to 2014. It's calculated by subtracting the value of deferred tax assets in 2013 from the value in 
+When you run the code, it should print `07/27/1997`, which is the date one week ago from 08/03/1997 in MM/DD/YYYY format.
 """
 
 solution()

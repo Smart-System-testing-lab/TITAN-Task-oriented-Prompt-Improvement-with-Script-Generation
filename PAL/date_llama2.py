@@ -40,9 +40,10 @@ def save_dict_to_jsonl(file_path, data_dict):
         file.write(json.dumps(data_dict) + '\n')
 
 
-
-DATA_PATH = 'dataset/date_understanding.json'
-OUTPUT_PATH = 'results/llama2date_understanding.jsonl'
+fi = "date_understanding"
+version = 4
+DATA_PATH = f'dataset/{fi}.json'
+OUTPUT_PATH = f'results/llama2{fi}{version}0vfin1.jsonl'
 
 
 parser = argparse.ArgumentParser()

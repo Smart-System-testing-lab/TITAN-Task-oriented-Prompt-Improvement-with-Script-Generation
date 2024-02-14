@@ -4,7 +4,6 @@ import sys, os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 import subprocess
-from gpt.gpt import get_completion
 import re
 from prompt_code import *
 from messages import *
@@ -60,7 +59,7 @@ def process_generation_to_code(gens: str):
 
     return gens
 def extract_data_llama(question, output):
-
+    path = "1.py"
     input_prompt = make_input_prompt(question)
     inputs = get_completion_llama(input_prompt)
     sleep(10)
@@ -70,7 +69,7 @@ def extract_data_llama(question, output):
     p = get_completion_llama(p)
 
     sleep(10)
-    code1 = get_completion_llama(make_code_prompt(p, inputs, output))
+    code1 = get_completion_llama(make_code_prompt(p, question, inputs, output))
     sleep(10)
     code = process_generation_to_code(code1)
     print("Code generation is done ")
@@ -93,15 +92,15 @@ def extract_data_llama(question, output):
 """
 '''
     print(code)
-    with open("finqa.py", "w") as f:
+    with open(f"{path}", "w") as f:
         f.writelines(code)
 
     print("code is here")
 
     try:
         # Run the command and capture the output
-        subprocess.run(['black', "finqa.py"], check=True)
-        output = subprocess.check_output("python3 finqa.py", shell=True, encoding='utf-8')
+        subprocess.run(['black', f"{path}"], check=True)
+        output = subprocess.check_output(f"python3 {path}", shell=True, encoding='utf-8')
         # print(output)
         # Print the captured output
         return output, code, p, inputs
@@ -109,4 +108,4 @@ def extract_data_llama(question, output):
     except Exception as e:
         # Handle the case when the command returns a non-zero exit code
         print("Error", e)
-    return subprocess.check_output(f"python3 finqa.py", shell=True, encoding="utf-8"), code, p
+    return subprocess.check_output(f"python3 {path}", shell=True, encoding="utf-8"), code, p
