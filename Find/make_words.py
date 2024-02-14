@@ -34,8 +34,8 @@ for i in range(1000):
 
     ans = most_unique_letter_with_condition(temp, letters1[0], letters1[1])
     
-    word_list.append(template + str(temp) + f"@{ans}\n")
+    word_list.append(template + f"@{ans}\n")
 
-with open ("most_unique.txt" , "w") as f:
+with open ("most_unique1.txt" , "w") as f:
     for w in word_list:
         f.write(w)

@@ -1,47 +1,60 @@
+def solution():
+    # Number of guests at the wedding reception
+    n_guests = 100
 
-import datetime
+    # Number of cookies brought by each guest
+    n_cookies_per_guest = 2165855
 
-def solution(date, today):
-    # Convert the date to a datetime object
-    dt = datetime.datetime.strptime(date, '%m/%d/%Y')
+    # Number of cookies given to the church next door
+    n_cookies_given_to_church = n_cookies_per_guest // 2
 
-    # Subtract 7 days from the date
-    past_date = dt - datetime.timedelta(days=7)
+    # Total number of cookies brought to the wedding
+    total_cookies = n_guests * n_cookies_per_guest
 
-    # Format the past date into MM/DD/YYYY
-    past_date_formatted = past_date.strftime('%m/%d/%Y')
+    # Ratio of cookies to people in the church next door
+    cookies_to_people_ratio = n_cookies_given_to_church / total_cookies
 
-    # Return the formatted past date
-    return past_date_formatted
+    # Number of people in the church next door
+    people_in_church = cookies_to_people_ratio * n_guests
 
-# Test the function with the given inputs
-print(solution(date='08/03/1997', today=True))
+    # Print the result
+    print(f"target : {people_in_church:.6f}")
 
 
 """
                 Sure, here's a Python function that solves the problem:
 ```python
-import datetime
+def solution():
+    # Number of guests at the wedding reception
+    n_guests = 100
 
-def solution(date, today):
-    # Convert the date to a datetime object
-    dt = datetime.datetime.strptime(date, '%m/%d/%Y')
+    # Number of cookies brought by each guest
+    n_cookies_per_guest = 2165855
 
-    # Subtract 7 days from the date
-    past_date = dt - datetime.timedelta(days=7)
+    # Number of cookies given to the church next door
+    n_cookies_given_to_church = n_cookies_per_guest // 2
 
-    # Format the past date into MM/DD/YYYY
-    past_date_formatted = past_date.strftime('%m/%d/%Y')
+    # Total number of cookies brought to the wedding
+    total_cookies = n_guests * n_cookies_per_guest
 
-    # Return the formatted past date
-    return past_date_formatted
+    # Ratio of cookies to people in the church next door
+    cookies_to_people_ratio = n_cookies_given_to_church / total_cookies
 
-# Test the function with the given inputs
-print(solution(date='08/03/1997', today=True))
+    # Number of people in the church next door
+    people_in_church = cookies_to_people_ratio * n_guests
+
+    # Print the result
+    print(f"target : {people_in_church:.6f}")
 ```
-The function takes two inputs: `date` and `today`. It first converts the `date` string to a `datetime` object using `strptime()`. Then, it subtracts 7 days from the date using `timedelta()`. Finally, it formats the past date into MM/DD/YYYY format using `strftime()` and returns it.
+Here's how the function works:
 
-When you run the code, it should print `07/27/1997`, which is the date one week ago from 08/03/1997 in MM/DD/YYYY format.
+1. First, we define the inputs: `n_guests`, `n_cookies_per_guest`, and `n_cookies_given_to_church`.
+2. We calculate the total number of cookies brought to the wedding: `total_cookies = n_guests * n_cookies_per_guest`.
+3. We calculate the ratio of cookies to people in the church next door: `cookies_to_people_ratio = n_cookies_given_to_church / total_cookies`.
+4. We use the ratio to calculate the number of people in the church next door: `people_in_church = cookies_to_people_ratio * n_guests`.
+5. Finally, we print the result: `print(f"target : {people_in_church:.6f}")`.
+
+Note that we use the `f` string prefix to format the output as a decimal number with six significant figures.
 """
 
 solution()

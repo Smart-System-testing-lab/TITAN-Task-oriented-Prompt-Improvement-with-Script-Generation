@@ -3,12 +3,13 @@ def make_code_prompt(p, question, inputs, output):
 
 
     SINGLE_PROMPT = f'''
-            You are professional python developer.You are suppose to write a python function to solve : "{question}". step by step,
-            go thorough the question and try to solve ultimate goal. this is an example to show you how to think about it : "{p}".
-            You do not need to follow exactly the above example but it can help you.
+            Generate a general runnable python function to solve the following question for general purpose : <<{question}>>.
+            step by step, go thorough the question and try to calculate ultimate goal by generating the code. this is an example to show you how to think about it and how to break it to smaller steps: "{p}".
+            You do not need to follow exactly the above example but it can help you. for each part, you should write the code not calcualte manually.
             for the inputs, use "{inputs}". At the end of the program, you should print output like this format : "target : {output}".
-            Just return the code in following format without any other explanation. Do not ask user to enter ouput and just 
-            use the information that are provided.
+            Just return the runnable code without any runtime error in following format without any other explanation. after writing code, 
+             revise it and make sure your code is runnable. Do not ask user to enter ouput and just 
+            use the information that are provided. revise your code again to not have any runtime or compile error.
             ```python
             def solution():
                 # Your code here
@@ -32,9 +33,6 @@ def make_input_prompt(p):
     return f'''
         A client asked you : "{p}". 
         Take an step back and Extract all the inputs mentioned in the client's query step by step.
-          Format your response as a dictionary of these inputs. In this dictionray, you should tell the
-          name of each input and it's value. 
-
     '''
 
 def make_cot_prompt(p):

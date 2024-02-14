@@ -2,14 +2,14 @@ import tqdm
 import json
 import subprocess
 import re
-fi = "date_understanding"
+fi = "gsmhardv2"
 version = 4
-OUTPUT_PATH = f'results/0/llama2{fi}{version}0vfin1.jsonl'
-OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
+OUTPUT_PATH = f'results/0/llama{fi}{version}0vfin1.jsonl'
+# OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
 i = 0
 answers = []
 count = 0
-flag = True
+flag = False
 total = 0
 with open(OUTPUT_PATH) as f:
     for i, line in enumerate(f):
@@ -19,6 +19,10 @@ with open(OUTPUT_PATH) as f:
         target = j["target"]
         total += 1
         try:
+            # pattern = re.compile(r"\"\"\"")
+            # matches = list(pattern.finditer(code))[0]
+            # print(matches)
+            
             if code.count("solution()") == 2 and code.count("def solution()") == 1:
                 code_temp = code
                 print(i, "nooo")
@@ -60,14 +64,16 @@ with open(OUTPUT_PATH) as f:
                 # print(j["code"])
                 # print(j["label"])
                 # Handle the case when the command returns a non-zero exit code
+                print(j["code"])
                 print(f"Error: {e}")
         
         except Exception as e:
+            print(j["code"])
             print("wub ss", e)
         i += 1
         # if i > 80:
         #     break
         # print(j["target"].split("\n")[0])
         
-        print(count/ total)
-        print(count)
+print(count/ total)
+print(count)

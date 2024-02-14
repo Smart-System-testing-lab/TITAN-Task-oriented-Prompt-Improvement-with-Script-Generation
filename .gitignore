@@ -1,5 +1,4 @@
 *.json
-*.txt
 *.csv
 PAL/dataset/aqua_test.jsonl
 PAL/results/date_understanding.jsonl

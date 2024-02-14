@@ -1,45 +1,58 @@
-import datetime
-
-
 def solution():
-    concert_date = datetime.datetime.strptime("06/01/1943", "%m/%d/%Y")
-    current_date = datetime.datetime.now()
-    delay = 1
+    # Number of guests at the wedding reception
+    n_guests = 100
 
-    concert_date = concert_date + datetime.timedelta(days=delay)
-    current_date = current_date - datetime.timedelta(days=365)
+    # Number of cookies brought by each guest
+    n_cookies_per_guest = 2165855
 
-    one_year_ago_date = current_date.strftime("%m/%d/%Y")
+    # Number of cookies given to the church next door
+    n_cookies_given_to_church = n_cookies_per_guest // 2
 
-    print(f"One Year Ago Date: {one_year_ago_date}")
+    # Total number of cookies brought to the wedding
+    total_cookies = n_guests * n_cookies_per_guest
+
+    # Ratio of cookies to people in the church next door
+    cookies_to_people_ratio = n_cookies_given_to_church / total_cookies
+
+    # Number of people in the church next door
+    people_in_church = cookies_to_people_ratio * n_guests
+
+    # Print the result
+    print(f"target : {people_in_church:.6f}")
 
 
 """
-                Sure, here's a possible solution in Python:
+                Sure, here's a Python function that solves the problem:
 ```python
-import datetime
-
 def solution():
-    concert_date = datetime.datetime.strptime('06/01/1943', '%m/%d/%Y')
-    current_date = datetime.datetime.now()
-    delay = 1
+    # Number of guests at the wedding reception
+    n_guests = 100
 
-    concert_date = concert_date + datetime.timedelta(days=delay)
-    current_date = current_date - datetime.timedelta(days=365)
+    # Number of cookies brought by each guest
+    n_cookies_per_guest = 2165855
 
-    one_year_ago_date = current_date.strftime('%m/%d/%Y')
+    # Number of cookies given to the church next door
+    n_cookies_given_to_church = n_cookies_per_guest // 2
 
-    print(f'One Year Ago Date: {one_year_ago_date}')
+    # Total number of cookies brought to the wedding
+    total_cookies = n_guests * n_cookies_per_guest
+
+    # Ratio of cookies to people in the church next door
+    cookies_to_people_ratio = n_cookies_given_to_church / total_cookies
+
+    # Number of people in the church next door
+    people_in_church = cookies_to_people_ratio * n_guests
+
+    # Print the result
+    print(f"target : {people_in_church:.6f}")
 ```
-Explanation:
+Here's how the function works:
 
-1. We first import the `datetime` module, which provides useful functions for working with dates and times in Python.
-2. We define a function `solution()` that will contain the code to solve the problem.
-3. We parse the concert date and current date using the `strptime()` function, which takes a string in the format `'%m/%d/%Y'` and returns a `datetime.datetime` object.
-4. We add the delay of 1 day to the concert date using the `+` operator, which modifies the `datetime.datetime` object.
-5. We subtract 365 days from the current date using the `-` operator, which modifies the `datetime.datetime` object. This gives us the date one year ago.
-6. We extract the date one year ago from the `datetime.datetime` object using the `strftime()` function, which formats the date into a string in the format `'%m/%d/%Y'`.
-7. We print the result using the `print()` function, which takes a string argument.
+1. First, we define the inputs: `n_guests`, `n_cookies_per_guest`, and `n_cookies_given_to_church`.
+2. We calculate the total number of cookies brought to the wedding: `total_cookies = n_guests * n_cookies_per_guest`.
+3. We calculate the ratio of cookies to people in the church next door: `cookies_to_people_ratio = n_cookies_given_to_church / total_cookies`.
+4. We use the ratio to calculate the number of people in the church next door: `people_in_church = cookies_to_people_ratio * n_guests`.
+5. Finally, we print the result: `print(f"target : {people_in_church:.6f}")`.
 
-Note that this code assumes that the current date is after 06/01/1943. If the current date is before 06/01/1943, then the one year ago date would be 06/02/1942.
+Note that we use the `f` string prefix to format the output as a decimal number with six significant figures.
 """

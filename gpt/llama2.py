@@ -59,18 +59,18 @@ def process_generation_to_code(gens: str):
 
     return gens
 def extract_data_llama(question, output):
-    path = "1.py"
+    path = "b.py"
     input_prompt = make_input_prompt(question)
     inputs = get_completion_llama(input_prompt)
-    sleep(10)
+    sleep(2)
     p = make_cot_prompt(question)
 
     # print("^^^")
     p = get_completion_llama(p)
 
-    sleep(10)
+    sleep(2)
     code1 = get_completion_llama(make_code_prompt(p, question, inputs, output))
-    sleep(10)
+    sleep(2)
     code = process_generation_to_code(code1)
     print("Code generation is done ")
     code += '\n'
