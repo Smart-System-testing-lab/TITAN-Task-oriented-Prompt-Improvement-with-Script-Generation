@@ -1,35 +1,45 @@
+import datetime
+
+
 def solution():
-        # Total number of animals
-        total_animals = 8 + 5 + 3 + 2395736
+    concert_date = datetime.datetime.strptime("06/01/1943", "%m/%d/%Y")
+    current_date = datetime.datetime.now()
+    delay = 1
 
-        # Number of days in the week
-        num_days = 7
+    concert_date = concert_date + datetime.timedelta(days=delay)
+    current_date = current_date - datetime.timedelta(days=365)
 
-        # Calculate the number of animals per day
-        animals_per_day = total_animals // num_days
+    one_year_ago_date = current_date.strftime("%m/%d/%Y")
 
-        # Print the result
-        print(f"Target: {animals_per_day:.2f}")
+    print(f"One Year Ago Date: {one_year_ago_date}")
 
-The code calculates the total number of animals by adding up the number of dogs, cats, birds, and horses. Then, it divides the total number of animals by the number of days in the week to find the number of animals per day. Finally, it prints the result in the format requested.
-
-It's important to note that the number of animals per day will be a float number, that's why I'm using the f-string to print the result with two decimal places.
 
 """
-                def solution():
-        # Total number of animals
-        total_animals = 8 + 5 + 3 + 2395736
+                Sure, here's a possible solution in Python:
+```python
+import datetime
 
-        # Number of days in the week
-        num_days = 7
+def solution():
+    concert_date = datetime.datetime.strptime('06/01/1943', '%m/%d/%Y')
+    current_date = datetime.datetime.now()
+    delay = 1
 
-        # Calculate the number of animals per day
-        animals_per_day = total_animals // num_days
+    concert_date = concert_date + datetime.timedelta(days=delay)
+    current_date = current_date - datetime.timedelta(days=365)
 
-        # Print the result
-        print(f"Target: {animals_per_day:.2f}")
+    one_year_ago_date = current_date.strftime('%m/%d/%Y')
 
-The code calculates the total number of animals by adding up the number of dogs, cats, birds, and horses. Then, it divides the total number of animals by the number of days in the week to find the number of animals per day. Finally, it prints the result in the format requested.
+    print(f'One Year Ago Date: {one_year_ago_date}')
+```
+Explanation:
 
-It's important to note that the number of animals per day will be a float number, that's why I'm using the f-string to print the result with two decimal places.
+1. We first import the `datetime` module, which provides useful functions for working with dates and times in Python.
+2. We define a function `solution()` that will contain the code to solve the problem.
+3. We parse the concert date and current date using the `strptime()` function, which takes a string in the format `'%m/%d/%Y'` and returns a `datetime.datetime` object.
+4. We add the delay of 1 day to the concert date using the `+` operator, which modifies the `datetime.datetime` object.
+5. We subtract 365 days from the current date using the `-` operator, which modifies the `datetime.datetime` object. This gives us the date one year ago.
+6. We extract the date one year ago from the `datetime.datetime` object using the `strftime()` function, which formats the date into a string in the format `'%m/%d/%Y'`.
+7. We print the result using the `print()` function, which takes a string argument.
+
+Note that this code assumes that the current date is after 06/01/1943. If the current date is before 06/01/1943, then the one year ago date would be 06/02/1942.
 """

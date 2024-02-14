@@ -1,32 +1,39 @@
 def solution():
-    total_students = 17
-    not_picked = 5
-    groups = 3
+    # Katies team won their dodgeball game and scored 12 points total
+    total_points = 12
 
-    selected_students = total_students - not_picked
-    group_size = selected_students // groups
+    # Katie scored 4 of the points
+    katie_points = 4
 
-    print(f"Target: {group_size}")
+    # Everyone else scored 4 points each
+    num_players = (total_points - katie_points) / 4
+
+    # Print the number of players on Katies team
+    print(f"target: {num_players + 1}")
 
 
 """
                 Sure, here's a Python function that solves the problem:
 ```python
 def solution():
-    total_students = 17
-    not_picked = 5
-    groups = 3
+    # Katies team won their dodgeball game and scored 12 points total
+    total_points = 12
 
-    selected_students = total_students - not_picked
-    group_size = selected_students // groups
+    # Katie scored 4 of the points
+    katie_points = 4
 
-    print(f"Target: {group_size}")
+    # Everyone else scored 4 points each
+    num_players = (total_points - katie_points) / 4
+
+    # Print the number of players on Katies team
+    print(f"target: {num_players + 1}")
 ```
 Explanation:
 
-1. First, we calculate the number of selected students by subtracting the number of students not picked from the total number of students.
-2. Then, we divide the number of selected students by the number of groups to find the size of each group.
-3. Finally, we print the size of each group as the output.
+1. First, we define the total number of points scored by Katies team, which is 12.
+2. Next, we define the number of points scored by Katie, which is 4.
+3. We then calculate the number of points scored by everyone else on the team by subtracting Katie's points from the total points and dividing by 4. This gives us the number of players on the team.
+4. Finally, we print the number of players on Katies team, which is the answer to the client's question.
 
-Note: The `f` string prefix is used to create a formatted string, which allows us to include variables in the string using `{ }`. This makes the output more readable.
+Note that we don't need to ask the user for any input, as all the necessary information is provided in the problem statement.
 """
