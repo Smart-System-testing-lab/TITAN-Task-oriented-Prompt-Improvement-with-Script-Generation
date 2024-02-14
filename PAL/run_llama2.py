@@ -32,6 +32,7 @@ def pal_example(path, tempreture):
     is_oks = []
     question_list = []
     version = 4
+    template = ""
     path1 = f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
     print("Started Reading JSON file which contains multiple JSON document")
     with open(path) as f:
@@ -48,6 +49,7 @@ def pal_example(path, tempreture):
         # pr = q
         print(data)
         pr = data.split("@")[0]
+        pr += "if there is a difference return \"1\" else return \"0\""
         answer = data.split("@")[1]
         try:
             result4, code, back, inputs = extract_data_llama(pr, answer)
@@ -82,4 +84,4 @@ def pal_example(path, tempreture):
     # with open(f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w') as fp:
     #     json.dump(dict, fp)
 # pal_example("dataset/gsmhardv2.jsonl", 0)
-pal_example("most_unique1.txt", 0)
+pal_example("../boolean.txt", 0)
