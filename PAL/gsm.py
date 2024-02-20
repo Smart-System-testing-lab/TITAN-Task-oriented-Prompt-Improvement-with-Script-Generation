@@ -1,42 +1,30 @@
 def solution():
-    Emilys_shrimp_peeling_rate = 6
-    Emilys_shrimp_sauting_rate = 30 / 10
-    number_of_shrimp = 90
+    # 1. Determine the total time it takes for Emily to peel 90 shrimp
+    time_to_peel_90_shrimp = 90 / 6
 
-    time_to_peel = number_of_shrimp / Emilys_shrimp_peeling_rate
-    time_to_saut = number_of_shrimp / Emilys_shrimp_sauting_rate
+    # 2. Determine the total time it takes for Emily to saute 90 shrimp
+    time_to_saute_90_shrimp = (90 / 30) * 10
 
-    total_time = time_to_peel + time_to_saut
+    # 3. Add the total time for peeling and sauteing to find the overall time it will take for Emily to peel and cook 90 shrimp
+    total_time = time_to_peel_90_shrimp + time_to_saute_90_shrimp
 
-    print(f"Target: {total_time}")
+    print("target :", total_time)
 
 
 """
-                Sure, here's a Python function that solves the problem:
-```python
+                ```python
 def solution():
-    Emilys_shrimp_peeling_rate = 6
-    Emilys_shrimp_sauting_rate = 30 / 10
-    number_of_shrimp = 90
+    # 1. Determine the total time it takes for Emily to peel 90 shrimp
+    time_to_peel_90_shrimp = 90 / 6
 
-    time_to_peel = number_of_shrimp / Emilys_shrimp_peeling_rate
-    time_to_saut = number_of_shrimp / Emilys_shrimp_sauting_rate
+    # 2. Determine the total time it takes for Emily to saute 90 shrimp
+    time_to_saute_90_shrimp = (90 / 30) * 10
 
-    total_time = time_to_peel + time_to_saut
+    # 3. Add the total time for peeling and sauteing to find the overall time it will take for Emily to peel and cook 90 shrimp
+    total_time = time_to_peel_90_shrimp + time_to_saute_90_shrimp
 
-    print(f"Target: {total_time}")
+    print("target :", total_time)
+
+solution()
 ```
-Explanation:
-
-1. We define the inputs as variables: Emilys shrimp peeling rate, Emilys shrimp sautéing rate, and the number of shrimp to be peeled and cooked.
-2. We calculate the time it takes Emily to peel the shrimp by dividing the number of shrimp by her peeling rate.
-3. We calculate the time it takes Emily to sauté the shrimp by dividing the number of shrimp by her sautéing rate.
-4. We add the time it takes to peel and sauté the shrimp to get the total time.
-5. We print the total time it will take Emily to peel and cook 90 shrimp.
-
-The output of the function will be:
-```
-Target: 45
-```
-This means that it will take Emily 45 minutes to peel and cook 90 shrimp.
 """

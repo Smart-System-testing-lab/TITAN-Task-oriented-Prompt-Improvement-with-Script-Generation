@@ -4,7 +4,7 @@ import subprocess
 import re
 fi = "gsmhardv2"
 version = 4
-OUTPUT_PATH = f'results/0/llama{fi}{version}0vfin1.jsonl'
+OUTPUT_PATH = f'results/0/gpt3{fi}{version}0vfin1.jsonl'
 # OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
 i = 0
 answers = []
@@ -18,6 +18,8 @@ with open(OUTPUT_PATH) as f:
         code = j["code"]
         target = j["target"]
         total += 1
+        if i == 685:
+            continue
         try:
             # pattern = re.compile(r"\"\"\"")
             # matches = list(pattern.finditer(code))[0]
@@ -38,7 +40,6 @@ with open(OUTPUT_PATH) as f:
                 # Run the command and capture the output
                 
                 output = subprocess.check_output("python3 3.py", shell=True, encoding='utf-8')
-                print(output)
                 label_hat = re.findall(r'\d+', output)[0]
                 if flag:
                     for d in j["target_scores"].keys():
@@ -54,10 +55,10 @@ with open(OUTPUT_PATH) as f:
                         count += 1
                     else:
                         print(j["i"], label, label_hat)
-                        if j["i"] == 4:
-                            print(j["back"])
+                        if j["i"] == 14:
+                            # print(j["back"])
                             print(j["code"])
-                            print(j["inputs"])
+                            # print(j["inputs"])
                 # Print the captured output
 
             except subprocess.CalledProcessError as e:
@@ -77,3 +78,4 @@ with open(OUTPUT_PATH) as f:
         
 print(count/ total)
 print(count)
+print(total)

@@ -1,60 +1,62 @@
 def solution():
-    # Number of guests at the wedding reception
-    n_guests = 100
+    # Calculate the total time spent driving and hiking
+    total_time = 6
 
-    # Number of cookies brought by each guest
-    n_cookies_per_guest = 2165855
+    # Determine the average speed at which they drove
+    driving_speed = 50
 
-    # Number of cookies given to the church next door
-    n_cookies_given_to_church = n_cookies_per_guest // 2
+    # Calculate half of the average speed they drove
+    half_driving_speed = driving_speed / 2
 
-    # Total number of cookies brought to the wedding
-    total_cookies = n_guests * n_cookies_per_guest
+    # Determine the average speed at which they hiked
+    hiking_speed = half_driving_speed - 5
 
-    # Ratio of cookies to people in the church next door
-    cookies_to_people_ratio = n_cookies_given_to_church / total_cookies
+    # Calculate the total time spent hiking
+    hiking_time = 1.5
 
-    # Number of people in the church next door
-    people_in_church = cookies_to_people_ratio * n_guests
+    # Use the formula distance = speed x time to calculate the distance they hiked
+    distance_hiked = hiking_speed * hiking_time
 
-    # Print the result
-    print(f"target : {people_in_church:.6f}")
+    # Calculate the total distance traveled
+    total_distance = total_time * driving_speed
+
+    # Calculate the distance to their vacation spot
+    distance_to_vacation_spot = total_distance - distance_hiked
+
+    print("target :", distance_to_vacation_spot)
 
 
 """
-                Sure, here's a Python function that solves the problem:
-```python
+                ```python
 def solution():
-    # Number of guests at the wedding reception
-    n_guests = 100
+    # Calculate the total time spent driving and hiking
+    total_time = 6
 
-    # Number of cookies brought by each guest
-    n_cookies_per_guest = 2165855
+    # Determine the average speed at which they drove
+    driving_speed = 50
 
-    # Number of cookies given to the church next door
-    n_cookies_given_to_church = n_cookies_per_guest // 2
+    # Calculate half of the average speed they drove
+    half_driving_speed = driving_speed / 2
 
-    # Total number of cookies brought to the wedding
-    total_cookies = n_guests * n_cookies_per_guest
+    # Determine the average speed at which they hiked
+    hiking_speed = half_driving_speed - 5
 
-    # Ratio of cookies to people in the church next door
-    cookies_to_people_ratio = n_cookies_given_to_church / total_cookies
+    # Calculate the total time spent hiking
+    hiking_time = 1.5
 
-    # Number of people in the church next door
-    people_in_church = cookies_to_people_ratio * n_guests
+    # Use the formula distance = speed x time to calculate the distance they hiked
+    distance_hiked = hiking_speed * hiking_time
 
-    # Print the result
-    print(f"target : {people_in_church:.6f}")
+    # Calculate the total distance traveled
+    total_distance = total_time * driving_speed
+
+    # Calculate the distance to their vacation spot
+    distance_to_vacation_spot = total_distance - distance_hiked
+
+    print("target :", distance_to_vacation_spot)
+
+solution()
 ```
-Here's how the function works:
-
-1. First, we define the inputs: `n_guests`, `n_cookies_per_guest`, and `n_cookies_given_to_church`.
-2. We calculate the total number of cookies brought to the wedding: `total_cookies = n_guests * n_cookies_per_guest`.
-3. We calculate the ratio of cookies to people in the church next door: `cookies_to_people_ratio = n_cookies_given_to_church / total_cookies`.
-4. We use the ratio to calculate the number of people in the church next door: `people_in_church = cookies_to_people_ratio * n_guests`.
-5. Finally, we print the result: `print(f"target : {people_in_church:.6f}")`.
-
-Note that we use the `f` string prefix to format the output as a decimal number with six significant figures.
 """
 
 solution()
