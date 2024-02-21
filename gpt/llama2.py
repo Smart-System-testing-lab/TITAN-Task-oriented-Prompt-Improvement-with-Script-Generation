@@ -1,5 +1,5 @@
-from openai import OpenAI
 
+import requests
 import sys, os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
@@ -10,22 +10,7 @@ from messages import *
 import os
 import re
 from time import sleep
-API_KEY = "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"
-client = OpenAI(api_key=API_KEY)
-def get_completion(prompt,tem = 0 , model="gpt-4-0125-preview"):
-
-    c=[
-            {'role': 'user', 'content': prompt}]
-    
-
-    response = client.chat.completions.create(model=model,
-    messages=c,
-    max_tokens=300,
-    temperature=tem)
-
-    return response.choices[0].message.content
-
-
+import replicate
 def extract_undefined_name(error_message):
     # Define the regex pattern to match the error message and capture the undefined name
     pattern = r"NameError: name '(.*?)' is not defined"
@@ -41,7 +26,28 @@ def extract_undefined_name(error_message):
     else:
         return False
 
+def get_completion_llama(question):
+#     api = replicate.Client(api_token="r8_DRAezN0aC3242iQPg8YCD1FAv8RasyV1PgtQD")
+#     output = replicate.run(
+#     "meta/llama-2-70b-chat:02e509c789964a7ea8736978a43525956ef40397be9033abf9fd2badfe68c9e3",
+#     input={
+#         "prompt": question
+#     }
+# )   
+#     print(output)
+#     return output
+  url = "https://www.llama2.ai/api"
+  prompt_changed = question.strip().replace('\n','\\n').replace("\"",'').replace("\'", "").replace("\t", "\\t")
+  print(prompt_changed)
+  payload ="{\"prompt\":\"[INST]Hello [/INST]\\n\",\"model\":\"meta/llama-2-70b-chat\",\"systemPrompt\":\"You are a helpful assistant.\",\"temperature\":0.1,\"maxTokens\":500,\"image\":null,\"audio\":null}"
+  payload = payload.replace("Hello", prompt_changed)
+  headers = {
+      'Content-Type': "text/plain"
+  }
 
+  response = requests.request("POST", url, headers=headers, data=payload)
+  print(response)
+  return response.text
     
 
 
@@ -53,17 +59,17 @@ def process_generation_to_code(gens: str):
 
     return gens
 def extract_data_llama(question, output):
-    path = "8.py"
+    path = "b.py"
     input_prompt = make_input_prompt(question)
-    inputs = get_completion(input_prompt)
+    inputs = get_completion_llama(input_prompt)
     sleep(2)
     p = make_cot_prompt(question)
 
     # print("^^^")
-    p = get_completion(p)
+    p = get_completion_llama(p)
 
     sleep(2)
-    code1 = get_completion(make_code_prompt(p, question, inputs, output))
+    code1 = get_completion_llama(make_code_prompt(p, question, inputs, output))
     sleep(2)
     code = process_generation_to_code(code1)
     print("Code generation is done ")

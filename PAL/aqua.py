@@ -5,22 +5,28 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 from gpt.gpt import get_completion
 from prompts import *
-from make_python_beta import extract_data
+from counting.make_python import extract_data
 from counting.view import view
 import json
+from tqdm import tqdm
+
+def create_reader_request_processed(example):
+    question = example["question"]
+    options = example["options"]
+
+    prompt = 'Find the closest options based on the question and prediction. you should return one of the options as result:\n'
+    prompt += f'\nQuestion: {question}\nOptions: {options}\n'
+    
+    return prompt
 
 def pal_example(path, tempreture):
     with open(path) as f:
         lines = f.read().split('\n')
     i = 0
-    all_data = []
-    results1 = []
-    results2 = []
+
     results4 = []
-    results3 = []
-    counts = []
+
     labels = []
-    is_oks = []
     question_list = []
     print("Started Reading JSON file which contains multiple JSON document")
     with open(path) as f:
@@ -30,10 +36,11 @@ def pal_example(path, tempreture):
     while i < 2000: 
         print(i)
         data = question_list[i]
-
-        q = data["input"]
-        answer = data["target"]
-        pr = q
+        prompt = create_reader_request_processed(data)
+        answer = data["correct"]
+        print(f"prompt is {prompt}")
+        print(f"answer is {answer}")
+        pr = prompt
         try:
             result4 = extract_data(pr, f"target: {answer}", tempreture, i)
         except Exception as e:
@@ -50,14 +57,14 @@ def pal_example(path, tempreture):
         print(f"{i} is done")
 
         i += 1
-        if i == 100 :
+        if i == 250 :
             break
     dict = {
         "labels": labels,
         "gpt_script": results4
     }
 
-    with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w') as fp:
+    with open(f'results/{int(tempreture*10)}/pal{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}2.json', 'w') as fp:
         json.dump(dict, fp)
-# pal_example("dataset/gsmhardv2.jsonl", 0)
-pal_example("dataset/asdiv.jsonl", 0)
+pal_example("dataset/aqua_test.jsonl", 0)
+# pal_example("dataset/asdiv.jsonl", 0)

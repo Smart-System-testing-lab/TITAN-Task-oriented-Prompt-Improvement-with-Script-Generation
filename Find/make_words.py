@@ -1,0 +1,41 @@
+
+
+import random
+import string
+word_list = []
+
+
+
+def most_unique_letter_with_condition( words,a, b):
+    batches = []
+    max_u = 0
+    max_u_w = ""
+    for word in words:
+        
+        new_word = word.lower()
+        new_word = str(word).replace(a, b)
+        
+        k = len(list(set(new_word)))
+        if k > max_u:
+            max_u = k
+            max_u_w = word
+    return max_u_w
+
+
+letters = string.ascii_letters
+
+for i in range(1000):
+    temp = []
+    for _ in range(3):
+        x = "".join(random.choices(letters,k=random.randint(4, 14)))
+        temp.append(x)
+    letters1 = list(set(list(temp[0])))
+    template = f"Given the assumption that the letter {letters1[0]} is equivalent to the letter {letters1[1]} regardless of case, determine which of the following words contains the greatest number of unique letters: {temp} "
+
+    ans = most_unique_letter_with_condition(temp, letters1[0], letters1[1])
+    
+    word_list.append(template + f"@{ans}\n")
+
+with open ("most_unique1.txt" , "w") as f:
+    for w in word_list:
+        f.write(w)

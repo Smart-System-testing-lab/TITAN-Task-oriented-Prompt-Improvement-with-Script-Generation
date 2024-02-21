@@ -1,2 +1,16 @@
 *.json
-*.txt
+*.csv
+PAL/dataset/aqua_test.jsonl
+PAL/results/date_understanding.jsonl
+PAL/results/0/csv/palaqua_test02.csv
+PAL/results/0/csv/palasdiv02.csv
+1.py
+2.py
+finqa.py
+gsm.py
+3.py
+4.py
+5.py
+*.jsonl
+*.csv
+*.json

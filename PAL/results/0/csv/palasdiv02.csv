@@ -3,124 +3,118 @@
 "
 1,15,"target: 15
 "
-2,16,
-3,6,"The average number of balloons per person is: 4.0
-The difference in the number of balloons between the two individuals is: 2
-Person 1 brought 62.5 % of the balloons to the park
-Person 2 brought 37.5 % of the balloons to the park
+2,16,"target: 16
 "
-4,14,"target: 14
+3,6,"target: 6
+"
+4,14,"target: 23
 "
 5,11,"target: 11
 "
 6,8,"target: 8
 "
-7,4,"The number of plums added to the basket is: 21
+7,4,"target: 4
 "
-8,18,"Target: 18
+8,18,"target: 18
 "
 9,11,"target: 11
 "
 10,24,"target: 24
 "
-11,19,"Target: 19
+11,19,"target: 19
 "
 12,45,"target: 45
 "
-13,0,"target: 8
+13,0,"target: 0
 "
-14,2,"target: 10
+14,2,"target: 2
 "
-15,8,"Target: 8
+15,8,"target: 8
 "
 16,7,"target: 7
 "
-17,3,"David has 6 apples.
+17,3,"target: 0
 "
-18,7,"Jake has 8 balls.
+18,7,"target: 7
 "
 19,12,"target: 12
 "
-20,6,"Scenario: 3 birds were sitting on a fence and 2 more birds joined them, making a total of 5 birds on the fence.
-Abstract aspects of the issue: ['social behavior', 'group dynamics', 'adaptation']
-Client's goal: To gain a deeper understanding of the underlying principles or concepts that can be applied to various situations
-Underlying principles or concepts: ['systems thinking', 'critical thinking', 'problem-solving']
+20,6,"target: 6
 "
 21,5,"target: 5
 "
 22,4,"target: 4
 "
-23,3,"target: 5
+23,3,"target: 3
 "
-24,1,
-25,2,"target: 2
+24,1,"target: The scenario symbolizes the delicate balance between companionship and individual needs within the natural flow of life's routines.
+"
+25,2,"target: The essence of sharing and competition in a community.
 "
 26,5,"target: 5
 "
-27,1,"target: 1
+27,1,"target: 1.
 "
-28,3,"target: 3
+28,3,"target: Adding a new member to a group symbolizes the beauty of growth and the dynamic nature of unity.
 "
-29,13,"target: 664
+29,13,"target: 13
 "
-30,45,"target: 1.75
+30,45,"target: 1.6
 "
-31,55,"target: 45
+31,55,"target: The muffin-baking activity embodies the essence of collaborative learning, showcasing how collective efforts in education can yield fruitful outcomes.
 "
-32,38,"Target: 20.44
+32,38,"target: 38
 "
-33,18,"Total number of marshmallows used by Mrs. Hilt in making 5 Rice Krispie Treats: 90
+33,18,"target: 18
 "
-34,12,"Mrs. Hilt's house received 7 inches more snow than Brecknock Elementary School.
+34,12,"target: 12
 "
-35,5,"Mrs. Hilt has 5 dollars left after spending on the toy truck and pencil case.
+35,5,"target: 5
 "
-36,15,
-37,12,"target: 12
+36,15,"target: 15
+"
+37,12,"target: The simple act of counting animal legs serves as a reflection on human tendencies to seek patterns, order, and meaning in the natural world.
 "
 38,6,"target: 6
 "
 39,7,"target: 7
 "
-40,12,"target: 7.7
+40,12,"target: 12
 "
 41,6,"target: 6
 "
-42,4,"Summary: Mrs. Hilt has bought a pencil for 10 cents out of her 100 dollars and now has 99.9 dollars left.
-Abstract: The problem highlights the importance of budgeting and making wise financial decisions. It also emphasizes the impact of small expenses on overall financial health.
-Goal: The goal is to understand the importance of managing finances and making informed decisions to ensure long-term financial stability.
-Lesson: The main lesson learned is that even small expenses can have a significant impact on overall financial health, and it is important to make informed decisions and manage finances wisely.
+42,4,"target: 4
 "
-43,6,"target: 20
+43,6,"target: 6
 "
-44,10,"The caramel apple costs 2.25 more than the ice cream cone.
+44,10,"target: 10
 "
 45,16,"target: 16
 "
-46,14,"Mrs. Hilt reads 2 books per day and read a total of 14 books in one week.
+46,14,"target: 14.
 "
-47,15,"target: 6
+47,15,"target: 15
 "
-48,18,
-49,11,"target: 13
+48,18,"target: 18
+"
+49,11,"target: 11
 "
 50,7,"target: 7
 "
-51,18,"target: 18
+51,18,"The Litter Patrol's efforts symbolize the collective responsibility and impact of community action in environmental preservation.
+target: 18
 "
-52,7,"Millie has 7 bracelets left after losing two of them.
+52,7,"The core concept revolves around understanding and quantifying the impact of loss.
 "
 53,7,"target: 7
 "
-54,7,"The result of subtracting 3 from 10 is: 7
+54,7,"target: Understanding the impact of events on group dynamics or population changes.
 "
-55,5,"target: 5
+55,5,"Target: The scenario of ducks in a pond symbolizes the inevitability and impact of change within systems or communities.
 "
-56,28,"target: 2
+56,28,"target: 28
 "
-57,22,"Roden went to a pet shop and bought some fish. The total number of fish he bought was 22.
-Roden bought 22 fish.
-target: 22
+57,22,"target: 34
 "
 58,38,"target: 38
 "
@@ -128,277 +122,281 @@ target: 22
 "
 60,62,"target: 62
 "
-61,46,
+61,46,"target: 46
+"
 62,113,"target: 113
 "
 63,616,"target: 616
 "
-64,700,"target: 700
+64,803,"target: 803
 "
-65,20,"target: 9
+65,700,"target: 700
 "
-66,33,"target: 33
+66,20,"target: 20
 "
-67,40,"The scenario involves dogs barking. After ten more dogs join in, the total number of dogs barking is 30.
-Target: 30
+67,35,"target: 35
 "
-68,43,"target: 43
+68,33,"target: 33
 "
-69,32,"target: 32
+69,40,"target: 40
 "
-70,60,"target: 60
+70,43,"target: 43
 "
-71,77,"target: 107
+71,32,"target: 32
 "
-72,19,
-73,20,"Molly is 21 years old now.
+72,60,"target: 60
 "
-74,37,"target: 37
+73,77,"target: 77
 "
-75,21,"Charles has $0.21000000000000002 in total.
+74,19,"target: 19
 "
-76,17,"target: 17
+75,20,"target: the passage of time and the universal experience of aging, represented through the annual addition of candles on a birthday cake.
 "
-77,37,"Target: 37
+76,37,"target: 37
 "
-78,24,"target: 24
+77,21,"target: 20
 "
-79,36,"target: 54
+78,17,"target: 17
 "
-80,22,"target: 22
+79,37,"target: 37
 "
-81,31,"target: 31
+80,24,"target: 24
 "
-82,69,"The sum of 23 and 46 is: 69
+81,36,"target: 36
 "
-83,6,"Mrs. Heine needs to buy 6 heart biscuits for her two dogs for Valentine's Day.
+82,22,"target: Understanding and converting between different units of measurement represents abstract growth or change.
 "
-84,12,
-85,79,"target: 79
+83,31,"To encapsulate the essence of generosity and the exponential growth of responsibility through the act of gifting, as illustrated by the increase in Mrs. Sheridan's cat collection.
 "
-86,31,"target: 31
+84,69,"target: 69
 "
-87,66,"Target: 42
+85,6,"target: 6
 "
-88,14,"target: 11
+86,12,"target: 12
 "
-89,9,
-90,6,"Target: 6
+87,79,"target: 79
 "
-91,23,"target: 23
+88,31,"target: 31
 "
-92,17,"target: 3
+89,66,"target: 66
 "
-93,18,"target: 18.8
+90,14,"target: 14
 "
-94,32,"The number of more cats needed is: 32
+91,9,"target: 9
 "
-95,22,"Target: 22
+92,6,"target: 6
 "
-96,42,"The story summary is: Mrs. Franklin had 58 Valentines and gave some to her students.
-Mrs. Franklin gave 24 Valentines to her students.
+93,23,"target: 23
 "
-97,50,"Target: 125
+94,17,"target: 17
 "
-98,13,"target: 13
+95,18,"target: 18
 "
-99,7,"Target: 7
+96,32,"target: 32
 "
-100,63,"The total number of children on the playground during recess is: 38
+97,22,"target: 22
 "
-101,278,"target: 271
+98,42,"target: 42
 "
-102,95,"target: 95
+99,50,"target: 50
 "
-103,26,"Target: 16
+100,13,"target: 13
 "
-104,26,"target: some
+101,7,"target: 7
 "
-105,44,"target: 44
+102,63,"target: 63
 "
-106,36,"target: 36
+103,278,"target: 278
 "
-107,57,"target: 57
+104,95,"target: 95
 "
-108,55,"target: 55
+105,26,"target: 26
 "
-109,244,
-110,152,"Carter has 42 cards.
+106,26,"target: 26
 "
-111,17,"target: 17
+107,44,"target: 44
 "
-112,53,
-113,23,"Target: 23
+108,36,"target: 36
 "
-114,19,"target: 36
+109,57,"target: 57
 "
-115,127,
-116,43,"target: 60
+110,55,"target: 55
 "
-117,275,"target: 12
+111,244,"target: 244
 "
-118,61,"Target: 61
+112,152,"target: 152
 "
-119,49,"target: 49
+113,17,"target: 17
 "
-120,38,"target: 38
+114,53,"target: 53
 "
-121,111,"Josh has 75 pencils left after giving some to Dorothy.
+115,23,"target: 23
 "
-122,28,"target: 42
+116,19,"target: 19
 "
-123,51,
-124,77,"Target: 60
+117,127,"target: 127
 "
-125,32,"target: 32
+118,43,"target: 43
 "
-126,29,"The difference between 42 and 13 is 29
+119,275,"target: 275
 "
-127,105,"target: 105
+120,61,"target: 61
 "
-128,62,"target: 62
+121,49,"target: 49
 "
-129,61,"Maria now has 61 pieces of gum.
+122,38,"target: 38
 "
-130,22,"target: 22
+123,111,"target: 111
 "
-131,23,"target: 23
+124,28,"target: 28
 "
-132,30,"Adolfo had to add 23 blocks to reach a total of sixty-five blocks.
+125,51,"target: 51
 "
-133,21,
-134,41,"target: 41
+126,77,"target: 77
 "
-135,9,"target: 16
+127,32,"target: 32
 "
-136,6,"Story Summary:  Megan has 19 seashells and wants to find more to add to her collection. She needs to find out how many more seashells she needs to have a total of 25 seashells.
-Megan needs to find 6 more seashells to have a total of 25 seashells in her collection.
+128,53,"target: 53
 "
-137,9,"target: 9
+129,29,"target: 29
 "
-138,48,"target: 48
+130,105,"target: 105
 "
-139,48,"target: 48
+131,62,"target: 62
 "
-140,198,"Target: 198
+132,61,"target: 61
 "
-141,61,"Mrs. Hilt needs 61 more rocks to complete the border.
+133,22,"target: 22
 "
-142,23,"The difference between 50 and 27 is: 23
+134,23,"target: 8
 "
-143,46,"Target: -14
+135,30,"target: 30
 "
-144,135,"Mrs. Hilt spent a total of 135 minutes shoveling snow on Saturday.
+136,21,"target: 21
 "
-145,300,"Mrs. Hilt paid 300.0 dollars for all of the hot dogs she bought.
+137,41,"target: 41
 "
-146,52,"Mrs. Hilt reads 52 books in one week.
+138,9,"target: 9
 "
-147,10,
-148,13,"Summary of the story: Mrs. Hilt saw 33 butterflies.
-Number of red butterflies:  13
+139,6,"target: 6
 "
-149,4,"target: 4
+140,9,"target: 9
 "
-150,18,"Target: 18
+141,48,"target: 48
 "
-151,80,"target: 96
+142,48,"target: 48
 "
-152,3,"target: 3.00
+143,198,"target: 198
 "
-153,24,"The main idea or theme of the problem is to calculate the total amount Mrs. Hilt paid for three pizzas.
-The total amount Mrs. Hilt paid is: 24
+144,61,"target: 61
 "
-154,21,"target: 94
+145,23,"target: 23
 "
-155,4,"target: 4
+146,46,"target: 46
 "
-156,21,"target: 21
+147,135,"target: 255
 "
-157,383,"Target: 383
+148,300,"target: 300
 "
-158,9,
-159,165,"The difference between John's and Kate's pennies is: 165
-John has 165 more pennies than Kate.
+149,52,"target: 52
 "
-160,10,"target: 10
+150,10,"target: 10
 "
-161,24,"target:  24
+151,13,"target: 13
 "
-162,24,"Jeff has 8.0 crayons.
+152,4,"target: 4
 "
-163,25,"target: 25
+153,18,"target: 18
 "
-164,48,
-165,20,"target: 20
+154,80,"target: 120
 "
-166,2,"Target: 2.0
+155,3,"target: 3.0
 "
-167,15,"target: 15
+156,24,"target: 24
 "
-168,149,"target: 149
+157,32,"target: 32
 "
-169,50,"Charlie has 33.333333333333336 snowballs.
+158,21,"target: 21
 "
-170,59,"target: 59
+159,4,"target: 4
 "
-171,66,"target: 66
+160,21,"target: 21
 "
-172,168,"target: 168
+161,383,"target: 383
 "
-173,65,"Adi will receive 65 cents in change after purchasing a pencil with a one-dollar bill.
+162,9,"target: 9
 "
-174,30,"The difference between the number of skittles Bryan has and the number of M&M's Ben has is: 30
+163,165,"target: 165
 "
-175,15,"target: 15
+164,10,"target: The question invites us to explore the limits of observation and assumptions in understanding our environment.
 "
-176,35,"Charlie and his father built a treehouse in their backyard and gathered 10 planks of wood each from the forest. They initially had 15 extra planks of wood in the house. They have a total of 35 pieces of wood.
-Target: 35
+165,24,"target: 24
 "
-177,95,"target: 150
+166,24,"target: 24
 "
-178,70,"Target: 70
+167,25,"target: 25
 "
-179,69,"target: 26
+168,48,"target: 48. The countdown weaves a tapestry of anticipation, binding the moments until familial hearts reunite.
 "
-180,30,"The completion of the treehouse led to a reward of freshly baked cookies, resulting in a total of 30 cookies eaten.
+169,20,"target: 20
 "
-181,55,"target: 55
+170,2,"target: 2.0
 "
-182,90,"target: 30
+171,15,"target: 15
 "
-183,45,"The total number of glasses of juice is: 45
+172,149,"target: 149
 "
-184,70,"Total utensils available for the party: 175
+173,50,"target: 50
 "
-185,38,"Almost everyone in Annie's class came to surprise her on her birthday.
-There are 38 people in Annie's class, including 15 girls, 20 boys, and 3 teachers.
-Therefore, there were 37 people who attended Annie's birthday party.
+174,59,"target: 59
 "
-186,50,"Summary of the story: It's Halloween in Chicago and five friends are out trick or treating. They go from house to house, collecting candy and having fun. As they walk, they notice that some houses are decorated more than others. They also see some people dressed up in scary costumes. Eventually, they make their way back home with their bags full of candy.
-Main idea behind the story: The story is about five friends enjoying Halloween and collecting candy while noticing the different ways people celebrate the holiday.
-Total number of candies collected by the five friends: 50
+175,66,"target: 66
 "
-187,30,"Target: A group of people checked out houses and collected candy. The total amount of candy collected was 75 and the average amount of candy per house was 15.0.
+176,168,"target: 168
 "
-188,45,"Summary of the core concept or overarching theme: The Friends is a piece of literature or media that explores the importance of friendship and the bonds that form between individuals.
-Total number of candies Sam received: 45
+177,65,"target: 65
 "
-189,50,"Bob got: 50.0
+178,30,"target: 30
 "
-190,155,"target: 155
+179,15,"The essence of the train's journey from departure to arrival symbolizes the universal journey of life, marking the passage of time and the transition from one phase to another.
 "
-191,110,"target: 130
+180,35,"target: 35
 "
-192,20,"Joe found eggs in the following locations:
-- Location 1: 12 eggs
-- Location 2: 8 eggs
-- Location 3: 5 eggs
-Joe found a total of 25 eggs.
+181,95,"target: 95
 "
-193,20,"target: 20
+182,70,"target: 70
 "
-194,30,"target: 30
+183,69,"target: 69
 "
-195,80,"target: 80
+184,30,"target: Family bonding and shared achievement are celebrated through the simple joy of eating cookies together after completing a treehouse.
+"
+185,55,"target: The essence of camaraderie, joy in celebration, and the value of thoughtful preparation underscore a narrative of a surprise birthday party.
+"
+186,90,"target: 90
+"
+187,45,"target: Annie's mother's contribution symbolizes the essence of communal support and familial nurturing in creating a memorable group experience.
+"
+188,70,"target: 70
+"
+189,38,"target: 38
+"
+190,50,"target: 50
+"
+191,30,"target: 30
+"
+192,45,"target: 132
+"
+193,50,"target: The essence of the scenario highlights the value of companionship and the joy found in sharing simple pleasures.
+"
+194,155,"target: 155
+"
+195,110,"target: 110
+"
+196,20,"target: 20
+"
+197,20,"target: 30
+"
+198,30,"target: 30
+"
+199,80,"target: 80
 "

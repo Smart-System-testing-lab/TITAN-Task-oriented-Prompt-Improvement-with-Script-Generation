@@ -19,11 +19,11 @@ def process_generation_to_code(gens: str):
 def extract_data(prompt, output, tem, i):
    
     print("hiI")
-    p = make_cot_prompt(prompt)
+    p = make_step_back_prompt_beta(prompt)
     print(p)
+    print("^^^")
     p = get_completion(p, tem, cot_message)
-    print("CoT is done ")
-    code = get_completion(prompt=make_code_prompt(p, output), tem=tem, m=code_message)
+    code = get_completion(prompt=make_code_beta(prompt, p, output), tem=tem, m=code_message)
     print("Code generation is done ")
     code = process_generation_to_code(code)
     code += '\n'
@@ -32,7 +32,7 @@ def extract_data(prompt, output, tem, i):
 
     print("code is here")
     save = [i, p, code ]
-    with open("cot.txt" , "a+") as f:
+    with open("cot-beta.txt" , "a+") as f:
         f.write(f"{save}\n")
 
     try:
