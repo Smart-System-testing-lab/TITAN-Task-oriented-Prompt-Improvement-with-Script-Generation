@@ -2,14 +2,14 @@ import tqdm
 import json
 import subprocess
 import re
-fi = "gsmhardv2"
+fi = "sents"
 version = 4
-OUTPUT_PATH = f'results/0/gpt3{fi}{version}0vfin1.jsonl'
+OUTPUT_PATH = f'results/0/gpt4{fi}{version}0vfin1.jsonl'
 # OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
 i = 0
 answers = []
 count = 0
-flag = False
+flag = True
 total = 0
 with open(OUTPUT_PATH) as f:
     for i, line in enumerate(f):
@@ -40,8 +40,8 @@ with open(OUTPUT_PATH) as f:
                 # Run the command and capture the output
                 
                 output = subprocess.check_output("python3 3.py", shell=True, encoding='utf-8')
-                label_hat = re.findall(r'\d+', output)[0]
-                if flag:
+                # label_hat = re.findall(r'\d+', output)[0]
+                if False:
                     for d in j["target_scores"].keys():
                         if j["target_scores"][d] == 1:
                             label = d
@@ -50,16 +50,20 @@ with open(OUTPUT_PATH) as f:
                     if d in output:
                         count += 1
                 else:
-                    if int(label_hat) == int(label):
-                        
-                        count += 1
+                    if flag:
+                        if label.strip() in output:
+                            count += 1
                     else:
-                        print(j["i"], label, label_hat)
-                        if j["i"] == 14:
-                            # print(j["back"])
-                            print(j["code"])
-                            # print(j["inputs"])
-                # Print the captured output
+                        if int(label_hat) == int(label):
+                            
+                            count += 1
+                        else:
+                            print(j["i"], label, label_hat)
+                            if j["i"] == 5:
+                                # print(j["back"])
+                                print(j["code"])
+                                # print(j["inputs"])
+                    # Print the captured output
 
             except subprocess.CalledProcessError as e:
                 # print(j["code"])
@@ -69,7 +73,7 @@ with open(OUTPUT_PATH) as f:
                 print(f"Error: {e}")
         
         except Exception as e:
-            print(j["code"])
+            # print(j["code"])
             print("wub ss", e)
         i += 1
         # if i > 80:

@@ -1,59 +1,35 @@
+def extract_and_concatenate(sentence):
+    # Split the sentence into words
+    words = sentence.split()
+    # Extract the first letter of each word and concatenate
+    first_letters = ''.join(word[0] for word in words)
+    return first_letters
+
 def solution():
-    # Calculate the total time spent driving and hiking
-    total_time = 6
-
-    # Determine the average speed at which they drove
-    driving_speed = 50
-
-    # Calculate half of the average speed they drove
-    half_driving_speed = driving_speed / 2
-
-    # Determine the average speed at which they hiked
-    hiking_speed = half_driving_speed - 5
-
-    # Calculate the total time spent hiking
-    hiking_time = 1.5
-
-    # Use the formula distance = speed x time to calculate the distance they hiked
-    distance_hiked = hiking_speed * hiking_time
-
-    # Calculate the total distance traveled
-    total_distance = total_time * driving_speed
-
-    # Calculate the distance to their vacation spot
-    distance_to_vacation_spot = total_distance - distance_hiked
-
-    print("target :", distance_to_vacation_spot)
+    # Example sentence
+    sentence = "Extract the first letter from each word in the following sentence then concatenate them to form and return the final word Words are separated from each other by spaces"
+    # Call the function with the example sentence
+    result = extract_and_concatenate(sentence)
+    # Print the result
+    print("target :", result)
 
 
 """
                 ```python
+def extract_and_concatenate(sentence):
+    # Split the sentence into words
+    words = sentence.split()
+    # Extract the first letter of each word and concatenate
+    first_letters = ''.join(word[0] for word in words)
+    return first_letters
+
 def solution():
-    # Calculate the total time spent driving and hiking
-    total_time = 6
-
-    # Determine the average speed at which they drove
-    driving_speed = 50
-
-    # Calculate half of the average speed they drove
-    half_driving_speed = driving_speed / 2
-
-    # Determine the average speed at which they hiked
-    hiking_speed = half_driving_speed - 5
-
-    # Calculate the total time spent hiking
-    hiking_time = 1.5
-
-    # Use the formula distance = speed x time to calculate the distance they hiked
-    distance_hiked = hiking_speed * hiking_time
-
-    # Calculate the total distance traveled
-    total_distance = total_time * driving_speed
-
-    # Calculate the distance to their vacation spot
-    distance_to_vacation_spot = total_distance - distance_hiked
-
-    print("target :", distance_to_vacation_spot)
+    # Example sentence
+    sentence = "Extract the first letter from each word in the following sentence then concatenate them to form and return the final word Words are separated from each other by spaces"
+    # Call the function with the example sentence
+    result = extract_and_concatenate(sentence)
+    # Print the result
+    print("target :", result)
 
 solution()
 ```

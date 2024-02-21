@@ -1,46 +1,42 @@
 def solution():
-    # Given words
-    words = ["TEsnE", "DHgtGwVRHH", "DTTCXtMMzcsRUg"]
+    words = ["csdIM", "cVUDJBfE", "TlToGg"]
+    max_unique_letters = 0
+    target_word = ""
 
-    # Step 1: Normalize the Data - Convert 'T', 't' to 'n' and 'N'
-    normalized_words = [word.replace("T", "n").replace("t", "n") for word in words]
+    for word in words:
+        # Normalize data: Convert to lowercase and replace 'd' with 's'
+        normalized_word = word.lower().replace("d", "s")
+        # Identify unique letters
+        unique_letters = set(normalized_word)
+        # Count unique letters
+        unique_count = len(unique_letters)
 
-    # Step 2: Convert to Uniform Case - Convert all to lowercase for simplicity
-    lowercase_words = [word.lower() for word in normalized_words]
+        if unique_count > max_unique_letters:
+            max_unique_letters = unique_count
+            target_word = word
 
-    # Step 3: Identify Unique Letters in Each Word and Count Them
-    unique_counts = [len(set(word)) for word in lowercase_words]
-
-    # Step 4: Determine the Word with the Greatest Number of Unique Letters
-    max_unique_count = max(unique_counts)
-    target_word_index = unique_counts.index(max_unique_count)
-    target_word = words[target_word_index]
-
-    # Print the result
     print(f"target : {target_word}")
 
 
 """
                 ```python
 def solution():
-    # Given words
-    words = ['TEsnE', 'DHgtGwVRHH', 'DTTCXtMMzcsRUg']
-    
-    # Step 1: Normalize the Data - Convert 'T', 't' to 'n' and 'N'
-    normalized_words = [word.replace('T', 'n').replace('t', 'n') for word in words]
-    
-    # Step 2: Convert to Uniform Case - Convert all to lowercase for simplicity
-    lowercase_words = [word.lower() for word in normalized_words]
-    
-    # Step 3: Identify Unique Letters in Each Word and Count Them
-    unique_counts = [len(set(word)) for word in lowercase_words]
-    
-    # Step 4: Determine the Word with the Greatest Number of Unique Letters
-    max_unique_count = max(unique_counts)
-    target_word_index = unique_counts.index(max_unique_count)
-    target_word = words[target_word_index]
-    
-    # Print the result
+    words = ['csdIM', 'cVUDJBfE', 'TlToGg']
+    max_unique_letters = 0
+    target_word = ""
+
+    for word in words:
+        # Normalize data: Convert to lowercase and replace 'd' with 's'
+        normalized_word = word.lower().replace('d', 's')
+        # Identify unique letters
+        unique_letters = set(normalized_word)
+        # Count unique letters
+        unique_count = len(unique_letters)
+
+        if unique_count > max_unique_letters:
+            max_unique_letters = unique_count
+            target_word = word
+
     print(f"target : {target_word}")
 
 solution()

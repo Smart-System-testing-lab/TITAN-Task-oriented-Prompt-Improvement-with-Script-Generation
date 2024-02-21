@@ -21,7 +21,7 @@ def save_dict_to_jsonl(file_path, data_dict):
 def pal_example(path, tempreture):
     with open(path) as f:
         lines = f.read().split('\n')
-    i = 0
+    i = 373
     all_data = []
     results1 = []
     results2 = []

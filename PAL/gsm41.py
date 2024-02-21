@@ -1,33 +1,35 @@
 def solution():
-    # Inputs
-    num_small_coupons = 8236895
-    num_big_coupons = 2 * num_small_coupons
-    cost_small_coupon = 0.05
-    cost_big_coupon = 0.15
+    # Mattison's height: 60 inches
+    mattison_height = 60
 
-    # Calculate total cost
-    total_cost = (num_small_coupons * cost_small_coupon) + (
-        num_big_coupons * cost_big_coupon
-    )
+    # Height of Mattison's two-story house: 7 times his height
+    two_story_height = mattison_height * 7
 
-    # Print the result
-    print("target :", total_cost)
+    # Height of the first floor ceiling: 3 times Mattison's height
+    first_floor_ceiling_height = mattison_height * 3
+
+    # Height of the roof from the second floor's floor: unknown
+    roof_height = two_story_height - first_floor_ceiling_height
+
+    print("target :", roof_height)
 
 
 """
                 ```python
 def solution():
-    # Inputs
-    num_small_coupons = 8236895
-    num_big_coupons = 2 * num_small_coupons
-    cost_small_coupon = 0.05
-    cost_big_coupon = 0.15
+    # Mattison's height: 60 inches
+    mattison_height = 60
 
-    # Calculate total cost
-    total_cost = (num_small_coupons * cost_small_coupon) + (num_big_coupons * cost_big_coupon)
+    # Height of Mattison's two-story house: 7 times his height
+    two_story_height = mattison_height * 7
 
-    # Print the result
-    print("target :", total_cost)
+    # Height of the first floor ceiling: 3 times Mattison's height
+    first_floor_ceiling_height = mattison_height * 3
+
+    # Height of the roof from the second floor's floor: unknown
+    roof_height = two_story_height - first_floor_ceiling_height
+
+    print("target :", roof_height)
 
 solution()
 ```

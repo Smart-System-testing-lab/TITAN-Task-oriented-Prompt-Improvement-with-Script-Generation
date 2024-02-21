@@ -1,28 +1,37 @@
-def calculate_total_payment(delivery_cost, tip_percentage):
-    tip_amount = delivery_cost * tip_percentage
-    total_payment = delivery_cost + tip_amount
-    return total_payment
-
-
 def solution():
-    delivery_cost = 3821
-    tip_percentage = 1 / 5  # Equivalent to 20%
-    total_payment = calculate_total_payment(delivery_cost, tip_percentage)
-    print(f"target : {total_payment}")
+    # Given data
+    daily_trips = 5085340
+    days_per_week = 5
+    cost_per_trip = 2.20
+    weekly_pass_cost = 20
+
+    # Calculate the total cost of bus trips without the pass
+    total_cost_without_pass = daily_trips * days_per_week * cost_per_trip
+
+    # Calculate the savings by buying a weekly bus pass
+    savings = total_cost_without_pass - weekly_pass_cost
+
+    # Print the result
+    print(f"target : {savings}")
 
 
 """
                 ```python
-def calculate_total_payment(delivery_cost, tip_percentage):
-    tip_amount = delivery_cost * tip_percentage
-    total_payment = delivery_cost + tip_amount
-    return total_payment
-
 def solution():
-    delivery_cost = 3821
-    tip_percentage = 1/5  # Equivalent to 20%
-    total_payment = calculate_total_payment(delivery_cost, tip_percentage)
-    print(f"target : {total_payment}")
+    # Given data
+    daily_trips = 5085340
+    days_per_week = 5
+    cost_per_trip = 2.20
+    weekly_pass_cost = 20
+    
+    # Calculate the total cost of bus trips without the pass
+    total_cost_without_pass = daily_trips * days_per_week * cost_per_trip
+    
+    # Calculate the savings by buying a weekly bus pass
+    savings = total_cost_without_pass - weekly_pass_cost
+    
+    # Print the result
+    print(f"target : {savings}")
 
 solution()
 ```

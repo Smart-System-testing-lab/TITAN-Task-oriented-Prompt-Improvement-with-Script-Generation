@@ -21,7 +21,7 @@ def save_dict_to_jsonl(file_path, data_dict):
 def pal_example(path, tempreture):
     with open(path) as f:
         lines = f.read().split('\n')
-    i = 0
+    i = 600
     all_data = []
     results1 = []
     results2 = []
@@ -33,7 +33,7 @@ def pal_example(path, tempreture):
     question_list = []
     version = 4
     template = ""
-    path1 = f'results/{int(tempreture*10)}/gpt4{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
+    path1 = f'results/{int(tempreture*10)}/gpt3{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
     print("Started Reading JSON file which contains multiple JSON document")
     with open(path) as f:
         # for jsonObj in f:
@@ -50,7 +50,7 @@ def pal_example(path, tempreture):
         print(data)
         d = data.split("@")
         pr = d[0]
-        # pr += "\nreturn '0' if there is no difference and '1' if there is difference.\n"
+        # pr += "\nreturn '0' if there is no difference and '1' if there is difference. for example if assume 'i' is equal to 'w', and the inputs are 'width' and 'iwdth', you should return '0'.\n"
         answer = d[1]
         try:
             result4, code, back, inputs = extract_data_llama(pr, answer)
@@ -85,4 +85,4 @@ def pal_example(path, tempreture):
     # with open(f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w') as fp:
     #     json.dump(dict, fp)
 # pal_example("dataset/gsmhardv2.jsonl", 0)
-pal_example("../sents.txt", 0)
+pal_example("../most_unique.txt", 0)
