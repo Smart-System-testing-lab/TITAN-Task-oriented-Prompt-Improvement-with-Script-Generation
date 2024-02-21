@@ -3,9 +3,9 @@ import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
-from gpt.gpt import get_completion
+from gpt.gpt import extract_data_llama
 from prompts import *
-from gpt.llama2 import extract_data_llama
+# from gpt.llama2 import extract_data_llama
 from counting.view import view
 import json
 from tqdm import tqdm
@@ -29,17 +29,18 @@ def create_reader_request_processed(example):
     return prompt
 
 def finqa_runner(path, tempreture):
-    path1 = f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}vfin1.jsonl'
+    path1 = f'results/{int(tempreture*10)}/gpt4{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}vfin1.jsonl'
     print("#$@2#$")
     i = 0
     print("Started Reading JSON file which contains multiple JSON document")
-    with open(path) as f:
-        finqa_dev = json.load(f)
-    for example in tqdm(finqa_dev):
+    examples = json.load(open(path))['examples']
+    task_prefix = json.load(open(path))['task_prefix']
+    pbar = tqdm(examples[0:], initial=0, total=len(examples))
+    for x in pbar:
+        question = task_prefix + x["input"]
+        answer = x["target"]
         print(i)
-        data = example
-        prompt = create_reader_request_processed(data)
-        answer = data["answer"]
+        prompt = question
         print(f"prompt is {prompt}")
         print(f"answer is {answer}")
         pr = prompt
@@ -64,11 +65,10 @@ def finqa_runner(path, tempreture):
         }
         
         save_dict_to_jsonl(path1, dict)
-        print("file generated")
         print(f"{i} is done")
 
         i += 1
         if i == 1000 :
             break
 print("HI")
-finqa_runner("dataset/finqa_test.json", 0)
+finqa_runner("dataset/penguins_in_a_table.json", 0)
