@@ -5,7 +5,7 @@ import math
 
 files = [file for file in os.listdir("results/0/csv") if file.endswith('.csv')]
 for file in files:
-    if "addsub02" in file:
+    if "gsm02" in file:
         f = file
         break
 df = pd.read_csv(f'results/0/csv/{f}')
