@@ -1,0 +1,1100 @@
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : I may struggle with geography, but I'm sure I'm somewhere around here.@7
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Although it wasn't a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I ate a sock because people on the Internet told me to.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : We will not allow you to bring your pet armadillo along.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : There's no reason a hula hoop can't also be a circus ring.@8
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Patricia found the meaning of life in a bowl of Cheerios.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The blinking lights of the antenna tower came into focus just as I heard a loud snap.@11
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She finally understood that grief was her love with no place for it to go.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The efficiency with which he paired the socks in the drawer was quite admirable.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She folded her handkerchief neatly.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : When he asked her favorite number, she answered without hesitation that it was diamonds.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Pantyhose and heels are an interesting choice of attire for the beach.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I used to practice weaving with spaghetti three hours a day but stopped because I didn't want to die alone.@12
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He ran out of money, so he had to stop playing poker.@4
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The underground bunker was filled with chips and candy.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : When he asked her favorite number, she answered without hesitation that it was diamonds.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He found his art never progressed when he literally used his sweat and tears.@8
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : She discovered van life is difficult with 2 cats and a dog.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She moved forward only because she trusted that the ending she now was going through must be followed by a new beginning.@12
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The bird had a belief that it was really a groundhog.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : A glittering gem is not enough.@2
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The ants enjoyed the barbecue more than the family.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there.@12
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It must be five o'clock somewhere.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Honestly, I didn't care much for the first season, so I didn't bother with the second.@10
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She saw the brake lights, but not in time.@3
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : If you don't like toenails, you probably shouldn't look at your feet.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He had a vague sense that trees gave birth to dinosaurs.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The estate agent quickly marked out his territory on the dance floor.@7
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : They did nothing as the raccoon attacked the lady’s bag of food.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I'm a great listener, really good with empathy vs sympathy and all that, but I hate people.@10
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Now I need to ponder my existence and ask myself if I'm truly real@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : They desperately needed another drummer since the current one only knew how to play bongos.@11
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He watched the dancing piglets with panda bear tummies in the swimming pool.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : They throw cabbage that turns your brain into emotional baggage.@10
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Homesickness became contagious in the young campers' cabin.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Pantyhose and heels are an interesting choice of attire for the beach.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He was willing to find the depths of the rabbit hole in order to be with her.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He found the end of the rainbow and was surprised at what he found there.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Even with the snow falling outside, she felt it appropriate to wear her bikini.@9
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He felt that dining on the bridge brought romance to his relationship with his cat.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : No matter how beautiful the sunset, it saddened her knowing she was one day older.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He spiked his hair green to support his iguana.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Love is not like pizza.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Nobody questions who built the pyramids in Mexico.@5
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The bees decided to have a mutiny against their queen.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : They say that dogs are man's best friend, but this cat was setting out to sabotage that theory.@11
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Pat ordered a ghost pepper pie.@3
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He learned the important lesson that a picnic at the beach on a windy day is a bad idea.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Poison ivy grew through the fence they said was impenetrable.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : They desperately needed another drummer since the current one only knew how to play bongos.@11
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Imagine his surprise when he discovered that the safe was full of pudding.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The waitress was not amused when he ordered green eggs and ham.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : If you spin around three times, you'll start to feel melancholy.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He was disappointed when he found the beach to be so sandy and the sun so sunny.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Mom didn’t understand why no one else wanted a hot tub full of jello.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The white water rafting trip was suddenly halted by the unexpected brick wall.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : You have no right to call yourself creative until you look at a trowel and think that it would make a great lockpick.@14
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The beauty of the African sunset disguised the danger lurking nearby.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Patricia loves the sound of nails strongly pressed against the chalkboard.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Flesh-colored yoga pants were far worse than even he feared.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : As you consider all the possible ways to improve yourself and the world, you notice John Travolta seems fairly unhappy.@12
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The clouds formed beautiful animals in the sky that eventually created a tornado to wreak havoc.@10
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Tomorrow will bring something new, so leave today as a memory.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I want more detailed information.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She learned that water bottles are no longer just to hold liquid, but they're also status symbols.@12
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The stranger officiates the meal.@3
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : All she wanted was the answer, but she had no idea how much she would hate it.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I became paranoid that the school of jellyfish was spying on me.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The mysterious diary records the voice.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It was getting dark, and we weren’t there yet.@4
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The green tea and avocado smoothie turned out exactly as would be expected.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The skeleton had skeletons of his own in the closet.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The Japanese yen for commerce is still well-known.@4
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : They desperately needed another drummer since the current one only knew how to play bongos.@11
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I'd rather be a bird than a fish.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She cried diamonds.@2
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Pat ordered a ghost pepper pie.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I've never seen a more beautiful brandy glass filled with wine.@10
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The water flowing down the river didn’t look that powerful from the car@9
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The best key lime pie is still up for debate.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Her hair was windswept as she rode in the black convertible.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Imagine his surprise when he discovered that the safe was full of pudding.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : As you consider all the possible ways to improve yourself and the world, you notice John Travolta seems fairly unhappy.@12
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I want more detailed information.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Always bring cinnamon buns on a deep-sea diving expedition.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I hear that Nancy is very pretty.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : While on the first date he accidentally hit his head on the beam.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The sign said there was road work ahead so he decided to speed up.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : When confronted with a rotary dial phone the teenager was perplexed.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She couldn't understand why nobody else could see that the sky is full of cotton candy.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I would have gotten the promotion, but my attendance wasn’t good enough.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She saw the brake lights, but not in time.@3
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : My uncle's favorite pastime was building cars out of noodles.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Everybody should read Chaucer to improve their everyday vocabulary.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The fish listened intently to what the frogs had to say.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She discovered van life is difficult with 2 cats and a dog.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : There's probably enough glass in my cupboard to build an undersea aquarium.@8
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Eating eggs on Thursday for choir practice was recommended.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I cheated while playing the darts tournament by using a longbow.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He watched the dancing piglets with panda bear tummies in the swimming pool.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The near-death experience brought new ideas to light.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I've never seen a more beautiful brandy glass filled with wine.@10
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It took me too long to realize that the ceiling hadn't been painted to look like the sky.@10
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The complicated school homework left the parents trying to help their kids quite confused.@11
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I covered my friend in baby oil.@3
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.@10
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : There were white out conditions in the town; subsequently, the roads were impassable.@9
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Last Friday I saw a spotted striped blue worm shake hands with a legless lizard.@11
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Sometimes you have to just give up and win by cheating.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She could hear him in the shower singing with a joy she hoped he'd retain after she delivered the news.@11
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It was obvious she was hot, sweaty, and tired.@3
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Today I bought a raincoat and wore it on a sunny day.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : There's an art to getting your way, and spitting olive pits across the table isn't it.@9
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She was the type of girl who wanted to live in a pink house.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I've always wanted to go to Tajikistan, but my cat would miss me.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Chocolate covered crickets were his favorite snack.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Love is not like pizza.@3
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : There are few things better in life than a slice of pie.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It's never comforting to know that your fate depends on something as unpredictable as the popping of corn.@12
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The father died during childbirth.@4
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : It's much more difficult to play tennis with a bowling ball than it is to bowl with a tennis ball.@14
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It was getting dark, and we weren’t there yet.@4
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Even with the snow falling outside, she felt it appropriate to wear her bikini.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The doll spun around in circles in hopes of coming alive.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isn’t so bad after all.@11
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The tree fell unexpectedly short.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The tortoise jumped into the lake with dreams of becoming a sea turtle.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : It isn't true that my mattress is made of cotton candy.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He wasn't bitter that she had moved on but from the radish.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He had a vague sense that trees gave birth to dinosaurs.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Today I bought a raincoat and wore it on a sunny day.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : You're good at English when you know the difference between a man eating chicken and a man-eating chicken.@11
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Grape jelly was leaking out the hole in the roof.@5
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : She was the type of girl that always burnt sugar to show she cared.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Too many prisons have become early coffins.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He learned the important lesson that a picnic at the beach on a windy day is a bad idea.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Going from child, to childish, to childlike is only a matter of time.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Choosing to do nothing is still a choice, after all.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Today is the day I'll finally know what brick tastes like.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Please wait outside of the house.@4
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I was very proud of my nickname throughout high school but today- I couldn’t be any different to what my nickname was.@11
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : I caught my squirrel rustling through my gym bag.@4
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The shooter says goodbye to his love.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He played the game as if his life depended on it and the truth was that it did.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Twin 4-month-olds slept in the shade of the palm tree while the mother tanned in the sun.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He invested some skill points in Charisma and Strength.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The teens wondered what was kept in the red shed on the far edge of the school grounds.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : In hopes of finding out the truth, he entered the one-room library.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He wondered if it could be called a beach if there was no sand.@6
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Nancy thought the best way to create a welcoming home was to line it with barbed wire.@10
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Yeah, I think it's a good environment for learning English.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The tour bus was packed with teenage girls heading toward their next adventure.@10
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I love eating toasted cheese and tuna sandwiches.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : We have never been to Asia, nor have we visited Africa.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She is never happy until she finds something to be unhappy about; then, she is overjoyed.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Everyone was curious about the large white blimp that appeared overnight.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Situps are a terrible way to end your day.@3
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Blue sounded too cold at the time and yet it seemed to work for gin.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Bill ran from the giraffe toward the dolphin.@5
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The child’s favorite Christmas gift was the large box her father’s lawnmower came in.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The efficiency with which he paired the socks in the drawer was quite admirable.@8
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She could hear him in the shower singing with a joy she hoped he'd retain after she delivered the news.@11
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He created a pig burger out of beef.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Combines are no longer just for farms.@4
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : A suit of armor provides excellent sun protection on hot days.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He had a wall full of masks so she could wear a different face every day.@8
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Choosing to do nothing is still a choice, after all.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I used to live in my neighbor's fishpond, but the aesthetic wasn't to my taste.@7
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : He turned in the research paper on Friday; otherwise, he would have not passed the class.@9
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : They say people remember important moments in their life well, yet no one even remembers their own birth.@12
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : I'm worried by the fact that my daughter looks to the local carpet seller as a role model.@10
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Someone I know recently combined Maple Syrup & buttered Popcorn thinking it would taste like caramel popcorn. It didn’t and they don’t recommend anyone else do it either.@21
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Jim liked driving around town with his hazard lights on.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : This is the last random sentence I will be writing and I am going to stop mid-sent@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It was obvious she was hot, sweaty, and tired.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : I've never seen a more beautiful brandy glass filled with wine.@10
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She had convinced her kids that any mushroom found on the ground would kill them if they touched it.@11
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Tomatoes make great weapons when water balloons aren’t available.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : She discovered van life is difficult with 2 cats and a dog.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : It isn't difficult to do a handstand if you just stand on your hands.@7
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She insisted that cleaning out your closet was the key to good driving.@7
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The bird had a belief that it was really a groundhog.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Barking dogs and screaming toddlers have the unique ability to turn friendly neighbors into cranky enemies.@13
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Barking dogs and screaming toddlers have the unique ability to turn friendly neighbors into cranky enemies.@13
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : That must be the tenth time I've been arrested for selling deep-fried cigars.@10
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Shingle color was not something the couple had ever talked about.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Please tell me you don't work in a morgue.@5
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : You have no right to call yourself creative until you look at a trowel and think that it would make a great lockpick.@14
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : It took him a month to finish the meal.@4
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The fence was confused about whether it was supposed to keep things in or keep things out.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : They decided to plant an orchard of cotton candy.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : She was only made the society president because she can whistle with her toes.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He didn't heed the warning and it had turned out surprisingly well.@6
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Be careful with that butter knife.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : All they could see was the blue water surrounding their sailboat.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The estate agent quickly marked out his territory on the dance floor.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He poured rocks in the dungeon of his mind.@4
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Little Red Riding Hood decided to wear orange today.@7
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Greetings from the real universe.@4
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : She wore green lipstick like a fashion icon.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : I don’t respect anybody who can’t tell the difference between Pepsi and Coke.@9
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : There were a lot of paintings of monkeys waving bamboo sticks in the gallery.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : His mind was blown that there was nothing in space except space itself.@9
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : It was obvious she was hot, sweaty, and tired.@3
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The body piercing didn't go exactly as he expected.@5
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Nancy decided to make the porta-potty her home.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : I'm not a party animal, but I do like animal parties.@5
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He decided water-skiing on a frozen lake wasn’t a good idea.@7
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : She couldn't understand why nobody else could see that the sky is full of cotton candy.@9
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : The rain pelted the windshield as the darkness engulfed us.@5
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : The small white buoys marked the location of hundreds of crab pots.@8
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : Jerry liked to look at paintings while eating garlic ice cream.@8
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Joyce enjoyed eating pancakes with ketchup.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : They say that dogs are man's best friend, but this cat was setting out to sabotage that theory.@11
+When disregarding words with less than four characters, and considering 'space' as the word separator, how many words are in the sentence? The input is : He was sitting in a trash can with high street class.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : The waitress was not amused when he ordered green eggs and ham.@6
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : Jason didn’t understand why his parents wouldn’t let him sell his little sister at the garage sale.@10
+Counting only words that are four letters or longer, with each word separated by a 'space', how many words are there in the sentence? The input is : He stomped on his fruit loops and thus became a cereal killer.@7
+Excluding words that have fewer than four letters, how many words, spaced apart by 'space', exist in this sentence? The input is : Of course, she loves her pink bunny slippers.@5
+How many numeric characters are found in "xL8P"?@1
+How many numeric characters are found in "4f5W2d0"?@4
+In "27C6", how many digits can be identified?@3
+What is the total number of digits present in "R14tO9o"?@3
+In "hDN1", how many digits can be identified?@1
+How many numeric characters are found in "4054i"?@4
+How many numeric characters are found in "vW9f"?@1
+In "24ni", how many digits can be identified?@2
+In "3JK0rK", how many digits can be identified?@2
+What is the total number of digits present in "95lg"?@2
+What is the total number of digits present in "apP9vO"?@1
+What is the total number of digits present in "45R8576"?@6
+In "3XnX", how many digits can be identified?@1
+What is the total number of digits present in "M8B6CJ03"?@4
+In "4DyTP", how many digits can be identified?@1
+In "nB1Q6P43", how many digits can be identified?@4
+What is the total number of digits present in "e7ZeTM"?@1
+How many numeric characters are found in "7889498f"?@7
+In "3877z589", how many digits can be identified?@7
+In "2N2e8Ly", how many digits can be identified?@3
+How many numeric characters are found in "u1L2OkB4"?@3
+What is the total number of digits present in "23NYS9"?@3
+What is the total number of digits present in "a45X"?@2
+In "eB9k", how many digits can be identified?@1
+In "riVxSM8", how many digits can be identified?@1
+In "BMzSD4", how many digits can be identified?@1
+How many numeric characters are found in "6rt0559"?@5
+What is the total number of digits present in "25G69"?@4
+How many numeric characters are found in "si38DX8"?@3
+In "fm7h", how many digits can be identified?@1
+What is the total number of digits present in "969L793"?@6
+What is the total number of digits present in "E806006"?@6
+What is the total number of digits present in "GDGxrBK8"?@1
+What is the total number of digits present in "3JLJN"?@1
+In "6EaHW", how many digits can be identified?@1
+How many numeric characters are found in "615S00"?@5
+What is the total number of digits present in "1w809"?@4
+What is the total number of digits present in "s8246Ucp"?@4
+How many numeric characters are found in "96v8"?@3
+In "6ulWW7", how many digits can be identified?@2
+What is the total number of digits present in "09B18787"?@7
+In "940981q5", how many digits can be identified?@7
+What is the total number of digits present in "00s306U"?@5
+How many numeric characters are found in "HM0yI"?@1
+How many numeric characters are found in "4i207"?@4
+In "7c0O7", how many digits can be identified?@3
+In "vTY8", how many digits can be identified?@1
+What is the total number of digits present in "GCm3"?@1
+In "0X6Q", how many digits can be identified?@2
+In "0JYL", how many digits can be identified?@1
+In "2274Qj7", how many digits can be identified?@5
+In "0VmOO3Sc", how many digits can be identified?@2
+How many numeric characters are found in "0RBUT5"?@2
+In "dFwg40UM", how many digits can be identified?@2
+In "h9YCs", how many digits can be identified?@1
+How many numeric characters are found in "96495Zw"?@5
+What is the total number of digits present in "YYMVc5Wo"?@1
+How many numeric characters are found in "K73kg"?@2
+How many numeric characters are found in "Se0W9N73"?@4
+What is the total number of digits present in "56X7q"?@3
+How many numeric characters are found in "7LoI3O"?@2
+In "fn95Tl", how many digits can be identified?@2
+What is the total number of digits present in "E7931k"?@4
+What is the total number of digits present in "730N0T"?@4
+What is the total number of digits present in "67278o"?@5
+In "0KN2Wk8i", how many digits can be identified?@3
+In "t0985", how many digits can be identified?@4
+In "1NKDHn7", how many digits can be identified?@2
+In "650p", how many digits can be identified?@3
+In "x2UX3n", how many digits can be identified?@2
+What is the total number of digits present in "4JK285S3"?@5
+In "K2USkbF9", how many digits can be identified?@2
+How many numeric characters are found in "5J113"?@4
+How many numeric characters are found in "pf6K"?@1
+How many numeric characters are found in "1UWF8Blc"?@2
+In "V0AV1", how many digits can be identified?@2
+What is the total number of digits present in "36cL83"?@4
+How many numeric characters are found in "y140l8"?@4
+In "K1H84", how many digits can be identified?@3
+In "44iK628N", how many digits can be identified?@5
+How many numeric characters are found in "26HgSfjM"?@2
+What is the total number of digits present in "OB5YhM"?@1
+How many numeric characters are found in "4OxZ2B"?@2
+What is the total number of digits present in "49a1Y788"?@6
+In "9XvM", how many digits can be identified?@1
+What is the total number of digits present in "4PCP71"?@3
+How many numeric characters are found in "2R9s328"?@5
+How many numeric characters are found in "mE170"?@3
+What is the total number of digits present in "69497H"?@5
+What is the total number of digits present in "2D92mt"?@3
+In "7P1iatEU", how many digits can be identified?@2
+What is the total number of digits present in "7iFc"?@1
+What is the total number of digits present in "18XJi"?@2
+How many numeric characters are found in "0Mc9Yr"?@2
+In "3UtF1c", how many digits can be identified?@2
+What is the total number of digits present in "3n15rE"?@3
+In "8k121S8", how many digits can be identified?@5
+What is the total number of digits present in "580f208"?@6
+What is the total number of digits present in "27hq79q"?@4
+How many numeric characters are found in "514P073"?@6
+What is the total number of digits present in "jqq5"?@1
+What is the total number of digits present in "OeN5382"?@4
+How many numeric characters are found in "Oj1lilf"?@1
+How many numeric characters are found in "b6gO0240"?@5
+How many numeric characters are found in "8S98lq"?@3
+How many numeric characters are found in "W4600"?@4
+What is the total number of digits present in "p63n1"?@3
+In "HQ9OQb", how many digits can be identified?@1
+What is the total number of digits present in "597MC"?@3
+What is the total number of digits present in "J9067e0"?@5
+In "I45QsolS", how many digits can be identified?@2
+How many numeric characters are found in "906m"?@3
+In "twLd7", how many digits can be identified?@1
+In "v7h8ym", how many digits can be identified?@2
+How many numeric characters are found in "JOK2"?@1
+In "m4V65qC", how many digits can be identified?@3
+In "Qbj4V", how many digits can be identified?@1
+In "92oFD5P4", how many digits can be identified?@4
+How many numeric characters are found in "237F32V4"?@6
+What is the total number of digits present in "9OIX"?@1
+How many numeric characters are found in "2C4a1"?@3
+What is the total number of digits present in "3h8F"?@2
+What is the total number of digits present in "l5RCpcNN"?@1
+What is the total number of digits present in "av57j3p1"?@4
+In "r71dY", how many digits can be identified?@2
+What is the total number of digits present in "w1W0Io9C"?@3
+How many numeric characters are found in "QnBYXHJ5"?@1
+How many numeric characters are found in "2zI7258"?@5
+How many numeric characters are found in "fHQB5N"?@1
+How many numeric characters are found in "K1Y9v5v"?@3
+How many numeric characters are found in "S1D6mZG5"?@3
+What is the total number of digits present in "GMM5"?@1
+In "Ph5MIi09", how many digits can be identified?@3
+In "tw469", how many digits can be identified?@3
+How many numeric characters are found in "8BfD"?@1
+What is the total number of digits present in "h2Q6cS"?@2
+How many numeric characters are found in "04Q886"?@5
+In "966O65", how many digits can be identified?@5
+How many numeric characters are found in "j7WR6SYT"?@2
+What is the total number of digits present in "5D03"?@3
+In "a90pS5i", how many digits can be identified?@3
+How many numeric characters are found in "99N4994"?@6
+In "H19X", how many digits can be identified?@2
+How many numeric characters are found in "zk6QPs"?@1
+How many numeric characters are found in "8oZpN"?@1
+In "6j02966a", how many digits can be identified?@6
+What is the total number of digits present in "t4R6"?@2
+In "fj8A72l5", how many digits can be identified?@4
+How many numeric characters are found in "a25v"?@2
+How many numeric characters are found in "DXSZsy8j"?@1
+In "4788k4", how many digits can be identified?@5
+What is the total number of digits present in "87Ex4"?@3
+What is the total number of digits present in "lG3gtPrJ"?@1
+What is the total number of digits present in "EC7DK"?@1
+How many numeric characters are found in "t48q2q7"?@4
+What is the total number of digits present in "2VSj86e6"?@4
+What is the total number of digits present in "t8f7c0Ig"?@3
+In "482Z4", how many digits can be identified?@4
+What is the total number of digits present in "M515"?@3
+How many numeric characters are found in "DcT30A6V"?@3
+In "10020G61", how many digits can be identified?@7
+How many numeric characters are found in "L64K"?@2
+How many numeric characters are found in "d5819"?@4
+How many numeric characters are found in "fC6N4d3"?@3
+In "5l7D", how many digits can be identified?@2
+How many numeric characters are found in "rU4GKbn"?@1
+What is the total number of digits present in "5uCy46"?@3
+What is the total number of digits present in "3u15"?@3
+In "eX0C", how many digits can be identified?@1
+How many numeric characters are found in "X40K8g"?@3
+How many numeric characters are found in "BhJ1"?@1
+What is the total number of digits present in "v3y7"?@2
+What is the total number of digits present in "106k"?@3
+In "08MVg213", how many digits can be identified?@5
+What is the total number of digits present in "3e683"?@4
+How many numeric characters are found in "08XVc"?@2
+In "8VKwYS", how many digits can be identified?@1
+How many numeric characters are found in "M85S88NX"?@4
+What is the total number of digits present in "qG852"?@3
+What is the total number of digits present in "4nDDMc"?@1
+In "5Q005", how many digits can be identified?@4
+What is the total number of digits present in "3e7b9"?@3
+How many numeric characters are found in "3NK2"?@2
+How many numeric characters are found in "S271jAd"?@3
+In "B4Gdj7", how many digits can be identified?@2
+What is the total number of digits present in "zw5rehlw"?@1
+How many numeric characters are found in "cTwKr0wI"?@1
+What is the total number of digits present in "Fh0v1"?@2
+What is the total number of digits present in "7yy2Tf"?@2
+What is the total number of digits present in "4A84"?@3
+What is the total number of digits present in "Ccjih6ei"?@1
+What is the total number of digits present in "58201B"?@5
+In "9Xq28R", how many digits can be identified?@3
+What is the total number of digits present in "0S5ABL"?@2
+In "k636", how many digits can be identified?@3
+What is the total number of digits present in "OO60"?@2
+What is the total number of digits present in "K388"?@3
+How many numeric characters are found in "Zb30hoMX"?@2
+What is the total number of digits present in "923RyGZ"?@3
+What is the total number of digits present in "X5H4X1W4"?@4
+How many numeric characters are found in "g311U0Z"?@4
+In "0Od4", how many digits can be identified?@2
+In "n30e", how many digits can be identified?@2
+In "r8u6TG", how many digits can be identified?@2
+In "P6V704", how many digits can be identified?@4
+In "n91J838", how many digits can be identified?@5
+How many numeric characters are found in "P1O4h0Zi"?@3
+What is the total number of digits present in "9owfCjG9"?@2
+In "54kX3", how many digits can be identified?@3
+In "27kw90", how many digits can be identified?@4
+In "QX031h6", how many digits can be identified?@4
+How many numeric characters are found in "b9bd"?@1
+What is the total number of digits present in "Bd5MYbH"?@1
+How many numeric characters are found in "R17Q2A7c"?@4
+In "96O8oMg", how many digits can be identified?@3
+What is the total number of digits present in "x0357"?@4
+How many numeric characters are found in "181e"?@3
+In "66EE", how many digits can be identified?@2
+What is the total number of digits present in "Bivvu35"?@2
+What is the total number of digits present in "0sUgt"?@1
+What is the count of "k" in "ZKZnnMZn" when ignoring uppercase letters?@0
+What is the count of "k" in "KKkPPIPKK" when ignoring uppercase letters?@1
+Excluding uppercase letters, what is the total number of "e" characters in "LeeeL"?@3
+Excluding uppercase letters, what is the total number of "w" characters in "dzWwzwSwwwd"?@5
+Excluding uppercase letters, what is the total number of "g" characters in "BGggpUpGpbG"?@2
+Excluding uppercase letters, what is the total number of "a" characters in "AAaEAAaa"?@3
+Excluding uppercase letters, what is the total number of "v" characters in "vvQvQqv"?@4
+Excluding uppercase letters, what is the total number of "g" characters in "BBggsgggGkVV"?@5
+Counting only lowercase, how many "g" are present in "UUR" without including uppercase letters?@0
+Without considering uppercase letters, how many instances of "x" exist in "HLxCmxjxC"?@3
+Excluding uppercase letters, what is the total number of "a" characters in "GAlaGAG"?@1
+Counting only lowercase, how many "z" are present in "zJylJlZJJz" without including uppercase letters?@2
+What is the count of "g" in "dUggg" when ignoring uppercase letters?@3
+Without considering uppercase letters, how many instances of "m" exist in "dmDDdM"?@1
+Without considering uppercase letters, how many instances of "k" exist in "tAllKlkkKt"?@2
+Excluding uppercase letters, what is the total number of "w" characters in "twwWwwXXXZtWw"?@5
+Counting only lowercase, how many "s" are present in "kssOssEOs" without including uppercase letters?@5
+Excluding uppercase letters, what is the total number of "d" characters in "dddDddDE"?@5
+Excluding uppercase letters, what is the total number of "u" characters in "SooUUuuRiu"?@3
+Without considering uppercase letters, how many instances of "z" exist in "zZZqZzZZ"?@2
+Excluding uppercase letters, what is the total number of "y" characters in "yOyyyU"?@4
+What is the count of "q" in "qyEyQqqQJQq" when ignoring uppercase letters?@4
+Excluding uppercase letters, what is the total number of "p" characters in "pbpppbpb"?@5
+Excluding uppercase letters, what is the total number of "x" characters in "BTxT"?@1
+Excluding uppercase letters, what is the total number of "x" characters in "QjUxZzxzzx"?@3
+Without considering uppercase letters, how many instances of "c" exist in "ccccccLC"?@6
+Excluding uppercase letters, what is the total number of "u" characters in "uUDuuuU"?@4
+Excluding uppercase letters, what is the total number of "s" characters in "bbmmbSbmm"?@0
+Counting only lowercase, how many "e" are present in "LMeELeEe" without including uppercase letters?@3
+Without considering uppercase letters, how many instances of "t" exist in "xttKxKtt"?@4
+Excluding uppercase letters, what is the total number of "b" characters in "YwgwsVbbV"?@2
+Without considering uppercase letters, how many instances of "t" exist in "vTTTHtttT"?@3
+Without considering uppercase letters, how many instances of "a" exist in "AAAaMAAAA"?@1
+Counting only lowercase, how many "m" are present in "MjmdMjk" without including uppercase letters?@1
+Counting only lowercase, how many "q" are present in "qqMPqM" without including uppercase letters?@3
+Counting only lowercase, how many "u" are present in "nTkTucu" without including uppercase letters?@2
+What is the count of "j" in "JJYMJYYJj" when ignoring uppercase letters?@1
+Counting only lowercase, how many "w" are present in "pNppNwwWRp" without including uppercase letters?@2
+Without considering uppercase letters, how many instances of "h" exist in "xUhhAxiA"?@2
+Counting only lowercase, how many "i" are present in "itDiUirii" without including uppercase letters?@5
+Without considering uppercase letters, how many instances of "u" exist in "uUuuuuuuy"?@7
+Counting only lowercase, how many "l" are present in "rddYdrlLvl" without including uppercase letters?@2
+Excluding uppercase letters, what is the total number of "u" characters in "zuu"?@2
+Excluding uppercase letters, what is the total number of "e" characters in "eUueAAeluU"?@3
+Excluding uppercase letters, what is the total number of "m" characters in "mMmMMmsaBAs"?@3
+What is the count of "x" in "xxxxx" when ignoring uppercase letters?@5
+Excluding uppercase letters, what is the total number of "z" characters in "Pzzzzz"?@5
+What is the count of "d" in "EDddD" when ignoring uppercase letters?@2
+What is the count of "b" in "bBbbBB" when ignoring uppercase letters?@3
+Excluding uppercase letters, what is the total number of "l" characters in "Bplll"?@3
+Excluding uppercase letters, what is the total number of "s" characters in "SssMMssSSJM"?@4
+What is the count of "e" in "EIEEvEEeeEe" when ignoring uppercase letters?@3
+Without considering uppercase letters, how many instances of "i" exist in "HiHDiDkzd"?@2
+What is the count of "k" in "KKOKgKK" when ignoring uppercase letters?@0
+Excluding uppercase letters, what is the total number of "b" characters in "liblibyb"?@3
+What is the count of "p" in "qccPppPp" when ignoring uppercase letters?@3
+Excluding uppercase letters, what is the total number of "k" characters in "FKbMbbFbMKx"?@0
+Excluding uppercase letters, what is the total number of "g" characters in "GHTgGTGH"?@1
+Excluding uppercase letters, what is the total number of "c" characters in "ZcZZcZ"?@2
+What is the count of "t" in "TTTdtZbttfZ" when ignoring uppercase letters?@3
+Without considering uppercase letters, how many instances of "z" exist in "zzZJiziz"?@4
+What is the count of "x" in "XXZzxfVxBXRXx" when ignoring uppercase letters?@3
+Without considering uppercase letters, how many instances of "i" exist in "FIFi"?@1
+Counting only lowercase, how many "m" are present in "gmmpmMMMmgBmm" without including uppercase letters?@6
+Counting only lowercase, how many "h" are present in "hhhhb" without including uppercase letters?@4
+Without considering uppercase letters, how many instances of "n" exist in "NkNnNnN"?@2
+Excluding uppercase letters, what is the total number of "f" characters in "fFffhIFII"?@3
+What is the count of "i" in "ikiii" when ignoring uppercase letters?@4
+Counting only lowercase, how many "y" are present in "YYkiyybbyrbYr" without including uppercase letters?@3
+Counting only lowercase, how many "h" are present in "hhHhsshb" without including uppercase letters?@4
+What is the count of "e" in "ueuue" when ignoring uppercase letters?@2
+Without considering uppercase letters, how many instances of "n" exist in "nNNPNNK"?@1
+What is the count of "m" in "OhooEmdB" when ignoring uppercase letters?@1
+Without considering uppercase letters, how many instances of "a" exist in "ANASGbMMAG"?@0
+Excluding uppercase letters, what is the total number of "p" characters in "ppDpPppPPDiP"?@5
+Without considering uppercase letters, how many instances of "y" exist in "ylyyyYYYFY"?@4
+Counting only lowercase, how many "t" are present in "aktTTtHtk" without including uppercase letters?@3
+What is the count of "i" in "TzIuuiHIHiu" when ignoring uppercase letters?@2
+Excluding uppercase letters, what is the total number of "x" characters in "xxxXBXXX"?@3
+What is the count of "o" in "eoRcOoTTcOTnT" when ignoring uppercase letters?@2
+Without considering uppercase letters, how many instances of "u" exist in "QuuuuhhEQ"?@4
+Counting only lowercase, how many "b" are present in "BBBxBxB" without including uppercase letters?@0
+Without considering uppercase letters, how many instances of "u" exist in "uyUyu"?@2
+Excluding uppercase letters, what is the total number of "i" characters in "IliitiIIit"?@4
+Without considering uppercase letters, how many instances of "b" exist in "RBbBbBbbbmv"?@5
+Excluding uppercase letters, what is the total number of "r" characters in "rRRRrtJ"?@2
+Excluding uppercase letters, what is the total number of "n" characters in "nIqNPNqnqpqNI"?@2
+Excluding uppercase letters, what is the total number of "w" characters in "KuYuuwcKwY"?@2
+Counting only lowercase, how many "j" are present in "jjjJjjjpnb" without including uppercase letters?@6
+Counting only lowercase, how many "j" are present in "LjXllppJ" without including uppercase letters?@1
+What is the count of "d" in "DxbDdDdD" when ignoring uppercase letters?@2
+Without considering uppercase letters, how many instances of "b" exist in "bbbbV"?@4
+Excluding uppercase letters, what is the total number of "i" characters in "vyiIIiIvdKnII"?@2
+What is the count of "p" in "UUpUPU" when ignoring uppercase letters?@1
+Without considering uppercase letters, how many instances of "o" exist in "MMooJM"?@2
+Counting only lowercase, how many "z" are present in "zzqzqzqZz" without including uppercase letters?@5
+Excluding uppercase letters, what is the total number of "z" characters in "zsGzzB"?@3
+Excluding uppercase letters, what is the total number of "i" characters in "iWiiLLUoU"?@3
+What is the count of "a" in "lalavel" when ignoring uppercase letters?@2
+Counting only lowercase, how many "f" are present in "fUUfOfFFiF" without including uppercase letters?@3
+Counting only lowercase, how many "e" are present in "eEettE" without including uppercase letters?@2
+What is the count of "e" in "seIsEsYsEWE" when ignoring uppercase letters?@1
+Without considering uppercase letters, how many instances of "e" exist in "eeeeeehhE"?@6
+Without considering uppercase letters, how many instances of "d" exist in "ddddM"?@4
+Counting only lowercase, how many "i" are present in "KIOIIi" without including uppercase letters?@1
+What is the count of "d" in "GCddXNNGGdXG" when ignoring uppercase letters?@3
+What is the count of "y" in "lyyyYyyRR" when ignoring uppercase letters?@5
+Excluding uppercase letters, what is the total number of "i" characters in "JQQiRiI"?@2
+What is the count of "t" in "ttttht" when ignoring uppercase letters?@5
+Excluding uppercase letters, what is the total number of "l" characters in "QXRalllXLaLS"?@3
+Without considering uppercase letters, how many instances of "p" exist in "pJIpIDPpPP"?@3
+Excluding uppercase letters, what is the total number of "q" characters in "qqqNqqq"?@6
+Without considering uppercase letters, how many instances of "g" exist in "gTJGT"?@1
+Without considering uppercase letters, how many instances of "w" exist in "hzDmmD"?@0
+Excluding uppercase letters, what is the total number of "o" characters in "doCCWdodqO"?@2
+Without considering uppercase letters, how many instances of "o" exist in "EsEOs"?@0
+Excluding uppercase letters, what is the total number of "h" characters in "SHHHHHrtH"?@0
+Counting only lowercase, how many "d" are present in "UDDUUD" without including uppercase letters?@0
+Counting only lowercase, how many "o" are present in "hOOookAKDoOoOO" without including uppercase letters?@4
+Without considering uppercase letters, how many instances of "h" exist in "BhhdBhr"?@3
+Counting only lowercase, how many "a" are present in "AAAWoAZoRZ" without including uppercase letters?@0
+What is the count of "t" in "jtttjSkjGt" when ignoring uppercase letters?@4
+Excluding uppercase letters, what is the total number of "x" characters in "xeRxeVXXd"?@2
+Excluding uppercase letters, what is the total number of "n" characters in "NgnnntNgNN"?@3
+Without considering uppercase letters, how many instances of "u" exist in "uuuIIugu"?@5
+Excluding uppercase letters, what is the total number of "c" characters in "YcssccoVou"?@3
+Counting only lowercase, how many "j" are present in "WjhCjjjjZjjh" without including uppercase letters?@7
+What is the count of "a" in "JRARnAJV" when ignoring uppercase letters?@0
+Excluding uppercase letters, what is the total number of "s" characters in "SwSSwUoSss"?@2
+What is the count of "d" in "kkbbL" when ignoring uppercase letters?@0
+Counting only lowercase, how many "u" are present in "uquuru" without including uppercase letters?@4
+Without considering uppercase letters, how many instances of "f" exist in "fOFXUOFffLFSX"?@3
+Counting only lowercase, how many "q" are present in "qQQqqQQQj" without including uppercase letters?@3
+Counting only lowercase, how many "q" are present in "qqjqIqj" without including uppercase letters?@4
+Counting only lowercase, how many "j" are present in "jjjJjjJ" without including uppercase letters?@5
+Excluding uppercase letters, what is the total number of "c" characters in "zzAGCCECGE"?@0
+Excluding uppercase letters, what is the total number of "p" characters in "VJSpVfbSppv"?@3
+Excluding uppercase letters, what is the total number of "f" characters in "FjPFFFFF"?@0
+Without considering uppercase letters, how many instances of "x" exist in "xoxJxJJx"?@4
+Without considering uppercase letters, how many instances of "z" exist in "ZjZPPPXP"?@0
+Without considering uppercase letters, how many instances of "y" exist in "fffIeiYLwY"?@0
+Counting only lowercase, how many "a" are present in "aAyAaaasoaAs" without including uppercase letters?@5
+Excluding uppercase letters, what is the total number of "c" characters in "ccIcccCc"?@6
+Counting only lowercase, how many "z" are present in "zzneppzVze" without including uppercase letters?@4
+Without considering uppercase letters, how many instances of "y" exist in "nnnpnnpynyyY"?@3
+Counting only lowercase, how many "w" are present in "www" without including uppercase letters?@3
+Counting only lowercase, how many "m" are present in "kMvmMmmHMHMMW" without including uppercase letters?@3
+Without considering uppercase letters, how many instances of "t" exist in "OttTOT"?@2
+Counting only lowercase, how many "k" are present in "KkKkkkkk" without including uppercase letters?@6
+Without considering uppercase letters, how many instances of "s" exist in "sBSBisaBiS"?@2
+What is the count of "s" in "ZZsS" when ignoring uppercase letters?@1
+Counting only lowercase, how many "u" are present in "UUUUUUT" without including uppercase letters?@0
+What is the count of "a" in "AMQAARmAQQa" when ignoring uppercase letters?@1
+Without considering uppercase letters, how many instances of "t" exist in "bFqqttqqFZtt"?@4
+Without considering uppercase letters, how many instances of "q" exist in "qqIqqIqqq"?@7
+Without considering uppercase letters, how many instances of "h" exist in "HahhhVhhDDtss"?@5
+Without considering uppercase letters, how many instances of "i" exist in "IiIIWiCiI"?@3
+Excluding uppercase letters, what is the total number of "w" characters in "ShwhWS"?@1
+Without considering uppercase letters, how many instances of "d" exist in "ddmbdddB"?@5
+What is the count of "m" in "BIRtaRcdt" when ignoring uppercase letters?@0
+Without considering uppercase letters, how many instances of "z" exist in "ZZihzzhiiCZCZB"?@2
+Excluding uppercase letters, what is the total number of "o" characters in "vXoXVXV"?@1
+What is the count of "i" in "naiWWzbb" when ignoring uppercase letters?@1
+Without considering uppercase letters, how many instances of "t" exist in "TCtAzTtzCt"?@3
+What is the count of "l" in "IlNuvxv" when ignoring uppercase letters?@1
+Without considering uppercase letters, how many instances of "r" exist in "wHrpRrRrnrw"?@4
+Counting only lowercase, how many "o" are present in "XFXXMooXo" without including uppercase letters?@3
+Without considering uppercase letters, how many instances of "t" exist in "tPTtPmtT"?@3
+Excluding uppercase letters, what is the total number of "j" characters in "pnjijjjnj"?@5
+Without considering uppercase letters, how many instances of "d" exist in "ddEd"?@3
+Excluding uppercase letters, what is the total number of "e" characters in "ttatee"?@2
+What is the count of "g" in "tgtgtQOttQG" when ignoring uppercase letters?@2
+Excluding uppercase letters, what is the total number of "u" characters in "bUUUub"?@1
+Without considering uppercase letters, how many instances of "r" exist in "rrxrrrx"?@5
+Excluding uppercase letters, what is the total number of "c" characters in "LLcKULU"?@1
+Excluding uppercase letters, what is the total number of "n" characters in "jvGnjSxnDxNnn"?@4
+What is the count of "n" in "PMNNvPNzMPNMS" when ignoring uppercase letters?@0
+Counting only lowercase, how many "q" are present in "CZQZQqrQr" without including uppercase letters?@1
+Counting only lowercase, how many "h" are present in "hddHhhEHo" without including uppercase letters?@3
+Counting only lowercase, how many "a" are present in "xxaananvlan" without including uppercase letters?@4
+Without considering uppercase letters, how many instances of "r" exist in "YcYrOrL"?@2
+Without considering uppercase letters, how many instances of "e" exist in "wrerprwe"?@2
+What is the count of "l" in "oLlkklo" when ignoring uppercase letters?@2
+Excluding uppercase letters, what is the total number of "d" characters in "DgygDd"?@1
+Without considering uppercase letters, how many instances of "c" exist in "CfrrccCCWcpCC"?@3
+Counting only lowercase, how many "k" are present in "zzkBKkK" without including uppercase letters?@2
+Counting only lowercase, how many "w" are present in "mSwwVVmw" without including uppercase letters?@3
+What is the count of "y" in "yYCNCjycyNyy" when ignoring uppercase letters?@5
+What is the count of "q" in "aJQXQJQJa" when ignoring uppercase letters?@0
+What is the count of "j" in "jPPJSJjPSjjJj" when ignoring uppercase letters?@5
+Without considering uppercase letters, how many instances of "a" exist in "aaaapaa"?@6
+What is the count of "a" in "ovAAAooAvA" when ignoring uppercase letters?@0
+What is the count of "o" in "loOOooooOoOo" when ignoring uppercase letters?@7
+What is the count of "v" in "nGvvvvn" when ignoring uppercase letters?@4
+What is the count of "d" in "nddMOdddh" when ignoring uppercase letters?@5
+Counting only lowercase, how many "j" are present in "jmjTlQjQj" without including uppercase letters?@4
+Counting only lowercase, how many "t" are present in "gtWTgTKGtgTTt" without including uppercase letters?@3
+Counting only lowercase, how many "y" are present in "YYpbjYYtWp" without including uppercase letters?@0
+Excluding uppercase letters, what is the total number of "x" characters in "ixwxxxxxi"?@6
+Counting only lowercase, how many "s" are present in "SsSSsSkZPSmZkm" without including uppercase letters?@2
+Counting only lowercase, how many "j" are present in "IJzJzJzAJjJ" without including uppercase letters?@1
+Counting only lowercase, how many "m" are present in "Fmjkj" without including uppercase letters?@1
+Excluding uppercase letters, what is the total number of "z" characters in "ZszzzzJJiZJPP"?@4
+Counting only lowercase, how many "h" are present in "HpHpphCMHH" without including uppercase letters?@1
+Without considering uppercase letters, how many instances of "b" exist in "BMbDbg"?@2
+What is the count of "m" in "MMeMMeMmaP" when ignoring uppercase letters?@1
+Counting only lowercase, how many "l" are present in "llalLl" without including uppercase letters?@4
+What is the count of "l" in "lKlLaHLaala" when ignoring uppercase letters?@3
+Counting only lowercase, how many "r" are present in "PCrCrBBB" without including uppercase letters?@2
+Without considering uppercase letters, how many instances of "s" exist in "TVsTs"?@2
+Without considering uppercase letters, how many instances of "z" exist in "ZVzVVjzZV"?@2
+What is the count of "y" in "yYyyBYzz" when ignoring uppercase letters?@3
+Without considering uppercase letters, how many instances of "u" exist in "auuuewuG"?@4
+Without considering uppercase letters, how many instances of "s" exist in "OgUsgS"?@1
+Without considering uppercase letters, how many instances of "s" exist in "sSXSxBdsXSsLS"?@3
+Excluding uppercase letters, what is the total number of "u" characters in "xPuzuUz"?@2
+Counting only lowercase, how many "i" are present in "UIIeIIUiIi" without including uppercase letters?@2
+Without considering uppercase letters, how many instances of "l" exist in "VLlLlLLc"?@2
+Excluding uppercase letters, what is the total number of "r" characters in "rrrprPrrpPrrhr"?@9
+Without considering uppercase letters, how many instances of "s" exist in "SBSTsSBBTB"?@1
+What is the count of unique characters in "JkVl" when case is not considered?@4
+What is the total number of distinct letters in "NhCKTP", disregarding case?@6
+What is the count of unique characters in "lVxVIiFU" when case is not considered?@6
+In "MOIRNGPiJ", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "LlbZsmI", disregarding case?@6
+In "vnFZV", considering letters case-insensitively, how many are unique@4
+What is the total number of distinct letters in "aUlJ", disregarding case?@4
+What is the total number of distinct letters in "LhtTh", disregarding case?@3
+In "nBYo", considering letters case-insensitively, how many are unique@4
+What is the count of unique characters in "RgLPCDR" when case is not considered?@6
+In "UUvCCZz", considering letters case-insensitively, how many are unique@4
+In "VplExKadx", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "KKYDaLA", disregarding case?@5
+In "MLaDAbNja", considering letters case-insensitively, how many are unique@7
+What is the count of unique characters in "iGMjO" when case is not considered?@5
+In "GAzuNPWz", considering letters case-insensitively, how many are unique@7
+In "FJkIlnuoZ", considering letters case-insensitively, how many are unique@9
+What is the count of unique characters in "zjZkD" when case is not considered?@4
+What is the count of unique characters in "vXGOOP" when case is not considered?@5
+In "UaGPTxX", considering letters case-insensitively, how many are unique@6
+What is the total number of distinct letters in "oklo", disregarding case?@3
+What is the total number of distinct letters in "riInO", disregarding case?@4
+In "lDBEQRQ", considering letters case-insensitively, how many are unique@6
+What is the count of unique characters in "iOqjQpal" when case is not considered?@7
+In "iXwQK", considering letters case-insensitively, how many are unique@5
+What is the total number of distinct letters in "ZzDqRPcS", disregarding case?@7
+What is the count of unique characters in "yUxYdJm" when case is not considered?@6
+In "iOranZGe", considering letters case-insensitively, how many are unique@8
+What is the count of unique characters in "YpXxsPZBG" when case is not considered?@7
+What is the total number of distinct letters in "ULWcon", disregarding case?@6
+What is the count of unique characters in "QqxUHNxrU" when case is not considered?@6
+What is the count of unique characters in "lXPTjzNB" when case is not considered?@8
+In "sZhplY", considering letters case-insensitively, how many are unique@6
+In "gmMeXPU", considering letters case-insensitively, how many are unique@6
+What is the count of unique characters in "OEDFBr" when case is not considered?@6
+In "QoCCQi", considering letters case-insensitively, how many are unique@4
+In "eELkNreUG", considering letters case-insensitively, how many are unique@7
+What is the total number of distinct letters in "LHqa", disregarding case?@4
+What is the total number of distinct letters in "wJEtkfDhp", disregarding case?@9
+What is the count of unique characters in "mDqoro" when case is not considered?@5
+In "oaMZ", considering letters case-insensitively, how many are unique@4
+What is the count of unique characters in "cfHJWl" when case is not considered?@6
+What is the total number of distinct letters in "OoMoxF", disregarding case?@4
+In "ofsGXhiQ", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "aOkzC", disregarding case?@5
+What is the total number of distinct letters in "soTAFyyU", disregarding case?@7
+What is the total number of distinct letters in "sIDPfu", disregarding case?@6
+In "ndosvM", considering letters case-insensitively, how many are unique@6
+What is the count of unique characters in "ALiUZx" when case is not considered?@6
+What is the total number of distinct letters in "jVbs", disregarding case?@4
+What is the total number of distinct letters in "plRXXsVXp", disregarding case?@6
+What is the total number of distinct letters in "FjrEItq", disregarding case?@7
+What is the total number of distinct letters in "PtvGthGz", disregarding case?@6
+What is the total number of distinct letters in "vuEFX", disregarding case?@5
+What is the total number of distinct letters in "oJZl", disregarding case?@4
+What is the count of unique characters in "pyyi" when case is not considered?@3
+What is the count of unique characters in "MSfg" when case is not considered?@4
+What is the count of unique characters in "UKdI" when case is not considered?@4
+What is the count of unique characters in "uAID" when case is not considered?@4
+What is the total number of distinct letters in "ijSvUZthO", disregarding case?@9
+What is the count of unique characters in "SgvBqO" when case is not considered?@6
+What is the total number of distinct letters in "zuQjc", disregarding case?@5
+What is the count of unique characters in "WDmf" when case is not considered?@4
+What is the total number of distinct letters in "yyvU", disregarding case?@3
+In "fwwnSA", considering letters case-insensitively, how many are unique@5
+What is the count of unique characters in "dAwlN" when case is not considered?@5
+What is the total number of distinct letters in "IqaJLmdJT", disregarding case?@8
+In "jhucgXEnd", considering letters case-insensitively, how many are unique@9
+In "fgYCyR", considering letters case-insensitively, how many are unique@5
+What is the total number of distinct letters in "eGNh", disregarding case?@4
+What is the count of unique characters in "GYvbZAQ" when case is not considered?@7
+What is the count of unique characters in "NoQj" when case is not considered?@4
+In "IWHMP", considering letters case-insensitively, how many are unique@5
+What is the count of unique characters in "FqVSw" when case is not considered?@5
+What is the total number of distinct letters in "dnyAkKQE", disregarding case?@7
+What is the count of unique characters in "aqLZgBg" when case is not considered?@6
+What is the count of unique characters in "ooVcJWDZh" when case is not considered?@8
+What is the total number of distinct letters in "ikPn", disregarding case?@4
+What is the total number of distinct letters in "BMCcbDch", disregarding case?@5
+In "bvOMdWnQ", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "ilNPxG", disregarding case?@6
+What is the total number of distinct letters in "HwAzdPutz", disregarding case?@8
+What is the count of unique characters in "eypJELMI" when case is not considered?@7
+What is the count of unique characters in "eKpeMMk" when case is not considered?@4
+In "IHPEYa", considering letters case-insensitively, how many are unique@6
+In "rFlbzJ", considering letters case-insensitively, how many are unique@6
+In "wgHHpOLWi", considering letters case-insensitively, how many are unique@7
+What is the count of unique characters in "PXvPhJZ" when case is not considered?@6
+What is the total number of distinct letters in "nnjWrI", disregarding case?@5
+What is the total number of distinct letters in "ESraO", disregarding case?@5
+In "iTJZvbU", considering letters case-insensitively, how many are unique@7
+What is the count of unique characters in "KmAseYh" when case is not considered?@7
+What is the count of unique characters in "bABLyG" when case is not considered?@5
+In "LEHdbk", considering letters case-insensitively, how many are unique@6
+What is the total number of distinct letters in "qHCRO", disregarding case?@5
+In "nFiHs", considering letters case-insensitively, how many are unique@5
+What is the count of unique characters in "xzcP" when case is not considered?@4
+In "CCsgNq", considering letters case-insensitively, how many are unique@5
+In "avflab", considering letters case-insensitively, how many are unique@5
+In "MvnhBgRH", considering letters case-insensitively, how many are unique@7
+In "LnOzOiFTL", considering letters case-insensitively, how many are unique@7
+In "QnwA", considering letters case-insensitively, how many are unique@4
+In "sRsLZsuji", considering letters case-insensitively, how many are unique@7
+What is the count of unique characters in "obluhTBhq" when case is not considered?@7
+What is the total number of distinct letters in "TPhYdFx", disregarding case?@7
+What is the count of unique characters in "jKTfLhx" when case is not considered?@7
+What is the count of unique characters in "CCrAVcJc" when case is not considered?@5
+What is the count of unique characters in "dElW" when case is not considered?@4
+What is the total number of distinct letters in "mHDm", disregarding case?@3
+What is the count of unique characters in "FXonX" when case is not considered?@4
+What is the total number of distinct letters in "BHrC", disregarding case?@4
+In "kJWohdOb", considering letters case-insensitively, how many are unique@7
+What is the total number of distinct letters in "VOYHv", disregarding case?@4
+What is the count of unique characters in "DOfNNtfWX" when case is not considered?@7
+In "jUkSZBVT", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "OiMBZNjWK", disregarding case?@9
+What is the total number of distinct letters in "FQUyXgc", disregarding case?@7
+What is the count of unique characters in "NCzOFyDdI" when case is not considered?@8
+What is the total number of distinct letters in "WciSra", disregarding case?@6
+What is the total number of distinct letters in "fOgeB", disregarding case?@5
+What is the count of unique characters in "IGqtxxr" when case is not considered?@6
+What is the total number of distinct letters in "cPfqrS", disregarding case?@6
+In "nHliZF", considering letters case-insensitively, how many are unique@6
+What is the total number of distinct letters in "exxnYXEDN", disregarding case?@5
+In "HRcTSKg", considering letters case-insensitively, how many are unique@7
+In "coLo", considering letters case-insensitively, how many are unique@3
+What is the total number of distinct letters in "gkzHbT", disregarding case?@6
+What is the total number of distinct letters in "TcRunv", disregarding case?@6
+What is the count of unique characters in "OiFXrpq" when case is not considered?@7
+What is the count of unique characters in "ObabUbwV" when case is not considered?@6
+What is the count of unique characters in "OQRnWoXd" when case is not considered?@7
+What is the total number of distinct letters in "WurzFnHTj", disregarding case?@9
+What is the total number of distinct letters in "UONon", disregarding case?@3
+What is the count of unique characters in "nQdGgl" when case is not considered?@5
+What is the count of unique characters in "OEeQInB" when case is not considered?@6
+What is the count of unique characters in "HFgAwh" when case is not considered?@5
+In "pLJBVaCLT", considering letters case-insensitively, how many are unique@8
+What is the count of unique characters in "oBznsj" when case is not considered?@6
+What is the count of unique characters in "KuHl" when case is not considered?@4
+What is the count of unique characters in "wsiw" when case is not considered?@3
+In "WELKk", considering letters case-insensitively, how many are unique@4
+In "nutUfkFC", considering letters case-insensitively, how many are unique@6
+In "RlPwQL", considering letters case-insensitively, how many are unique@5
+In "fmRx", considering letters case-insensitively, how many are unique@4
+In "ExZep", considering letters case-insensitively, how many are unique@4
+In "AfjkkfgM", considering letters case-insensitively, how many are unique@6
+In "MBYt", considering letters case-insensitively, how many are unique@4
+What is the total number of distinct letters in "AQPPtPE", disregarding case?@5
+What is the total number of distinct letters in "DmoEass", disregarding case?@6
+What is the total number of distinct letters in "zVDmuAJyg", disregarding case?@9
+What is the total number of distinct letters in "ZCRZD", disregarding case?@4
+In "xRGd", considering letters case-insensitively, how many are unique@4
+What is the total number of distinct letters in "VTLzQg", disregarding case?@6
+In "cHbWeuT", considering letters case-insensitively, how many are unique@7
+What is the total number of distinct letters in "HYhvhQskn", disregarding case?@7
+What is the count of unique characters in "sRYHHR" when case is not considered?@4
+In "iMwemlxA", considering letters case-insensitively, how many are unique@7
+What is the total number of distinct letters in "UlQWx", disregarding case?@5
+In "GmJQKZEo", considering letters case-insensitively, how many are unique@8
+What is the count of unique characters in "ppAxe" when case is not considered?@4
+In "AgdVM", considering letters case-insensitively, how many are unique@5
+What is the total number of distinct letters in "ncUcKRaT", disregarding case?@7
+In "vKRdiV", considering letters case-insensitively, how many are unique@5
+What is the total number of distinct letters in "aXFkR", disregarding case?@5
+What is the total number of distinct letters in "pdaAk", disregarding case?@4
+What is the total number of distinct letters in "MPlPxiP", disregarding case?@5
+In "kgHx", considering letters case-insensitively, how many are unique@4
+What is the total number of distinct letters in "kTlrMYJ", disregarding case?@7
+In "LIWvl", considering letters case-insensitively, how many are unique@4
+What is the total number of distinct letters in "KTFSFh", disregarding case?@5
+What is the count of unique characters in "PRXezBXqu" when case is not considered?@8
+What is the count of unique characters in "FQwUxXb" when case is not considered?@6
+What is the total number of distinct letters in "fDbElQh", disregarding case?@7
+In "YmtNASi", considering letters case-insensitively, how many are unique@7
+What is the total number of distinct letters in "EOzziFnje", disregarding case?@7
+What is the count of unique characters in "wdBjVl" when case is not considered?@6
+In "MZxLvg", considering letters case-insensitively, how many are unique@6
+In "xwVMU", considering letters case-insensitively, how many are unique@5
+In "wdfvlT", considering letters case-insensitively, how many are unique@6
+In "MgWguTR", considering letters case-insensitively, how many are unique@6
+What is the count of unique characters in "qLWJxsIh" when case is not considered?@8
+What is the total number of distinct letters in "MAOMIJy", disregarding case?@6
+What is the total number of distinct letters in "dNzwJAXD", disregarding case?@7
+What is the total number of distinct letters in "TYZHFESj", disregarding case?@8
+What is the count of unique characters in "pCgEfsmRW" when case is not considered?@9
+In "OvhECDdI", considering letters case-insensitively, how many are unique@7
+What is the count of unique characters in "mTxGR" when case is not considered?@5
+What is the total number of distinct letters in "wrsOCnS", disregarding case?@6
+In "XBUfVstl", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "jMjV", disregarding case?@3
+What is the count of unique characters in "IXEwoS" when case is not considered?@6
+In "eWmIY", considering letters case-insensitively, how many are unique@5
+What is the total number of distinct letters in "ttXZM", disregarding case?@4
+What is the total number of distinct letters in "ztfda", disregarding case?@5
+What is the count of unique characters in "CXmWDvZYA" when case is not considered?@9
+In "EnDn", considering letters case-insensitively, how many are unique@3
+What is the count of unique characters in "igWafs" when case is not considered?@6
+What is the count of unique characters in "KEnx" when case is not considered?@4
+What is the count of unique characters in "bsQEUHS" when case is not considered?@6
+What is the count of unique characters in "dmXHVMAep" when case is not considered?@8
+What is the total number of distinct letters in "WjVVTyXGf", disregarding case?@8
+What is the count of unique characters in "hCfZB" when case is not considered?@5
+In "JaDmZsB", considering letters case-insensitively, how many are unique@7
+In "qjsjukte", considering letters case-insensitively, how many are unique@7
+In "vPeAB", considering letters case-insensitively, how many are unique@5
+In "MbcbIhnF", considering letters case-insensitively, how many are unique@7
+What is the total number of distinct letters in "lqLFBBZ", disregarding case?@5
+What is the total number of distinct letters in "QDDz", disregarding case?@3
+In "GOJwenid", considering letters case-insensitively, how many are unique@8
+What is the count of unique characters in "NzfBRcRP" when case is not considered?@7
+What is the count of unique characters in "yokfOtdtY" when case is not considered?@6
+In "paGEvQOz", considering letters case-insensitively, how many are unique@8
+What is the total number of distinct letters in "WQwCDVxs", disregarding case?@7
+What is the count of unique characters in "sjbNK" when case is not considered?@5
+In "ijTvGW", considering letters case-insensitively, how many are unique@6
+In "iodENz", considering letters case-insensitively, how many are unique@6
+What is the count of unique characters in "rMqJ" when case is not considered?@4
+What is the count of unique characters in "CJlqNzF" when case is not considered?@7
+What is the count of unique characters in "IItAcA" when case is not considered?@4
+What is the total number of distinct letters in "FNYh", disregarding case?@4
+In the "IQPWVhmvI", how many letters are vowels?@2
+In the "HOIRoiZkR", how many letters are vowels?@4
+In the "pAbxCl", how many letters are vowels?@1
+What is the count of vowels present in the "avlAuobw"@4
+What is the count of vowels present in the "amXKZ"@1
+What is the count of vowels present in the "alTz"@1
+How many vowels can be found in the "eroAKvd"@3
+In the "IAKZbkgCh", how many letters are vowels?@2
+How many vowels can be found in the "KiFO"@2
+What is the count of vowels present in the "ZoGlwfL"@1
+How many vowels can be found in the "zeOPB"@2
+How many vowels can be found in the "ovTbwozb"@2
+In the "NfCi", how many letters are vowels?@1
+How many vowels can be found in the "nXOOq"@2
+What is the count of vowels present in the "IGtOLXPLV"@2
+How many vowels can be found in the "ouHoJ"@3
+What is the count of vowels present in the "ORxKjpqKd"@1
+What is the count of vowels present in the "FUBaC"@2
+What is the count of vowels present in the "YhXjmKwi"@1
+In the "DKPOqvt", how many letters are vowels?@1
+In the "ojExPf", how many letters are vowels?@2
+In the "HOmj", how many letters are vowels?@1
+What is the count of vowels present in the "EUnrCym"@2
+What is the count of vowels present in the "mGaFYauHR"@3
+What is the count of vowels present in the "OiuQvA"@4
+How many vowels can be found in the "eClm"@1
+How many vowels can be found in the "qRwZQObE"@2
+How many vowels can be found in the "BmjDEQ"@1
+How many vowels can be found in the "fmIU"@2
+In the "qKUFfY", how many letters are vowels?@1
+In the "crOkL", how many letters are vowels?@1
+How many vowels can be found in the "opJyqab"@2
+How many vowels can be found in the "sIMXDXKA"@2
+How many vowels can be found in the "LPAI"@2
+How many vowels can be found in the "UjlYP"@1
+In the "BgSEzv", how many letters are vowels?@1
+In the "ikijgCGpJ", how many letters are vowels?@2
+In the "hjUFds", how many letters are vowels?@1
+How many vowels can be found in the "JHav"@1
+In the "YuRwwsU", how many letters are vowels?@2
+In the "iCtCJWMq", how many letters are vowels?@1
+How many vowels can be found in the "DlUsJ"@1
+What is the count of vowels present in the "qySjAKaBy"@2
+How many vowels can be found in the "AyoILgzbW"@3
+In the "UhTII", how many letters are vowels?@3
+How many vowels can be found in the "ftNIeS"@2
+How many vowels can be found in the "AoJkKRI"@3
+What is the count of vowels present in the "lOzmJnXh"@1
+How many vowels can be found in the "qODcAPDw"@2
+What is the count of vowels present in the "kGxDu"@1
+What is the count of vowels present in the "LLerYJl"@1
+In the "hkijXCIN", how many letters are vowels?@2
+How many vowels can be found in the "VxPHwinB"@1
+How many vowels can be found in the "zBynu"@1
+In the "buxDYL", how many letters are vowels?@1
+How many vowels can be found in the "eWtFHIxl"@2
+What is the count of vowels present in the "tazES"@2
+How many vowels can be found in the "slvdOcSP"@1
+How many vowels can be found in the "RbivZGTuv"@2
+What is the count of vowels present in the "SWGAPeTfL"@2
+How many vowels can be found in the "tlQOjco"@2
+In the "KTOIP", how many letters are vowels?@2
+How many vowels can be found in the "UonUgbr"@3
+How many vowels can be found in the "rYAgi"@2
+What is the count of vowels present in the "TUvd"@1
+In the "accKR", how many letters are vowels?@1
+In the "yrvgFI", how many letters are vowels?@1
+In the "iovwMQN", how many letters are vowels?@2
+In the "oiiFdwT", how many letters are vowels?@3
+How many vowels can be found in the "UPwLG"@1
+What is the count of vowels present in the "PhuC"@1
+In the "BrDA", how many letters are vowels?@1
+What is the count of vowels present in the "mEuycIfH"@3
+In the "MVfbnTTek", how many letters are vowels?@1
+What is the count of vowels present in the "GLXram"@1
+In the "EmLv", how many letters are vowels?@1
+What is the count of vowels present in the "ajmtsltz"@1
+In the "EDmrWE", how many letters are vowels?@2
+What is the count of vowels present in the "LPkgAMeK"@2
+How many vowels can be found in the "flmmuiCoH"@3
+What is the count of vowels present in the "UDYkQMWm"@1
+In the "asOTWSAY", how many letters are vowels?@3
+In the "WuloA", how many letters are vowels?@3
+In the "TqiZCpJpw", how many letters are vowels?@1
+In the "MuvL", how many letters are vowels?@1
+In the "ibqvIulRl", how many letters are vowels?@3
+In the "foaPsa", how many letters are vowels?@3
+How many vowels can be found in the "ubChbxo"@2
+How many vowels can be found in the "fLiUUKv"@3
+In the "dXzAdUC", how many letters are vowels?@2
+How many vowels can be found in the "UeyYsMi"@3
+In the "AAKUCWV", how many letters are vowels?@3
+How many vowels can be found in the "CrNjreq"@1
+How many vowels can be found in the "kARKYoJ"@2
+How many vowels can be found in the "rUEJx"@2
+What is the count of vowels present in the "oTeuhdSX"@3
+How many vowels can be found in the "enwFhlrfs"@1
+What is the count of vowels present in the "NqRXoUAK"@3
+In the "KGeUbjhCS", how many letters are vowels?@2
+In the "CGAht", how many letters are vowels?@1
+In the "NecjKDhEd", how many letters are vowels?@2
+How many vowels can be found in the "eoCrP"@2
+How many vowels can be found in the "XqFeJ"@1
+How many vowels can be found in the "qeXYoR"@2
+In the "ffftmlE", how many letters are vowels?@1
+In the "LTeOnkHq", how many letters are vowels?@2
+In the "lmNFke", how many letters are vowels?@1
+In the "eyAiIUasW", how many letters are vowels?@6
+How many vowels can be found in the "scexTUCSn"@2
+In the "ocpXhGd", how many letters are vowels?@1
+In the "DdAbzfu", how many letters are vowels?@2
+What is the count of vowels present in the "qIMzkj"@1
+What is the count of vowels present in the "TieUI"@4
+In the "gKEuaOOC", how many letters are vowels?@5
+How many vowels can be found in the "DnRQalAsL"@2
+How many vowels can be found in the "xOfd"@1
+How many vowels can be found in the "TEuuaBf"@4
+In the "LOsim", how many letters are vowels?@2
+What is the count of vowels present in the "PCsHaUsA"@3
+How many vowels can be found in the "qlauF"@2
+How many vowels can be found in the "LUASpzX"@2
+In the "EONG", how many letters are vowels?@2
+In the "qAom", how many letters are vowels?@2
+What is the count of vowels present in the "WUAgZ"@2
+In the "uYor", how many letters are vowels?@2
+How many vowels can be found in the "ZbfUoO"@3
+In the "MVluuMovl", how many letters are vowels?@3
+How many vowels can be found in the "KCukjOo"@3
+In the "EfwdL", how many letters are vowels?@1
+In the "miJAjU", how many letters are vowels?@3
+What is the count of vowels present in the "MtxVUonj"@2
+What is the count of vowels present in the "vMqTnulPB"@1
+What is the count of vowels present in the "wzixHUz"@2
+How many vowels can be found in the "hWMCCZOr"@1
+How many vowels can be found in the "gpijTerI"@3
+What is the count of vowels present in the "fmPZE"@1
+In the "IIFBjwi", how many letters are vowels?@3
+How many vowels can be found in the "qTUpIm"@2
+In the "KkWticX", how many letters are vowels?@1
+In the "DzueLA", how many letters are vowels?@3
+How many vowels can be found in the "OMxAutYTs"@3
+How many vowels can be found in the "mdEWQXD"@1
+How many vowels can be found in the "UHoiln"@3
+How many vowels can be found in the "XKFwKAlB"@1
+What is the count of vowels present in the "IhfEgsC"@2
+What is the count of vowels present in the "OvqTU"@2
+In the "qvuQKKH", how many letters are vowels?@1
+What is the count of vowels present in the "qOCZ"@1
+In the "HuSEsT", how many letters are vowels?@2
+What is the count of vowels present in the "MJDrou"@2
+What is the count of vowels present in the "qWqlVPcse"@1
+In the "oYSXmy", how many letters are vowels?@1
+In the "MandiDa", how many letters are vowels?@3
+In the "utXQvBqP", how many letters are vowels?@1
+What is the count of vowels present in the "UwkUsp"@2
+In the "CBrZa", how many letters are vowels?@1
+How many vowels can be found in the "lJmiK"@1
+In the "gBBExbT", how many letters are vowels?@1
+What is the count of vowels present in the "wFAh"@1
+How many vowels can be found in the "UphTA"@2
+How many vowels can be found in the "lAAfT"@2
+How many vowels can be found in the "zrLFo"@1
+How many vowels can be found in the "CEnSaAX"@3
+What is the count of vowels present in the "iAWRnrso"@3
+What is the count of vowels present in the "vZGma"@1
+What is the count of vowels present in the "izIkEl"@3
+How many vowels can be found in the "iMrvzSHOn"@2
+What is the count of vowels present in the "eIEYkCH"@3
+How many vowels can be found in the "zTRIv"@1
+How many vowels can be found in the "lOjELU"@3
+In the "rpit", how many letters are vowels?@1
+What is the count of vowels present in the "iIQun"@3
+How many vowels can be found in the "ncbiNEA"@3
+How many vowels can be found in the "gKvUaODw"@3
+In the "owhQ", how many letters are vowels?@1
+How many vowels can be found in the "chfEsFUeG"@3
+How many vowels can be found in the "PGuPQav"@2
+What is the count of vowels present in the "ayikhEDo"@4
+How many vowels can be found in the "TIOgu"@3
+How many vowels can be found in the "iMRozpA"@3
+In the "sdbIuSIO", how many letters are vowels?@4
+In the "rDxUxOv", how many letters are vowels?@2
+What is the count of vowels present in the "HSbukaOa"@4
+What is the count of vowels present in the "Eegn"@2
+How many vowels can be found in the "zMFipu"@2
+What is the count of vowels present in the "mxAXwsEOa"@4
+What is the count of vowels present in the "WDWoOiz"@3
+What is the count of vowels present in the "IttE"@2
+In the "UAvdFyxfk", how many letters are vowels?@2
+What is the count of vowels present in the "abaU"@3
+How many vowels can be found in the "OBoGjIVG"@3
+What is the count of vowels present in the "JFqicNQX"@1
+How many vowels can be found in the "DaXFCoUb"@3
+How many vowels can be found in the "GdVFE"@1
+What is the count of vowels present in the "yISrUXZD"@2
+How many vowels can be found in the "mDgNcA"@1
+How many vowels can be found in the "cGLO"@1
+What is the count of vowels present in the "IEeri"@4
+In the "uTmPfNG", how many letters are vowels?@1
+How many vowels can be found in the "zPqaHOn"@2
+How many vowels can be found in the "mjzercBu"@2
+What is the count of vowels present in the "UbezWtiO"@4
+In the "fBaDCDh", how many letters are vowels?@1
+What is the count of vowels present in the "kxiUuw"@3
+How many vowels can be found in the "akAE"@3
+In the "rUkO", how many letters are vowels?@2
+How many vowels can be found in the "pruIhSyvk"@2
+How many vowels can be found in the "yzCMrU"@1
+What is the count of vowels present in the "OIDTXr"@2
+How many vowels can be found in the "eBxHvyE"@2
+In the "vrYfuWFG", how many letters are vowels?@1
+How many vowels can be found in the "NCdcramr"@1
+How many vowels can be found in the "qlIo"@2
+What is the count of vowels present in the "xsaezi"@3
+How many vowels can be found in the "YFiPEiOzI"@5
+In the "NamAiu", how many letters are vowels?@4
+How many vowels can be found in the "HWoGF"@1
+How many vowels can be found in the "goYMFyI"@2
+How many vowels can be found in the "thMeR"@1
+How many vowels can be found in the "PTaOXDa"@3
