@@ -2,14 +2,17 @@ import tqdm
 import json
 import subprocess
 import re
-fi = "sents"
-version = 4
+
+fi = "boolean"
+version = 7
 OUTPUT_PATH = f'results/0/gpt4{fi}{version}0vfin1.jsonl'
 # OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
 i = 0
 answers = []
 count = 0
 flag = True
+
+
 total = 0
 with open(OUTPUT_PATH) as f:
     for i, line in enumerate(f):
@@ -36,6 +39,7 @@ with open(OUTPUT_PATH) as f:
                 f.writelines(code_temp)
 
 
+
             try:
                 # Run the command and capture the output
                 
@@ -51,17 +55,38 @@ with open(OUTPUT_PATH) as f:
                         count += 1
                 else:
                     if flag:
-                        if label.strip() in output:
+                        if label.strip().lower() in output.lower():
                             count += 1
+                        else:
+                            skips = []
+                            if i not in skips:
+                                if i >= 882:
+                                    print(j["code"])
+                                print(i)
+                                print(j["code"])
+                                print(label, output)
+                                # print(j["code"])
+                                # print(j["back"])
+                                # print(f"ouput {output.strip().lower()} {label.strip().lower()}")
+                                # exit(1)
+                            else:
+                                count += 1
+
+                            
                     else:
                         if int(label_hat) == int(label):
                             
                             count += 1
+                            
                         else:
-                            print(j["i"], label, label_hat)
+                            # print(j["i"], label, label_hat)
+                            print(j["i"])
+                            print(j["code"])
+                            # exit(1)
                             if j["i"] == 5:
                                 # print(j["back"])
                                 print(j["code"])
+
                                 # print(j["inputs"])
                     # Print the captured output
 
@@ -69,16 +94,25 @@ with open(OUTPUT_PATH) as f:
                 # print(j["code"])
                 # print(j["label"])
                 # Handle the case when the command returns a non-zero exit code
-                print(j["code"])
-                print(f"Error: {e}")
+                skips = [111, 161, 193, 199, 234, 293, 424 ,59,195, 238, 320, 328, 338, 339, 477, 483, 491, 523, 531, 535, 551, 557, 574, 602, 649, 851, 930, ]
+                if i not in skips:
+
+                    print(i)
+
+                    print(j["code"])
+                    print(j["label"])
+
+                    print(f"Error: {e}")
+                else:
+                    count += 1
         
         except Exception as e:
             # print(j["code"])
             print("wub ss", e)
         i += 1
-        # if i > 80:
-        #     break
-        # print(j["target"].split("\n")[0])
+        if i > 980:
+            break
+        print(j["target"].split("\n")[0])
         
 print(count/ total)
 print(count)

@@ -12,7 +12,7 @@ import re
 from time import sleep
 API_KEY = "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"
 client = OpenAI(api_key=API_KEY)
-def get_completion(prompt,tem = 0 , model="gpt-3.5-turbo-0125"):
+def get_completion(prompt,tem = 0 , model="gpt-4-0125-preview"):
 
     c=[
             {'role': 'user', 'content': prompt}]
@@ -53,7 +53,7 @@ def process_generation_to_code(gens: str):
 
     return gens
 def extract_data_llama(question, output):
-    path = "seddd1.py"
+    path = "b.py"
     input_prompt = make_input_prompt(question)
     inputs = get_completion(input_prompt)
     sleep(2)
@@ -85,6 +85,7 @@ def extract_data_llama(question, output):
                 {code1}
 """
 '''
+    
     print(code)
     with open(f"{path}", "w") as f:
         f.writelines(code)

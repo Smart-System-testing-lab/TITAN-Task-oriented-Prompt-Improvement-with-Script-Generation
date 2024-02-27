@@ -12,5 +12,6 @@ gsm.py
 4.py
 5.py
 *.jsonl
+!PAL/results/0/gpt*pengu*
 *.csv
 *.json
