@@ -1,47 +1,37 @@
 def solution():
-    # First Input
-    hidden_lagoon = "Hidden Lagoon"
-    # Second Input
-    lagoon = "Lagoon"
+    # Step 1: Known quantity
+    seattle_sheep = 20
     
-    # Check for space in "Hidden Lagoon"
-    if " " in hidden_lagoon:
-        hidden_lagoon_result = "1"
-    else:
-        hidden_lagoon_result = "0"
+    # Step 2: Calculate the number of sheep in Charleston
+    charleston_sheep = seattle_sheep * 4
     
-    # Check for space in "Lagoon"
-    if " " in lagoon:
-        lagoon_result = "1"
-    else:
-        lagoon_result = "0"
+    # Step 3: Calculate the number of sheep in Toulouse
+    toulouse_sheep = charleston_sheep * 2
     
-    # Print the result for "Lagoon"
-    print(f"target : {lagoon_result}")
+    # Step 4: Calculate the total number of sheep
+    total_sheep = seattle_sheep + charleston_sheep + toulouse_sheep
+    
+    # Print the result
+    print(f"target: {total_sheep}")
 
 
 """
                 ```python
 def solution():
-    # First Input
-    hidden_lagoon = "Hidden Lagoon"
-    # Second Input
-    lagoon = "Lagoon"
+    # Step 1: Known quantity
+    seattle_sheep = 20
     
-    # Check for space in "Hidden Lagoon"
-    if " " in hidden_lagoon:
-        hidden_lagoon_result = "1"
-    else:
-        hidden_lagoon_result = "0"
+    # Step 2: Calculate the number of sheep in Charleston
+    charleston_sheep = seattle_sheep * 4
     
-    # Check for space in "Lagoon"
-    if " " in lagoon:
-        lagoon_result = "1"
-    else:
-        lagoon_result = "0"
+    # Step 3: Calculate the number of sheep in Toulouse
+    toulouse_sheep = charleston_sheep * 2
     
-    # Print the result for "Lagoon"
-    print(f"target : {lagoon_result}")
+    # Step 4: Calculate the total number of sheep
+    total_sheep = seattle_sheep + charleston_sheep + toulouse_sheep
+    
+    # Print the result
+    print(f"target: {total_sheep}")
 
 solution()
 ```

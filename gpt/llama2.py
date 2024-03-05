@@ -59,7 +59,7 @@ def process_generation_to_code(gens: str):
 
     return gens
 def extract_data_llama(question, output):
-    path = "b.py"
+    path = "e.py"
     input_prompt = make_input_prompt(question)
     inputs = get_completion_llama(input_prompt)
     sleep(2)

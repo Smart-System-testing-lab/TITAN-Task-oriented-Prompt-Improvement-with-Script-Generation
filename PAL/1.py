@@ -1,22 +1,30 @@
 def solution():
-    words = ["KRHmnitaa", "itaaVOEre", "StiSl"]
-    substring = "itaa"
+    # Given inputs
+    words = ["IcYuiiurr", "ajoqd", "mxWuiiuPZ"]
+    sequence = "uiiu"
+
+    # Iterate through each word to check for the sequence
     for word in words:
-        if substring not in word:
+        if sequence not in word:
             result = f"target : {word}"
             break
+
     print(result)
 
 
 """
                 ```python
 def solution():
-    words = ['KRHmnitaa', 'itaaVOEre', 'StiSl']
-    substring = "itaa"
+    # Given inputs
+    words = ['IcYuiiurr', 'ajoqd', 'mxWuiiuPZ']
+    sequence = "uiiu"
+    
+    # Iterate through each word to check for the sequence
     for word in words:
-        if substring not in word:
+        if sequence not in word:
             result = f"target : {word}"
             break
+    
     print(result)
 
 solution()

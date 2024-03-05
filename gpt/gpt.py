@@ -54,8 +54,8 @@ def process_generation_to_code(gens: str):
     return gens
 def extract_data_llama(question, output):
     path = "b.py"
-    input_prompt = make_input_prompt(question)
-    inputs = get_completion(input_prompt)
+    # input_prompt = make_input_prompt(question)
+    # inputs = get_completion(input_prompt)
     sleep(2)
     p = make_cot_prompt(question)
 
@@ -63,7 +63,7 @@ def extract_data_llama(question, output):
     p = get_completion(p)
 
     sleep(2)
-    code1 = get_completion(make_code_prompt(p, question, inputs, output))
+    code1 = get_completion(make_code_prompt_betta(p, question, output))
     sleep(2)
     code = process_generation_to_code(code1)
     print("Code generation is done ")
@@ -98,6 +98,7 @@ def extract_data_llama(question, output):
         output = subprocess.check_output(f"python3 {path}", shell=True, encoding='utf-8')
         # print(output)
         # Print the captured output
+        inputs = None
         return output, code, p, inputs
 
     except Exception as e:

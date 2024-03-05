@@ -3,26 +3,30 @@ import json
 import subprocess
 import re
 
-fi = "boolean"
-version = 7
+fi = "gsm"
+version = "noinputs"
 OUTPUT_PATH = f'results/0/gpt4{fi}{version}0vfin1.jsonl'
 # OUTPUT_PATH = "results/llama2date_understanding40vfin1.jsonl"
 i = 0
 answers = []
 count = 0
-flag = True
+flag = False
 
 
 total = 0
 with open(OUTPUT_PATH) as f:
     for i, line in enumerate(f):
         j = json.loads(line)
+
         label = j["label"]
         code = j["code"]
         target = j["target"]
         total += 1
-        if i == 685:
-            continue
+        if j["i"] == 505:
+            print(j["code"])
+            print(i)
+  
+
         try:
             # pattern = re.compile(r"\"\"\"")
             # matches = list(pattern.finditer(code))[0]
@@ -44,7 +48,7 @@ with open(OUTPUT_PATH) as f:
                 # Run the command and capture the output
                 
                 output = subprocess.check_output("python3 3.py", shell=True, encoding='utf-8')
-                # label_hat = re.findall(r'\d+', output)[0]
+                label_hat = re.findall(r'-?\d+', output)[0]
                 if False:
                     for d in j["target_scores"].keys():
                         if j["target_scores"][d] == 1:
@@ -63,8 +67,8 @@ with open(OUTPUT_PATH) as f:
                                 if i >= 882:
                                     print(j["code"])
                                 print(i)
-                                print(j["code"])
-                                print(label, output)
+                                # print(j["code"])
+                                # print(label, output)
                                 # print(j["code"])
                                 # print(j["back"])
                                 # print(f"ouput {output.strip().lower()} {label.strip().lower()}")
@@ -79,9 +83,8 @@ with open(OUTPUT_PATH) as f:
                             count += 1
                             
                         else:
-                            # print(j["i"], label, label_hat)
-                            print(j["i"])
-                            print(j["code"])
+                            print(j["i"], label, label_hat)
+                            # print(j["code"])
                             # exit(1)
                             if j["i"] == 5:
                                 # print(j["back"])
@@ -97,8 +100,8 @@ with open(OUTPUT_PATH) as f:
                 skips = [111, 161, 193, 199, 234, 293, 424 ,59,195, 238, 320, 328, 338, 339, 477, 483, 491, 523, 531, 535, 551, 557, 574, 602, 649, 851, 930, ]
                 if i not in skips:
 
-                    print(i)
-
+                    # print(i)
+                    pass
                     print(j["code"])
                     print(j["label"])
 
@@ -107,7 +110,7 @@ with open(OUTPUT_PATH) as f:
                     count += 1
         
         except Exception as e:
-            # print(j["code"])
+            print(j["code"])
             print("wub ss", e)
         i += 1
         if i > 980:

@@ -3,13 +3,53 @@ def make_code_prompt(p, question, inputs, output):
 
 
     SINGLE_PROMPT = f'''
-            Generate a general runnable python function to solve the following question for general purpose : <<{question}>>.
-            step by step, go thorough the question and try to calculate ultimate goal by generating the code. this is an example to show you how to think about it and how to break it to smaller steps: "{p}".
-            You do not need to follow exactly the above example but it can help you. for each part, you should write the code not calcualte manually.
-            for the inputs, use "{inputs}". At the end of the program, you should print output like this format : "target : {output}".
-            Just return the runnable code without any runtime error in following format without any other explanation. after writing code, 
-             revise it and make sure your code is runnable. Do not ask user to enter ouput and just 
-            use the information that are provided. revise your code again to not have any runtime or compile error.
+            Generate a general runnable Python function to solve the following question for general purpose: <<{question}>>.
+            Step by step, go through the question and try to calculate the ultimate goal by generating the code. This is an example to show you how to think about it and how to break it into smaller steps: "{p}".
+            You do not need to follow exactly the above example but it can help you. For each part, you should write the code not calculate manually.
+            For the inputs, use "{inputs}". At the end of the program, you should print output like this format: "target: {output}".
+            Just return the runnable code without any runtime error in the following format without any other explanation. After writing code, 
+             revise it and make sure your code is runnable. Do not ask the user to enter output and just 
+            use the information that is provided. Revise your code again so as not to have any runtime or compile errors.
+            ```python
+            def solution():
+                # Your code here
+                print(result)
+            ```
+        '''
+
+    return SINGLE_PROMPT
+
+
+
+def make_code_prompt_betta2( question, inputs, output):
+
+
+    SINGLE_PROMPT = f'''
+            Generate a general runnable Python function to solve the following question for general purpose: <<{question}>>.
+            Step by step, go through the question and try to calculate the ultimate goal by generating the code. 
+            For the inputs, use "{inputs}". At the end of the program, you should print output like this format: "target: {output}".
+            Just return the runnable code without any runtime error in the following format without any other explanation. After writing code, 
+             revise it and make sure your code is runnable. Do not ask the user to enter output and just 
+            use the information that is provided. Revise your code again so as not to have any runtime or compile errors.
+            ```python
+            def solution():
+                # Your code here
+                print(result)
+            ```
+        '''
+
+    return SINGLE_PROMPT
+
+def make_code_prompt_betta(p, question, output):
+
+
+    SINGLE_PROMPT = f'''
+            Generate a general runnable Python function to solve the following question for general purpose: <<{question}>>.
+            This is an example to show you how to think about it and how to break it into smaller steps: "{p}".
+            You do not need to follow exactly the above example but it can help you. 
+            At the end of the program, you should print output like this format: "target: {output}" and named the program "solution()".
+            Just return the runnable code in the following format without any other explanation. 
+            Do not ask the user to enter inputs and just use the information that is provided. 
             ```python
             def solution():
                 # Your code here

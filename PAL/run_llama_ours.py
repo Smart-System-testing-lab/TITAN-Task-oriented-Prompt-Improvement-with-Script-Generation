@@ -3,7 +3,7 @@ import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
-from gpt.gpt import extract_data_llama
+from gpt.llama2 import extract_data_llama
 from prompts import *
 from make_python_beta import extract_data
 from counting.view import view
@@ -17,7 +17,7 @@ def save_dict_to_jsonl(file_path, data_dict):
     with open(file_path, 'a+' if file_exists else 'w') as file:
         # Write the dictionary as a JSON string followed by a newline character
         file.write(json.dumps(data_dict) + '\n')
-
+# put " " for letters
 def pal_example(path, tempreture):
     with open(path) as f:
         lines = f.read().split('\n')
@@ -31,15 +31,15 @@ def pal_example(path, tempreture):
     labels = []
     is_oks = []
     question_list = []
-    version = "noinputs"
+    version = 5
     template = ""
-    path1 = f'results/{int(tempreture*10)}/gpt4{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
+    path1 = f'results/{int(tempreture*10)}/llama2{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
     print("Started Reading JSON file which contains multiple JSON document")
     with open(path) as f:
-        for jsonObj in f:
-            question_json = json.loads(jsonObj)
-            question_list.append(question_json)
-        # question_list = f.readlines()
+        # for jsonObj in f:
+        #     question_json = json.loads(jsonObj)
+        #     question_list.append(question_json)
+        question_list = f.readlines()
     while i < 990: 
         print(i)
         data = question_list[i]
@@ -48,8 +48,10 @@ def pal_example(path, tempreture):
         # answer = data["target"]
         # pr = q
         print(data)
-        pr = data["input"]
-        answer = data["target"]
+        d = data.split("@")
+        pr = d[0]
+        # pr += "\nreturn '0' if there is no difference and '1' if there is difference. for example if assume 'i' is equal to 'w', and the inputs are 'width' and 'iwdth', you should return '0'.\n"
+        answer = d[1]
         try:
             result4, code, back, inputs = extract_data_llama(pr, answer)
         except Exception as e:
@@ -73,8 +75,7 @@ def pal_example(path, tempreture):
         print(f"{i} is done")
 
         i += 1
-        # if i == 600 :
-        #     break
+
     # dict = {
     #     "labels": labels,
     #     "gpt_script": results4
@@ -83,4 +84,4 @@ def pal_example(path, tempreture):
     # with open(f'results/{int(tempreture*10)}/llama{path.split("/")[-1].split(".")[0]}{int(tempreture*10)}21.json', 'w') as fp:
     #     json.dump(dict, fp)
 # pal_example("dataset/gsmhardv2.jsonl", 0)
-pal_example("dataset/gsm.jsonl", 0)
+pal_example("../counting.txt", 0)

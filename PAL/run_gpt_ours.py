@@ -31,7 +31,7 @@ def pal_example(path, tempreture):
     labels = []
     is_oks = []
     question_list = []
-    version = 7
+    version = "noinputs"
     template = ""
     path1 = f'results/{int(tempreture*10)}/gpt4{path.split("/")[-1].split(".")[0]}{version}{int(tempreture*10)}vfin1.jsonl'
     print("Started Reading JSON file which contains multiple JSON document")
